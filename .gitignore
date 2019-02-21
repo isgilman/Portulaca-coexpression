@@ -1,0 +1,2 @@
+# don't track .numbers files
+"*.numbers"
