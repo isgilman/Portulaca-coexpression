@@ -1,0 +1,626 @@
+transcript,Pamilis-ortholog,Gene-family,Block-description,Pathway,qval,WGCNA_ww,WGCNA_d,Label,Orthogroup,Localization,Arabidopsis-ortholog
+TRINITY_DN103395_c0_g1,FUN_048323,ADK,Adenylate kinase 2,PEP generation,0.0155524490423033,2.0,3.0,ADK2-1,OG0011322,chloroplast,AT5G47840
+TRINITY_DN1529_c0_g1,FUN_046898,ADK,Adenylate kinase 3,PEP generation,0.00177498790487659,12.0,3.0,ADK3-1,OG0002519,chloroplast,"AT5G50370, AT5G63400"
+TRINITY_DN1795_c0_g4,FUN_048323,ADK,Adenylate kinase 2,PEP generation,0.0458699839137279,2.0,3.0,ADK2-1,OG0011322,chloroplast,AT5G47840
+TRINITY_DN18870_c0_g1,FUN_011473,ADK,Adenylate kinase 3,PEP generation,1.77965861517424e-07,1.0,6.0,ADK3-2,OG0002519,chloroplast,"AT5G50370, AT5G63400"
+TRINITY_DN954_c0_g1,FUN_026031,ADK,Adenylate kinase 5,PEP generation,5.351086691958929e-05,5.0,4.0,ADK5-1,OG0006840,chloroplast,AT5G35170
+TRINITY_DN2525_c0_g1,FUN_032432,ADO/ZTL,Adagio/Zeilupe 3,Circadian/Light response,0.7452527103931321,8.0,5.0,ADO3-2,OG0047867,,AT1G68050
+TRINITY_DN3633_c0_g1,FUN_013066,ADO/ZTL,Adagio/Zeilupe 1,Circadian/Light response,0.941704725822856,4.0,5.0,ADO1-1,OG0005172,,"AT2G18915,AT5G57360"
+TRINITY_DN6843_c1_g1,FUN_023069,ADO/ZTL,Adagio/Zeilupe 3,Circadian/Light response,0.947859518229255,8.0,5.0,ADO3-1,OG0012906,,AT1G68050
+TRINITY_DN3579_c0_g1,FUN_003986,AGT,Serine-glyoxylate aminotransferase 3,Photorespiration,0.000182424628895097,4.0,4.0,AGT3-1,OG0004725,mitochondria,"AT2G38400, AT3G08860"
+TRINITY_DN6907_c0_g1,FUN_052681,AGT,Serine-glyoxylate aminotransferase 1,Photorespiration,0.25062270975421697,5.0,2.0,AGT1-2,OG0007600,peroxisome,AT2G13360
+TRINITY_DN43865_c0_g1,,ALAAT,Alanine aminotransferase 2,Aminotransferase,5.9828218565501e-06,5.0,0.0,,,,
+TRINITY_DN43865_c0_g2,,ALAAT,Alanine aminotransferase 2,Aminotransferase,0.00166503981766441,2.0,2.0,,,,
+TRINITY_DN57339_c0_g2,,ALAAT,Alanine aminotransferase 2,Aminotransferase,,5.0,,,,,
+TRINITY_DN81553_c0_g1,,ALAAT,Alanine aminotransferase 2,Aminotransferase,0.0236370795527251,2.0,1.0,,,,
+TRINITY_DN81553_c0_g3,,ALAAT,Alanine aminotransferase 2,Aminotransferase,,,,,,,
+TRINITY_DN8707_c0_g1,FUN_024067,ALAAT,Alanine aminotransferase 1,Aminotransferase,2.1874072455816696e-15,5.0,0.0,ALAAT1-1,OG0001752,cytoplasm,"AT1G17290,AT1G72330"
+TRINITY_DN931_c0_g1,FUN_050177,ALAAT,Alanine aminotransferase 1,Aminotransferase,2.23498201393138e-09,7.0,2.0,ALAAT1-2,OG0001752,cytoplasm,"AT1G17290,AT1G72330"
+TRINITY_DN119763_c0_g1,FUN_048205,ALMT,Aluminum-activated malate transporter 10,Metabolite transport,,,,ALMT10-2,OG0000358,vacuole,AT4G00910
+TRINITY_DN149259_c0_g1,FUN_010507,ALMT,Aluminum-activated malate transporter 3,Metabolite transport,,0.0,2.0,ALMT3-1,OG0001129,vacuole,"AT1G25480,AT1G68600,AT1G18420,AT3G18440,AT2G17470"
+TRINITY_DN18859_c0_g1,FUN_048884,ALMT,Aluminum-activated malate transporter 1,Metabolite transport,7.49775584292323e-08,2.0,4.0,ALMT1-5,OG0000358,vacuole,"AT1G08430,AT4G00910,AT3G11680,AT1G08440,AT2G27240"
+TRINITY_DN2331_c0_g1,FUN_033599,ALMT,Aluminum-activated malate transporter 4,Metabolite transport,4.99141243218278e-11,4.0,4.0,ALMT4-2,OG0001129,vacuole,"AT1G25480,AT1G68600,AT1G18420,AT3G18440,AT2G17470"
+TRINITY_DN28660_c0_g1,FUN_048869,ALMT,Aluminum-activated malate transporter 1,Metabolite transport,,,4.0,ALMT1-3,OG0000358,vacuole,"AT1G08430,AT1G08440,AT2G27240"
+TRINITY_DN3408_c0_g1,FUN_046866,ALMT,Aluminum-activated malate transporter 3,Metabolite transport,0.0244789939094492,1.0,7.0,ALMT3-2,OG0001129,vacuole,"AT1G25480,AT1G68600,AT1G18420,AT3G18440,AT2G17470"
+TRINITY_DN70820_c0_g1,FUN_020070,ALMT,Aluminum-activated malate transporter 1,Metabolite transport,,,,ALMT1-2,OG0000358,vacuole,"AT1G08430,AT4G00910,AT3G11680,AT1G08440,AT2G27240"
+TRINITY_DN106695_c0_g1,FUN_008669,AMY,Alpha-amylase 1,Starch degradation,,,,AMY1-1,OG0000951,chloroplast,AT4G25000
+TRINITY_DN120276_c0_g1,,AMY,Alpha-amylase 1,Starch degradation,,,,,,,
+TRINITY_DN140383_c0_g1,FUN_043765,AMY,Alpha-amylase 1,Starch degradation,,1.0,,AMY1-6,OG0000951,chloroplast,AT4G25000
+TRINITY_DN2216_c0_g1,FUN_023174,AMY,Alpha-amylase 3,Starch degradation,0.0019303193384158101,8.0,2.0,AMY3-2,OG0012833,chloroplast,AT1G69830
+TRINITY_DN629_c0_g1,FUN_025702,AMY,Alpha-amylase 2,Starch degradation,0.00138972626053968,1.0,3.0,AMY2-1,OG0005106,chloroplast,AT1G76130
+TRINITY_DN7213_c0_g1,FUN_018918,AMY,Alpha-amylase 1,Starch degradation,0.545574289288823,0.0,17.0,AMY1-2,OG0000951,chloroplast,AT4G25000
+TRINITY_DN77149_c0_g1,FUN_030621,AMY,Alpha-amylase 1,Starch degradation,,0.0,,AMY1-3,OG0000951,chloroplast,AT4G25000
+TRINITY_DN4352_c0_g1,FUN_031317,APL,Glucose-1-phosphate adenylyltransferase large subunit 1,Starch synthesis,3.6429267710057704e-09,1.0,4.0,APL1-1,OG0013080,chloroplast,AT5G19220
+TRINITY_DN4499_c3_g1,FUN_050578,APL,Glucose-1-phosphate adenylyltransferase large subunit 2,Starch synthesis,2.2468996976242297e-18,1.0,4.0,APL3-2,OG0001660,chloroplast,"AT4G39210, AT2G21590"
+TRINITY_DN5996_c0_g1,FUN_047795,APL,Glucose-1-phosphate adenylyltransferase large subunit 3,Starch synthesis,0.00771512129100695,1.0,4.0,APL2-1,OG0001660,chloroplast,AT1G27680
+TRINITY_DN7789_c0_g1,FUN_002230,APL,Glucose-1-phosphate adenylyltransferase large subunit 3,Starch synthesis,6.24836693802582e-12,1.0,4.0,APL3-1,OG0001660,chloroplast,"AT4G39210, AT2G21590"
+TRINITY_DN1108_c0_g1,FUN_045345,APRR/TOC,Pseudo-response regulator 1/Timing of CAB expression 1,Circadian/Light response,0.00162824288431194,4.0,2.0,APRR1-1,OG0002755,,AT5G61380
+TRINITY_DN1652_c0_g1,FUN_048288,APRR/TOC,Pseudo-response regulator 5,Circadian/Light response,0.37834056622102297,1.0,4.0,APRR5-3,OG0011608,,AT2G46790
+TRINITY_DN2143_c0_g1,FUN_051857,APRR/TOC,Pseudo-response regulator 5,Circadian/Light response,1.0,3.0,5.0,APRR5-2,OG0001670,,"AT5G24470, AT2G46670, AT2G46790"
+TRINITY_DN33883_c0_g1,FUN_045345,APRR/TOC,Pseudo-response regulator 1/Timing of CAB expression 1,Circadian/Light response,1.0,4.0,2.0,APRR1-1,OG0002755,,AT5G61380
+TRINITY_DN4675_c0_g1,FUN_005870,APRR/TOC,Pseudo-response regulator 3,Circadian/Light response,0.7712133708754059,15.0,4.0,APRR3-1,OG0001247,,AT5G60100
+TRINITY_DN59893_c0_g1,FUN_045345,APRR/TOC,Pseudo-response regulator 1/Timing of CAB expression 1,Circadian/Light response,0.9069161490967672,4.0,2.0,APRR1-1,OG0002755,,AT5G61380
+TRINITY_DN8901_c0_g1,FUN_043860,APRR/TOC,Pseudo-response regulator 5,Circadian/Light response,1.0,15.0,5.0,APRR5-1,OG0001670,,"AT5G24470, AT2G46670, AT2G46790"
+TRINITY_DN7789_c1_g1,FUN_027406,APS,Glucose-1-phosphate adenylyltransferase small subunit 1,Starch synthesis,0.0015043393005410401,1.0,4.0,APS1-1,OG0007085,chloroplast,AT5G48300
+TRINITY_DN2793_c1_g1,FUN_036058,ARF,Auxin response factor 7,Circadian/Light response,1.82657786731023e-06,6.0,2.0,ARF7-3,OG0000804,,AT5G20730
+TRINITY_DN550_c0_g1,FUN_012771,ARF,Auxin response factor 7,Circadian/Light response,5.16941814965867e-07,7.0,2.0,ARF7-1,OG0000804,,AT5G20730
+TRINITY_DN621_c0_g1,FUN_028370,ARF,Auxin response factor 7,Circadian/Light response,0.00047381741626973604,7.0,16.0,ARF7-2,OG0023937,,AT5G20730
+TRINITY_DN110627_c0_g1,,ASP,Aspartate aminotransferase 4,Aminotransferase,,,,,,,
+TRINITY_DN112632_c0_g1,,ASP,Aspartate aminotransferase 4,Aminotransferase,2.8463945772622302e-05,5.0,0.0,,,,
+TRINITY_DN12487_c1_g1,FUN_000897,ASP,Aspartate aminotransferase 2,Aminotransferase,1.13729470258432e-10,5.0,15.0,ASP2-1,OG0005803,chloroplast,"AT5G19550,AT1G62800"
+TRINITY_DN1743_c7_g2,,ASP,Aspartate aminotransferase 2,Aminotransferase,0.000873213880764648,5.0,15.0,,,,
+TRINITY_DN18480_c0_g1,FUN_015589,ASP,Aspartate aminotransferase 1,Aminotransferase,4.5760578742984804e-10,2.0,4.0,ASP1-1,OG0012245,mitochondria,AT2G30970
+TRINITY_DN346_c1_g3,,ASP,Aspartate aminotransferase 4,Aminotransferase,1.36914770166649e-10,2.0,6.0,,,,
+TRINITY_DN71325_c0_g1,,ASP,Aspartate aminotransferase 3,Aminotransferase,7.261087619949111e-08,2.0,19.0,,,,
+TRINITY_DN71325_c1_g1,,ASP,Aspartate aminotransferase 4,Aminotransferase,,2.0,,,,,
+TRINITY_DN78670_c0_g1,,ASP,Aspartate aminotransferase 3,Aminotransferase,,,,,,,
+TRINITY_DN8579_c0_g1,FUN_010382,ASP,Aspartate aminotransferase 5,Aminotransferase,6.40593335552172e-09,1.0,4.0,ASP5-2,OG0006859,chloroplast,AT4G31990
+TRINITY_DN86321_c1_g1,,ASP,Aspartate aminotransferase 4,Aminotransferase,,,,,,,
+TRINITY_DN8924_c1_g1,FUN_000897,ASP,Aspartate aminotransferase 2,Aminotransferase,0.0526503381807709,4.0,3.0,ASP2-1,OG0005803,chloroplast,"AT5G19550,AT1G62800"
+TRINITY_DN11089_c0_g1,FUN_005463,AVP,Pyrophosphate-energized vacuolar membrane proton pump 1,Proton transport,6.095354462607249e-25,7.0,2.0,AVP1-1,OG0000693,vacuole,AT1G15690
+TRINITY_DN11089_c1_g1,,AVP,Pyrophosphate-energized vacuolar membrane proton pump 1,Proton transport,0.053651882985528,6.0,1.0,,,,
+TRINITY_DN1954_c0_g1,FUN_026063,AVP,Pyrophosphate-energized vacuolar membrane proton pump 1,Proton transport,5.20257976902154e-10,5.0,8.0,AVP1-3,OG0000693,vacuole,AT1G15690
+TRINITY_DN25360_c1_g1,,AVP,Pyrophosphate-energized vacuolar membrane proton pump 1,Proton transport,,1.0,1.0,,,,
+TRINITY_DN4370_c1_g1,,AVP,Pyrophosphate-energized vacuolar membrane proton pump 1,Proton transport,1.97894677377068e-09,7.0,6.0,,,,
+TRINITY_DN44505_c0_g1,,AVP,Pyrophosphate-energized vacuolar membrane proton pump 1,Proton transport,,,,,,,
+TRINITY_DN48239_c0_g1,,AVP,Pyrophosphate-energized vacuolar membrane proton pump 1,Proton transport,,,,,,,
+TRINITY_DN81478_c0_g1,,AVP,Pyrophosphate-energized vacuolar membrane proton pump 1,Proton transport,7.653493369753442e-09,5.0,8.0,,,,
+TRINITY_DN8473_c7_g1,,AVP,Pyrophosphate-energized vacuolar membrane proton pump 1,Proton transport,,,,,,,
+TRINITY_DN96198_c0_g1,,AVP,Pyrophosphate-energized vacuolar membrane proton pump 1,Proton transport,,5.0,0.0,,,,
+TRINITY_DN8473_c0_g1,FUN_005463,AVPL,AVP-like 1,Proton transport,5.970445189920239e-07,25.0,4.0,AVPL1-1,OG0000693,vacuole,AT1G15690
+TRINITY_DN15364_c0_g1,FUN_046357,BAM,Beta-amylase 4,Starch degradation,0.0744494657394312,13.0,1.0,BAM4-1,OG0013991,chloroplast,AT5G55700
+TRINITY_DN15364_c0_g10,FUN_046357,BAM,Beta-amylase 4,Starch degradation,,,,BAM4-1,OG0013991,chloroplast,AT5G55700
+TRINITY_DN15364_c0_g11,FUN_046357,BAM,Beta-amylase 4,Starch degradation,,,,BAM4-1,OG0013991,chloroplast,AT5G55700
+TRINITY_DN15364_c0_g16,FUN_046357,BAM,Beta-amylase 4,Starch degradation,,,,BAM4-1,OG0013991,chloroplast,AT5G55700
+TRINITY_DN15364_c0_g17,FUN_046357,BAM,Beta-amylase 4,Starch degradation,,,,BAM4-1,OG0013991,chloroplast,AT5G55700
+TRINITY_DN15364_c0_g19,FUN_046357,BAM,Beta-amylase 4,Starch degradation,,,,BAM4-1,OG0013991,chloroplast,AT5G55700
+TRINITY_DN1866_c0_g1,FUN_041354,BAM,Beta-amylase 3,Starch degradation,7.456245184473179e-19,5.0,1.0,BAM3-2,OG0010006,chloroplast,AT4G17090
+TRINITY_DN24168_c0_g1,FUN_049126,BAM,Beta-amylase 2,Starch degradation,5.18926892885184e-07,12.0,0.0,BAM2-2,OG0002447,chloroplast,AT4G00490
+TRINITY_DN3172_c1_g3,FUN_000772,BAM,Beta-amylase 5,Starch degradation,1.05570014231038e-09,1.0,10.0,BAM5-2,OG0004635,cytoplasm,AT4G15210
+TRINITY_DN48905_c0_g1,FUN_000320,BAM,Beta-amylase 5,Starch degradation,,3.0,3.0,BAM5-1,OG0004635,cytoplasm,AT4G15210
+TRINITY_DN5508_c0_g1,FUN_037223,BAM,Beta-amylase 2,Starch degradation,1.80623670516145e-08,5.0,0.0,BAM2-1,OG0002447,chloroplast,AT4G00490
+TRINITY_DN612_c0_g1,FUN_037221,BAM,Beta-amylase 7,Starch degradation,0.00212259191458735,7.0,4.0,BAM7-1,OG0002447,cytoplasm,AT2G45880
+TRINITY_DN65005_c1_g1,FUN_005777,BAM,Beta-amylase 1,Starch degradation,0.00865625281158572,15.0,6.0,BAM1-2,OG0005109,,AT3G23920
+TRINITY_DN7585_c0_g2,FUN_033111,BAM,Beta-amylase 1,Starch degradation,5.158064331124e-09,15.0,4.0,BAM1-3,OG0005109,chloroplast,AT3G23920
+TRINITY_DN9660_c0_g1,FUN_033226,BAM,Beta-amylase 9,Starch degradation,2.89571506912258e-06,7.0,2.0,BAM9-2,OG0004128,unknown,AT5G18670
+TRINITY_DN3661_c1_g1,FUN_047630,BASS,Sodium/metabolite cotransporter 1,PEP generation,0.000888518698677507,8.0,6.0,BASS1-1,OG0013833,chloroplast,AT1G78560
+TRINITY_DN6617_c4_g1,FUN_026309,BASS,Sodium/metabolite cotransporter 2,PEP generation,0.000126209550538854,2.0,4.0,BASS2-1,OG0002988,chloroplast,AT2G26900
+TRINITY_DN5075_c0_g1,FUN_018637,BASS,Sodium/metabolite cotransporter 5,PEP generation,3.246668435091939e-13,3.0,4.0,BASS5-1,OG0008379,chloroplast,"AT4G12030, AT4G22840"
+TRINITY_DN100413_c0_g1,FUN_032219,BCA,Beta carbonic anhydrase 1,Carboxylation,,,,BCA1-4,OG0000420,unknown,"AT3G01500, AT1G23730, AT1G70410, AT5G14740"
+TRINITY_DN13386_c1_g1,,BCA,Beta carbonic anhydrase 2,Carboxylation,6.30211244422309e-07,2.0,3.0,,,,
+TRINITY_DN35317_c1_g1,FUN_003767,BCA,Beta carbonic anhydrase 5,Carboxylation,,,,BCA5-1,OG0002810,unknown,"AT1G58180, AT4G33580"
+TRINITY_DN4587_c13_g1,,BCA,Beta carbonic anhydrase 1,Carboxylation,,,,,,,
+TRINITY_DN51292_c2_g1,FUN_032219,BCA,Beta carbonic anhydrase 1,Carboxylation,,2.0,3.0,BCA1-4,OG0000420,unknown,"AT3G01500, AT1G23730, AT1G70410, AT5G14740"
+TRINITY_DN5490_c9_g1,FUN_032219,BCA,Beta carbonic anhydrase 1,Carboxylation,0.0214110488658878,2.0,3.0,BCA1-4,OG0000420,unknown,"AT3G01500, AT1G23730, AT1G70410, AT5G14740"
+TRINITY_DN66190_c1_g1,FUN_032219,BCA,Beta carbonic anhydrase 1,Carboxylation,,,,BCA1-4,OG0000420,unknown,"AT3G01500, AT1G23730, AT1G70410, AT5G14740"
+TRINITY_DN6641_c0_g1,FUN_052022,BCA,Beta carbonic anhydrase 5,Carboxylation,8.594220322087871e-09,13.0,4.0,BCA5-3,OG0002810,unknown,"AT1G58180, AT4G33580"
+TRINITY_DN8226_c0_g1,FUN_052022,BCA,Beta carbonic anhydrase 5,Carboxylation,2.6196153856417597e-08,1.0,3.0,BCA5-3,OG0002810,unknown,"AT1G58180, AT4G33580"
+TRINITY_DN8886_c0_g1,FUN_032219,BCA,Beta carbonic anhydrase 1,Carboxylation,0.00035267700181894503,25.0,2.0,BCA1-4,OG0000420,unknown,"AT3G01500, AT1G23730, AT1G70410, AT5G14740"
+TRINITY_DN889_c1_g2,FUN_009254,BCA,Beta carbonic anhydrase 1,Carboxylation,1.57196829397836e-18,2.0,4.0,BCA1-3,OG0000420,unknown,"AT3G01500, AT1G23730, AT1G70410, AT5G14740"
+TRINITY_DN90927_c0_g1,FUN_032219,BCA,Beta carbonic anhydrase 1,Carboxylation,,2.0,5.0,BCA1-4,OG0000420,unknown,"AT3G01500, AT1G23730, AT1G70410, AT5G14740"
+TRINITY_DN9168_c1_g1,,BCA,Beta carbonic anhydrase 1,Carboxylation,,2.0,,,,,
+TRINITY_DN9923_c0_g1,FUN_002831,BCA,Beta carbonic anhydrase 1,Carboxylation,4.89212884035966e-18,2.0,3.0,BCA1-1,OG0000420,unknown,"AT3G01500, AT5G14740"
+TRINITY_DN15892_c0_g1,FUN_033478,BHLH,Transcription factor bHLH 109,Circadian/Light response,,3.0,5.0,BHLH109-1,OG0014792,,AT1G68240
+TRINITY_DN230_c0_g1,FUN_002236,BHLH,Transcription factor bHLH 63,Circadian/Light response,1.49393104438703e-19,5.0,2.0,BHLH63-1,OG0002849,,AT4G34530
+TRINITY_DN360_c0_g1,FUN_034066,BHLH,Transcription factor bHLH 62,Circadian/Light response,8.30546768302057e-06,11.0,2.0,BHLH62-2,OG0000796,,"AT3G07340, AT5G48560"
+TRINITY_DN360_c1_g1,FUN_003550,BHLH,Transcription factor bHLH 62,Circadian/Light response,1.43490736121944e-14,5.0,2.0,BHLH62-1,OG0000796,,"AT3G07340, AT5G48560"
+TRINITY_DN5719_c2_g1,FUN_050410,BHLH,Transcription factor bHLH 62,Circadian/Light response,0.0202696262938996,5.0,2.0,BHLH62-3,OG0000796,,"AT3G07340, AT5G48560"
+TRINITY_DN62717_c0_g1,FUN_002236,BHLH,Transcription factor bHLH 63,Circadian/Light response,,0.0,,BHLH63-1,OG0002849,,AT4G34530
+TRINITY_DN7311_c0_g1,FUN_050554,BHLH,Transcription factor bHLH 63,Circadian/Light response,9.0042680535496e-06,5.0,3.0,BHLH63-2,OG0002849,,AT4G34530
+TRINITY_DN9111_c0_g1,FUN_024352,BHLH,Transcription factor bHLH 74,Circadian/Light response,1.71327171492974e-05,2.0,2.0,BHLH74-1,OG0006615,,AT1G10120
+TRINITY_DN193_c1_g1,FUN_042663,CAT,Catalase 1,Photorespiration,6.24185238493758e-05,5.0,3.0,CAT1-4,OG0018408,unknown,"AT1G20620, AT1G20630"
+TRINITY_DN193_c1_g2,FUN_042653,CAT,Catalase 1,Photorespiration,1.1122743563550802e-05,18.0,5.0,CAT1-3,OG0001107,unknown,"AT1G20620, AT1G20630"
+TRINITY_DN23322_c0_g1,FUN_042663,CAT,Catalase 1,Photorespiration,4.18680383035477e-07,2.0,4.0,CAT1-4,OG0018408,unknown,"AT1G20620, AT1G20630"
+TRINITY_DN269_c3_g1,FUN_018693,CAT,Catalase 3,Photorespiration,2.21918228270834e-08,8.0,4.0,CAT3-1,OG0001107,unknown,AT1G20620
+TRINITY_DN5176_c1_g1,FUN_025647,CAT,Catalase 1,Photorespiration,1.01436877062347e-10,5.0,3.0,CAT1-2,OG0001107,unknown,"AT1G20620, AT1G20630"
+TRINITY_DN8544_c0_g1,FUN_042663,CAT,Catalase 1,Photorespiration,1.4813697155242098e-25,18.0,5.0,CAT1-4,OG0018408,unknown,"AT1G20620, AT1G20630"
+TRINITY_DN22210_c0_g1,FUN_037598,CCA,CIRCADIAN CLOCK ASSOCIATED 1,Circadian/Light response,0.5221927932310221,1.0,3.0,CCA1-2,OG0002422,,AT2G46830
+TRINITY_DN25635_c0_g1,FUN_048299,CCA,CIRCADIAN CLOCK ASSOCIATED 1,Circadian/Light response,1.0,5.0,3.0,CCA1-3,OG0002422,,"AT1G01060, AT2G46830"
+TRINITY_DN31181_c0_g1,FUN_048299,CCA,CIRCADIAN CLOCK ASSOCIATED 1,Circadian/Light response,0.348720344659117,5.0,3.0,CCA1-3,OG0002422,,"AT1G01060, AT2G46830"
+TRINITY_DN7854_c0_g1,FUN_037598,CCA,CIRCADIAN CLOCK ASSOCIATED 1,Circadian/Light response,1.0,2.0,3.0,CCA1-2,OG0002422,,AT2G46830
+TRINITY_DN13090_c0_g1,FUN_008224,CDF,Cyclic dof factor 2,Circadian/Light response,0.0360711406151017,7.0,2.0,CDF2-1,OG0018157,,AT5G39660
+TRINITY_DN3853_c0_g1,FUN_021933,CDF,Cyclic dof factor 1,Circadian/Light response,0.038455743603476,5.0,2.0,CDF1-2,OG0000654,,"AT3G47500, AT5G62430"
+TRINITY_DN3894_c1_g1,FUN_011086,CDF,Cyclic dof factor 1,Circadian/Light response,0.00400536293878467,5.0,4.0,CDF1-1,OG0000654,,"AT3G47500, AT5G62430"
+TRINITY_DN4638_c0_g1,FUN_036789,CDF,Cyclic dof factor 4,Circadian/Light response,0.0201888015584733,24.0,2.0,CDF4-1,OG0000021,,AT2g34140
+TRINITY_DN6464_c2_g1,FUN_020427,CHS,Chalcone synthase,Circadian/Light response,0.00665906702788946,1.0,1.0,CHS-3,OG0000209,,AT5G13930
+TRINITY_DN773_c0_g1,FUN_003771,CHS,Chalcone synthase,Circadian/Light response,1.9933495962164802e-09,6.0,2.0,CHS-1,OG0000209,,AT5G13930
+TRINITY_DN80484_c2_g1,FUN_038393,CHS,Chalcone synthase,Circadian/Light response,,5.0,3.0,CHS-4,OG0000209,,AT5G13930
+TRINITY_DN830_c0_g3,FUN_041858,CHS,Chalcone synthase,Circadian/Light response,,6.0,0.0,CHS-9,OG0000209,,AT5G13930
+TRINITY_DN1064_c0_g1,FUN_013125,CK,Casein kinase II subunit alpha 4,Circadian/Light response,5.26782198332827e-09,1.0,12.0,CKA4-1,OG0001041,,AT2G23070
+TRINITY_DN1064_c0_g2,FUN_017806,CK,Casein kinase II subunit alpha 1,Circadian/Light response,0.008973752129457571,8.0,2.0,CKA1-1,OG0001041,,"AT2G23080, AT5G67380, AT3G50000"
+TRINITY_DN15355_c0_g1,FUN_049477,CK,Casein kinase II subunit beta,Circadian/Light response,3.13179382751249e-08,19.0,4.0,CKB-3,OG0000983,,"AT3G60250, AT5G47080, AT4G17640, AT2G44680"
+TRINITY_DN16896_c0_g1,FUN_030529,CK,Casein kinase II subunit alpha 1,Circadian/Light response,0.000178348461676844,11.0,2.0,CKA1-2,OG0001041,,"AT2G23080, AT5G67380, AT3G50000"
+TRINITY_DN4426_c0_g1,FUN_041340,CK,Casein kinase II subunit beta,Circadian/Light response,8.91100870674171e-08,3.0,4.0,CKB-2,OG0000983,,"AT3G60250, AT5G47080, AT4G17640, AT2G44680"
+TRINITY_DN6676_c1_g1,FUN_017357,CK,Casein kinase II subunit beta,Circadian/Light response,3.56070949745195e-05,3.0,2.0,CKB-1,OG0000983,,"AT3G60250, AT5G47080, AT4G17640, AT2G44680"
+TRINITY_DN10443_c1_g1,FUN_029688,CO/COL,Zinc finger protein CONSTANS-LIKE 2,Circadian/Light response,0.819225040657054,2.0,3.0,COL2-2,OG0000385,,"AT3G02380, AT5G15840, AT5G15850"
+TRINITY_DN23104_c0_g1,FUN_034039,CO/COL,Zinc finger protein CONSTANS-LIKE 5,Circadian/Light response,3.36616269835586e-09,15.0,4.0,COL5-1,OG0012286,,AT5G57660
+TRINITY_DN26344_c0_g1,FUN_043773,CO/COL,Zinc finger protein CONSTANS-LIKE 5,Circadian/Light response,0.610805343050662,2.0,3.0,COL5-2,OG0000385,,"AT5G24930, AT2G24790, AT5G57660"
+TRINITY_DN26344_c2_g1,FUN_026857,CO/COL,Zinc finger protein CONSTANS-LIKE 4,Circadian/Light response,0.0115556862805585,15.0,4.0,COL4-1,OG0012286,,AT5G24930
+TRINITY_DN3547_c1_g1,FUN_043773,CO/COL,Zinc finger protein CONSTANS-LIKE 5,Circadian/Light response,0.6164003580995749,2.0,3.0,COL5-2,OG0000385,,"AT5G24930, AT2G24790, AT5G57660"
+TRINITY_DN4583_c2_g1,FUN_043773,CO/COL,Zinc finger protein CONSTANS-LIKE 5,Circadian/Light response,8.71967214801523e-06,1.0,4.0,COL5-2,OG0000385,,"AT5G24930, AT2G24790, AT5G57660"
+TRINITY_DN5616_c1_g1,FUN_016917,CO/COL,Zinc finger protein CONSTANS-LIKE 2,Circadian/Light response,0.96355210997946,5.0,3.0,COL2-1,OG0000385,,"AT3G02380, AT5G15840, AT5G15850"
+TRINITY_DN2263_c1_g1,FUN_027551,COP,E3 ubiquitin-protein ligase/Constitutive photomorphogenesis protein 1,Circadian/Light response,0.0312239597373676,5.0,1.0,COP1-3,OG0003002,,AT2G32950
+TRINITY_DN9872_c0_g1,FUN_012253,COP,E3 ubiquitin-protein ligase/Constitutive photomorphogenesis protein 1,Circadian/Light response,0.0502465177378682,3.0,10.0,COP1-1,OG0003002,,AT2G32950
+TRINITY_DN12084_c0_g1,FUN_015117,CRY,Cryptochrome 2,Circadian/Light response,0.000519502390712381,4.0,4.0,CRY2-1,OG0008198,,AT1G04400
+TRINITY_DN12344_c0_g1,FUN_001828,CRY,Cryptochrome DASH,Circadian/Light response,0.0483549419387447,1.0,4.0,CRYD-1,OG0008198,,AT5G24850
+TRINITY_DN2794_c2_g1,FUN_048638,CRY,Cryptochrome 1,Circadian/Light response,0.000203021214673316,5.0,2.0,CRY1-1,OG0005597,,AT4G08920
+TRINITY_DN2132_c0_g1,FUN_028030,DET,Light-mediated development protein 1,Circadian/Light response,0.0101624546045521,1.0,1.0,DET1-1,OG0012089,,AT4G10180
+TRINITY_DN11472_c0_g1,FUN_049224,DIT/DCT,Dicarboxylate transporter 1,Photorespiration,8.018131848987529e-15,7.0,2.0,DIT2-2,OG0003941,chloroplast,"AT5G64280, AT5G64290"
+TRINITY_DN17467_c0_g1,,DIT/DCT,Dicarboxylate transporter 1,Photorespiration,0.00322638811425728,5.0,3.0,,,,
+TRINITY_DN2503_c0_g1,FUN_052747,DIT/DCT,Dicarboxylate transporter 1,Photorespiration,0.00020131758589898703,2.0,4.0,DIT1-3,OG0008098,chloroplast,AT5G12860
+TRINITY_DN2503_c0_g2,FUN_036428,DIT/DCT,Dicarboxylate transporter 1,Photorespiration,0.000286046876264285,2.0,3.0,DIT1-1,OG0008098,chloroplast,AT5G12860
+TRINITY_DN3725_c0_g2,FUN_052748,DIT/DCT,Dicarboxylate transporter 1,Photorespiration,0.00138110557049925,2.0,4.0,DIT1-4,OG0020820,chloroplast,AT5G12860
+TRINITY_DN4387_c0_g2,FUN_051815,DIT/DCT,Dicarboxylate transporter 1,Photorespiration,0.000560405848360417,5.0,18.0,DIT2-3,OG0003941,chloroplast,"AT5G64280, AT5G64290"
+TRINITY_DN4616_c0_g1,FUN_004243,DPE,4-alpha-glucanotransferase 1,Starch degradation,1.30214088474819e-06,3.0,5.0,DPE1-1,OG0007076,chloroplast,AT5G64860
+TRINITY_DN6357_c0_g1,FUN_033978,DPE,4-alpha-glucanotransferase 2,Transitory starch pathway,2.94199388267287e-05,3.0,4.0,DPE2-2,OG0009822,cytoplasm,AT2G40840
+TRINITY_DN12877_c0_g1,FUN_044506,DSP,Phosphoglucan phosphatase 4,Starch degradation,0.334713941133015,4.0,9.0,DSP4-2,OG0010929,chloroplast,AT3G52180
+TRINITY_DN11682_c0_g1,FUN_019119,ELF,EARLY FLOWERING 4,Circadian/Light response,0.133555717086914,8.0,9.0,ELF4-1,OG0008721,,AT2G40080
+TRINITY_DN12233_c0_g1,FUN_005140,ELF,EARLY FLOWERING 3,Circadian/Light response,0.00212686052030321,5.0,2.0,ELF3-1,OG0018675,,AT2G25930
+TRINITY_DN1899_c0_g1,FUN_005140,ELF,EARLY FLOWERING 4,Circadian/Light response,0.124231708390233,2.0,3.0,ELF3-1,OG0018675,,AT2G25930
+TRINITY_DN3587_c1_g2,FUN_049029,ELF,EARLY FLOWERING 1,Circadian/Light response,0.20856680019081303,8.0,9.0,ELF1-1,OG0008721,,AT2G29950
+TRINITY_DN92_c0_g1,FUN_019352,ELF,EARLY FLOWERING 3,Circadian/Light response,0.106103270092825,5.0,2.0,ELF3-2,OG0020792,,AT2G25930
+TRINITY_DN11781_c0_g1,FUN_049101,ENO,Enolase 3,Transitory starch pathway,0.00306599762071246,0.0,2.0,ENO3-1,OG0012643,cytoplasm,AT2G29560
+TRINITY_DN21972_c0_g1,FUN_053298,ENO,Enolase 1,Transitory starch pathway,0.0392286334809342,7.0,0.0,ENO1-1,OG0011993,chloroplast,AT1G74030
+TRINITY_DN5960_c1_g1,FUN_053298,ENO,Enolase 1,Transitory starch pathway,0.0181090403381564,7.0,3.0,ENO1-1,OG0011993,chloroplast,AT1G74030
+TRINITY_DN6068_c1_g2,FUN_041931,ENO,Enolase 2,Transitory starch pathway,1.34885088774684e-16,27.0,6.0,ENO2-1,OG0002362,ubiquitous,AT2G36530
+TRINITY_DN1122_c0_g1,FUN_033204,ERDL,Sugar transporter ERD-like 16,Starch/sugar transport,6.601407858776371e-08,4.0,5.0,ERDL16-2,OG0000851,vacuole,AT5G18840
+TRINITY_DN129085_c0_g1,FUN_000423,ERDL,Sugar transporter ERD-like 5,Starch/sugar transport,4.01338915036868e-08,12.0,5.0,ERDL5-2,OG0008736,vacuole,AT1G54730
+TRINITY_DN2036_c1_g1,FUN_009482,ERDL,Sugar transporter ERD-like 4,Starch/sugar transport,0.000546349754576056,11.0,2.0,ERDL4-1,OG0001784,vacuole,"AT1G19450, AT1G75220"
+TRINITY_DN2308_c0_g1,FUN_000422,ERDL,Sugar transporter ERD-like 5,Starch/sugar transport,0.15576615878439,1.0,2.0,ERDL5-1,OG0010511,vacuole,AT1G54730
+TRINITY_DN2349_c0_g1,FUN_042787,ERDL,Sugar transporter ERD-like 7,Starch/sugar transport,0.23226146795316896,3.0,0.0,ERDL7-1,OG0000851,vacuole,AT2G48020
+TRINITY_DN5242_c0_g1,FUN_000423,ERDL,Sugar transporter ERD-like 5,Starch/sugar transport,2.1185278239321698e-33,4.0,5.0,ERDL5-2,OG0008736,vacuole,AT1G54730
+TRINITY_DN7505_c0_g2,FUN_024549,ERDL,Sugar transporter ERD-like 4,Starch/sugar transport,0.0022681115090315397,12.0,4.0,ERDL4-2,OG0001784,vacuole,"AT1G19450, AT1G75220"
+TRINITY_DN11549_c0_g1,FUN_053310,FAR/FRS/FHY,FAR1-RELATED SEQUENCE 4,Circadian/Light response,0.00037520485852451897,1.0,2.0,FRS4-1,OG0000032,,AT1G76320
+TRINITY_DN17921_c1_g1,FUN_039783,FAR/FRS/FHY,FAR-RED ELONGATED HYPOCOTYL 1,Circadian/Light response,0.00045774361745873495,14.0,1.0,FHY1-1,OG0009574,,"AT2G37678, AT5G02200"
+TRINITY_DN3181_c0_g1,FUN_053299,FAR/FRS/FHY,FAR1-RELATED SEQUENCE 9,Circadian/Light response,0.000166879415336725,8.0,5.0,FRS9-1,OG0000032,,AT4G38170
+TRINITY_DN5544__c0_g1,FUN_053071,FAR/FRS/FHY,FAR-RED ELONGATED HYPOCOTYL 3,Circadian/Light response,,,,FHY3-1,OG0000032,,AT3G22170
+TRINITY_DN5585_c0_g1,FUN_053242,FAR/FRS/FHY,FAR1-RELATED SEQUENCE 8,Circadian/Light response,0.0063892631953442,7.0,2.0,FRS8-1,OG0000032,,AT1G80010
+TRINITY_DN582_c0_g1,FUN_053251,FAR/FRS/FHY,FAR1-RELATED SEQUENCE 3,Circadian/Light response,0.0068595911903419895,19.0,5.0,FRS3-1,OG0000032,,AT2G27110
+TRINITY_DN5881_c0_g1,,FAR/FRS/FHY,FAR1-RELATED SEQUENCE 5,Circadian/Light response,0.00545776663965618,10.0,2.0,,,,
+TRINITY_DN6216_c0_g1,FUN_053289,FAR/FRS/FHY,FAR-RED IMPAIRED RESPONSE 1,Circadian/Light response,0.0266203289054953,1.0,1.0,FAR1-1,OG0000032,,AT4G15090
+TRINITY_DN6670_c0_g1,FUN_053136,FAR/FRS/FHY,FAR1-RELATED SEQUENCE 6,Circadian/Light response,0.00263515975420125,5.0,7.0,FRS6-1,OG0000032,,AT1G52520
+TRINITY_DN101442_c0_g1,,FBA,Fructose-bisphosphate aldolase 1,Transitory starch pathway,,21.0,4.0,,,,
+TRINITY_DN1271_c0_g1,FUN_002164,FBA,Fructose-bisphosphate aldolase 1,Transitory starch pathway,1.5889828996915e-34,2.0,4.0,FBA1-1,OG0001134,chloroplast,AT2G21330
+TRINITY_DN15695_c0_g1,,FBA,Fructose-bisphosphate aldolase 3,Transitory starch pathway,0.656418555614158,4.0,4.0,,,,
+TRINITY_DN1605_c0_g3,FUN_046463,FBA,Fructose-bisphosphate aldolase 5,Transitory starch pathway,5.586310185241401e-10,1.0,4.0,FBA5-3,OG0001899,cytoplasm,"AT4G26520, AT4G26530"
+TRINITY_DN16101_c0_g1,,FBA,Fructose-bisphosphate aldolase 2,Transitory starch pathway,,2.0,3.0,,,,
+TRINITY_DN25409_c0_g2,,FBA,Fructose-bisphosphate aldolase 2,Transitory starch pathway,1.4549316605631298e-08,2.0,0.0,,,,
+TRINITY_DN2598_c2_g1,,FBA,Fructose-bisphosphate aldolase 2,Transitory starch pathway,,,0.0,,,,
+TRINITY_DN3779_c1_g1,,FBA,Fructose-bisphosphate aldolase 1,Transitory starch pathway,3.77082904164511e-09,2.0,4.0,,,,
+TRINITY_DN457_c0_g1,FUN_021690,FBA,Fructose-bisphosphate aldolase 2,Transitory starch pathway,0.166059352778935,4.0,4.0,FBA2-1,OG0001134,chloroplast,"AT2G21330, AT4G38970"
+TRINITY_DN5710_c3_g2,FUN_005835,FBA,Fructose-bisphosphate aldolase 5,Transitory starch pathway,0.39412268492646396,4.0,5.0,FBA5-1,OG0001899,cytoplasm,"AT4G26520, AT4G26530"
+TRINITY_DN73215_c0_g1,,FBA,Fructose-bisphosphate aldolase 1,Transitory starch pathway,,,,,,,
+TRINITY_DN85664_c3_g1,,FBA,Fructose-bisphosphate aldolase 8,Transitory starch pathway,,4.0,5.0,,,,
+TRINITY_DN91120_c0_g1,,FBA,Fructose-bisphosphate aldolase 1,Transitory starch pathway,0.000115097200982393,2.0,4.0,,,,
+TRINITY_DN98153_c0_g1,,FBA,Fructose-bisphosphate aldolase 6,Transitory starch pathway,,0.0,,,,,
+TRINITY_DN17372_c0_g1,FUN_052531,FT,FLOWERING LOCUS T,Circadian/Light response,0.0145858421399906,2.0,3.0,FT-2,OG0003667,,"AT1G65480, AT4G20370"
+TRINITY_DN4639_c2_g2,FUN_052540,FT,FLOWERING LOCUS T,Circadian/Light response,5.823190082687e-06,2.0,0.0,FT-3,OG0003667,,"AT1G65480, AT4G20370"
+TRINITY_DN7479_c0_g1,FUN_052540,FT,FLOWERING LOCUS T,Circadian/Light response,0.0121264357026002,1.0,1.0,FT-3,OG0003667,,"AT1G65480, AT4G20370"
+TRINITY_DN10699_c0_g1,,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,0.000494394916763512,1.0,4.0,,,,
+TRINITY_DN10699_c1_g1,,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,,,,,,,
+TRINITY_DN107480_c0_g1,,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,,1.0,0.0,,,,
+TRINITY_DN117361_c3_g1,,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,,,,,,,
+TRINITY_DN119431_c1_g1,,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,,,,,,,
+TRINITY_DN120578_c0_g1,,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,,,,,,,
+TRINITY_DN12243_c0_g1,FUN_022531,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,0.00391226712536561,2.0,4.0,GAPA1-1,OG0009635,chloroplast,"AT3G26650, AT1G12900"
+TRINITY_DN123143_c0_g1,,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,,18.0,4.0,,,,
+TRINITY_DN12742_c0_g1,,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,1.11223677968899e-11,2.0,4.0,,,,
+TRINITY_DN14100_c0_g1,,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,0.335548082722091,12.0,2.0,,,,
+TRINITY_DN19388_c0_g1,,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,0.19799558814663398,18.0,4.0,,,,
+TRINITY_DN2639_c2_g1,,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,0.0355245593696716,1.0,4.0,,,,
+TRINITY_DN2639_c2_g2,FUN_025361,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,0.00234813864504138,4.0,4.0,GAPC-1,OG0000517,cytoplasm,"AT1G13440, AT3G04120"
+TRINITY_DN36629_c0_g1,,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,0.00036499073346291203,2.0,3.0,,,,
+TRINITY_DN36629_c1_g1,,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,,,,,,,
+TRINITY_DN4984_c2_g1,FUN_025628,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,0.00046299158122088094,2.0,4.0,GAPB-2,OG0022355,chloroplast,AT1G42970
+TRINITY_DN51060_c0_g1,,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,0.0224895043451902,4.0,4.0,,,,
+TRINITY_DN56125_c1_g1,,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,,,,,,,
+TRINITY_DN56686_c0_g1,FUN_025628,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,0.016147146085346002,2.0,4.0,GAPB-2,OG0022355,chloroplast,AT1G42970
+TRINITY_DN56686_c8_g1,,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,,,,,,,
+TRINITY_DN57322_c0_g1,,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,0.176290289843016,1.0,4.0,,,,
+TRINITY_DN5975_c3_g1,FUN_042613,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,2.5552071542471104e-05,2.0,4.0,GAPB-3,OG0009877,chloroplast,AT1G42970
+TRINITY_DN75061_c0_g1,,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,,,,,,,
+TRINITY_DN9282_c0_g1,FUN_014693,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,1.12816809846571e-06,4.0,0.0,GAPCP-1,OG0000517,chloroplast,"AT1G79530, AT1G16300"
+TRINITY_DN97643_c0_g1,,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,0.311285780932862,4.0,5.0,,,,
+TRINITY_DN5705_c2_g1,FUN_005227,GATA,GATA transcription factor 22,Circadian/Light response,0.0986835903814439,23.0,1.0,GATA22-1,OG0018050,,AT4G26150
+TRINITY_DN8130_c1_g2,FUN_025211,GATA,GATA transcription factor 24,Circadian/Light response,0.000137344412592721,3.0,6.0,GATA24-1,OG0000756,,"AT3G21175, AT1G51600"
+TRINITY_DN9003_c0_g1,FUN_038622,GATA,GATA transcription factor 25,Circadian/Light response,2.74730351525453e-12,12.0,1.0,GATA25-1,OG0000756,,AT4G24470
+TRINITY_DN9003_c0_g4,FUN_038622,GATA,GATA transcription factor 25,Circadian/Light response,1.5044316385674e-06,9.0,6.0,GATA25-1,OG0000756,,AT4G24470
+TRINITY_DN10674_c0_g1,FUN_001118,GBF,G-box-binding factor 1,Circadian/Light response,0.0136133136611888,4.0,2.0,GBF1-1,OG0008754,,AT4G36730
+TRINITY_DN2605_c2_g1,FUN_001118,GBF,G-box-binding factor 1,Circadian/Light response,0.000232365732478989,5.0,2.0,GBF1-1,OG0008754,,AT4G36730
+TRINITY_DN11204_c1_g1,FUN_033598,GBSS,Granule-bound starch synthase 1,Starch synthesis,0.007286939507574391,1.0,4.0,GBSS1-1,OG0005169,chloroplast,AT1G32900
+TRINITY_DN2196_c0_g1,FUN_035149,GDCST,Aminomethyltransferase,Photorespiration,1.44809922747626e-12,1.0,4.0,GDCST-2,OG0008338,mitochondria,AT1G11860
+TRINITY_DN2504_c1_g1,FUN_012333,GDCST,Aminomethyltransferase,Photorespiration,1.0513577168289699e-07,5.0,4.0,GDCST-1,OG0008338,mitochondria,AT1G11860
+TRINITY_DN10695_c0_g1,FUN_019059,GDH,Glycine cleavage system H protein 2,Photorespiration,,1.0,1.0,GDH2-1,OG0007082,mitochondria,AT2G35120
+TRINITY_DN26311_c1_g1,FUN_017464,GDH,Glycine cleavage system H protein 1,Photorespiration,0.0271421723192037,5.0,5.0,GDH1-1,OG0012084,mitochondria,"AT2G35370, AT1G32470"
+TRINITY_DN4686_c0_g1,FUN_030432,GDH,Glycine cleavage system H protein 2,Photorespiration,0.0125939417326201,4.0,4.0,GDH2-2,OG0007082,mitochondria,AT2G35120
+TRINITY_DN6744_c1_g1,FUN_017464,GDH,Glycine cleavage system H protein 1,Photorespiration,7.773560925093421e-05,2.0,4.0,GDH1-1,OG0012084,mitochondria,"AT2G35370, AT1G32470"
+TRINITY_DN2102_c0_g1,FUN_032138,GGAT,Glutamate-glyoxylate aminotransferase 1,Photorespiration,0.0265507786926444,2.0,3.0,GGAT1-2,OG0009440,peroxisome,"AT1G23310, AT1G70580"
+TRINITY_DN45428_c0_g1,,GGAT,Glutamate-glyoxylate aminotransferase 2,Photorespiration,0.0159890545669911,5.0,3.0,,,,
+TRINITY_DN91948_c0_g1,,GGAT,Glutamate-glyoxylate aminotransferase 2,Photorespiration,0.031393114326012994,5.0,3.0,,,,
+TRINITY_DN8078_c0_g1,FUN_027001,GI,GIGANTEA,Circadian/Light response,0.541014287711504,8.0,5.0,GI-1,OG0009570,,AT1G22770
+TRINITY_DN6006_c0_g1,FUN_005224,GLDP,Glycine dehydrogenase (decarboxylating) 1,Photorespiration,9.627727527701109e-15,2.0,4.0,GLDP1-1,OG0006740,mitochondria,"AT4G33010, AT2G26080"
+TRINITY_DN14703_c0_g1,FUN_015764,GLK,Transcription activator GLK/Golden2-like 1,Circadian/Light response,0.70502495594698,5.0,3.0,GLK1-1,OG0003625,,"AT5G44190, AT2G20570"
+TRINITY_DN969_c0_g1,FUN_015764,GLK,Transcription activator GLK/Golden2-like 1,Circadian/Light response,0.162278978131176,5.0,3.0,GLK1-1,OG0003625,,"AT5G44190, AT2G20570"
+TRINITY_DN2190_c0_g1,FUN_027715,GLN,Glutamine synthetase 1,Photorespiration,0.17254958008211,5.0,3.0,GLN1-1,OG0000780,chloroplast,"AT3G17820, AT1G48470"
+TRINITY_DN4141_c1_g1,FUN_029032,GLN,Glutamine synthetase 1,Photorespiration,4.66567989798187e-24,5.0,3.0,GLN1-2,OG0000780,chloroplast,"AT5G16570, AT5G37600, AT1G66200"
+TRINITY_DN119764_c0_g1,FUN_044455,GLO/GOX,(S)-2-hydroxy-acid oxidase/Glycolate oxidase 5,Photorespiration,,,,GLO5-1,OG0001978,peroxisome,AT4G18360
+TRINITY_DN3751_c0_g1,FUN_011708,GLO/GOX,(S)-2-hydroxy-acid oxidase/Glycolate oxidase 1,Photorespiration,0.00127983373662266,5.0,3.0,GLO1-1,OG0001978,peroxisome,"AT3G14415, AT3G14420"
+TRINITY_DN12536_c0_g1,FUN_013684,GLU,Ferredoxin-dependent glutamate synthase 1,Photorespiration,0.48389480478355495,4.0,2.0,NADH-GOGAT1-1,OG0003857,chloroplast,AT5G53460
+TRINITY_DN425_c0_g1,FUN_032696,GLU,NADH-dependent glutamate synthase 2,Photorespiration,1.37400295182639e-13,5.0,3.0,Fd-GOGAT2-3,OG0004544,chloroplast,AT2G41220
+TRINITY_DN4321_c0_g1,FUN_013684,GLU,Ferredoxin-dependent glutamate synthase 1,Photorespiration,0.0060477862410642895,7.0,2.0,NADH-GOGAT1-1,OG0003857,chloroplast,AT5G53460
+TRINITY_DN2228_c0_g1,FUN_006219,GLYK,D-glycerate 3-kinase,Photorespiration,0.000133171943577505,2.0,3.0,GLYK-1,OG0009030,,AT1G80380
+TRINITY_DN13870_c0_g1,,GPT,Glucose-6-phosphate/phosphate translocator 2,Starch/sugar transport,0.000770607691516542,1.0,4.0,,,,
+TRINITY_DN4375_c0_g1,FUN_045959,GPT,Glucose-6-phosphate/phosphate translocator 2,Starch/sugar transport,3.99047079423759e-09,8.0,3.0,GPT2-4,OG0000889,chloroplast,"AT1G61800, AT5G54800"
+TRINITY_DN6031_c0_g1,FUN_049865,GPT,Glucose-6-phosphate/phosphate translocator 2,Starch/sugar transport,4.5708332864342206e-05,8.0,4.0,GPT2-5,OG0000889,chloroplast,"AT1G61800, AT5G54800"
+TRINITY_DN6322_c1_g1,FUN_035278,GPT,Glucose-6-phosphate/phosphate translocator 2,Starch/sugar transport,0.00175640430776779,1.0,4.0,GPT2-3,OG0000889,chloroplast,AT1G61800
+TRINITY_DN85090_c0_g2,,GPT,Glucose-6-phosphate/phosphate translocator 2,Starch/sugar transport,,1.0,3.0,,,,
+TRINITY_DN8852_c0_g1,FUN_035278,GPT,Glucose-6-phosphate/phosphate translocator 2,Starch/sugar transport,2.0874266129986e-27,0.0,4.0,GPT2-3,OG0000889,chloroplast,AT1G61800
+TRINITY_DN11560_c0_g1,FUN_045289,GRF,Growth-regulating factor 5,Circadian/Light response,0.00304768644447754,1.0,1.0,GRF5-1,OG0002951,,AT3G13960
+TRINITY_DN49742_c0_g1,FUN_045039,GRF,Growth-regulating factor 2,Circadian/Light response,0.00204628713610968,1.0,5.0,GRF2-2,OG0004908,,AT4G37740
+TRINITY_DN71104_c0_g1,FUN_027790,GRF,Growth-regulating factor 6,Circadian/Light response,,4.0,0.0,GRF6-1,OG0003905,,AT2G06200
+TRINITY_DN7128_c1_g2,FUN_050062,GRF,Growth-regulating factor 6,Circadian/Light response,,0.0,0.0,GRF6-2,OG0003905,,AT2G06200
+TRINITY_DN7778_c1_g1,FUN_041227,GRF,Growth-regulating factor 7,Circadian/Light response,,5.0,3.0,GRF7-2,OG0013130,,"AT5G53660, AT4G24150"
+TRINITY_DN12405_c1_g1,FUN_003562,GWD,"Phosphoglucan, water dikinase 3",Starch degradation,9.659172930918521e-05,18.0,4.0,GWD3-1,OG0011131,chloroplast,AT5G26570
+TRINITY_DN3424_c0_g1,FUN_009308,GWD,Alpha-glucan water dikinase 1,Starch degradation,0.9786518711482242,3.0,5.0,GWD1-1,OG0008694,chloroplast,AT1G10760
+TRINITY_DN39434_c0_g1,,GWD,Alpha-glucan water dikinase 1,Starch degradation,0.798202145943354,3.0,5.0,,,,
+TRINITY_DN69917_c0_g2,FUN_032150,GWD,Alpha-glucan water dikinase 1,Starch degradation,2.1890746948653397e-07,2.0,0.0,GWD1-2,OG0008694,chloroplast,AT1G10760
+TRINITY_DN11122_c0_g1,FUN_030229,HAT,Homeobox-leucine zipper protein HAT 9,Circadian/Light response,1.1233923023110001e-07,7.0,2.0,HAT-9-2,OG0001205,,"AT4G37790, AT2G22800"
+TRINITY_DN2421_c0_g1,FUN_024331,HAT,Homeobox-leucine zipper protein HAT 4,Circadian/Light response,7.13709323388115e-07,4.0,6.0,HAT4-1,OG0016015,,AT4G16780
+TRINITY_DN32772_c0_g1,FUN_003683,HAT,Homeobox-leucine zipper protein HAT 14,Circadian/Light response,0.0101298003717948,6.0,2.0,HAT14-1,OG0023733,,AT5G06710
+TRINITY_DN40626_c0_g2,FUN_039593,HAT,Homeobox-leucine zipper protein HAT 14,Circadian/Light response,,1.0,2.0,HAT14-3,OG0000260,,AT2G44910
+TRINITY_DN40626_c0_g2,FUN_039593,HAT,Homeobox-leucine zipper protein HAT 14,Circadian/Light response,,1.0,2.0,HAT14-3,OG0019550,,AT5G06710
+TRINITY_DN4311_c1_g1,FUN_017196,HAT,Homeobox-leucine zipper protein HAT 1,Circadian/Light response,0.00260119843857225,7.0,12.0,HAT1-1,OG0002744,,"AT5G47370, AT4G17460"
+TRINITY_DN4462_c0_g1,FUN_003936,HAT,Homeobox-leucine zipper protein HAT 9,Circadian/Light response,1.12137877356154e-24,3.0,3.0,HAT9-1,OG0001205,,"AT4G37790, AT2G22800"
+TRINITY_DN68271_c0_g1,FUN_017196,HAT,Homeobox-leucine zipper protein HAT 1,Circadian/Light response,0.0751824687806362,7.0,2.0,HAT1-1,OG0002744,,"AT5G47370, AT4G17460"
+TRINITY_DN69_c0_g2,FUN_003683,HAT,Homeobox-leucine zipper protein HAT 14,Circadian/Light response,1.69356758099798e-09,12.0,0.0,HAT14-1,OG0023733,,AT5G06710
+TRINITY_DN69_c0_g3,FUN_032999,HAT,Homeobox-leucine zipper protein HAT 14,Circadian/Light response,0.000312114552046374,4.0,2.0,HAT14-4,OG0001205,,AT5G06710
+TRINITY_DN2080_c3_g1,FUN_006315,HPR,Glyoxylate/hydroxypyruvate reductase A,Photorespiration,0.00374788960172304,4.0,4.0,HPR2-2,OG0005272,peroxisome,AT1G79870
+TRINITY_DN43703_c0_g1,FUN_006314,HPR,Glyoxylate/hydroxypyruvate reductase A,Photorespiration,,0.0,3.0,HPR2-1,OG0005272,peroxisome,AT1G79870
+TRINITY_DN71625_c0_g1,,HPR,Glycerate dehydrogenase,Photorespiration,,5.0,2.0,,,,
+TRINITY_DN7689_c0_g3,FUN_045743,HPR,Glycerate dehydrogenase,Photorespiration,0.12488713235932301,5.0,3.0,HPR1-1,OG0012706,peroxisome,AT1G68010
+TRINITY_DN98130_c0_g4,,HPR,Glycerate dehydrogenase,Photorespiration,,5.0,,,,,
+TRINITY_DN10129_c0_g1,FUN_036370,HXK,Hexokinase 3,Transitory starch pathway,2.53960775216478e-12,25.0,4.0,HXK3-1,OG0002715,mitochondria,"AT1G50460, AT3G20040"
+TRINITY_DN1446_c0_g1,FUN_024205,HXK,HexokinasHexokinase-like 1e 1,Transitory starch pathway,1.5111728208557099e-05,5.0,3.0,HXKL1-1,OG0013694,,AT1G47840
+TRINITY_DN54852_c0_g1,FUN_052690,HXK,Hexokinase 3,Transitory starch pathway,0.0022275373275203302,4.0,2.0,HXK3-2,OG0002715,mitochondria,"AT1G50460, AT3G20040"
+TRINITY_DN7391_c0_g1,FUN_006455,HXK,Hexokinase 1,Transitory starch pathway,0.0273652711784922,7.0,2.0,HXK1-1,OG0015687,mitochondria,AT4G29130
+TRINITY_DN8702_c0_g1,FUN_026676,HXK,Hexokinase 1,Transitory starch pathway,0.0359046632193698,15.0,4.0,HXK1-2,OG0001282,mitochondria,"AT2G19860, AT4G29130"
+TRINITY_DN2780_c0_g1,FUN_014198,HY,Transcription factor HY5-like,Circadian/Light response,2.31042052959656e-06,2.0,3.0,HYH-1,OG0002064,,AT3G17609
+TRINITY_DN34596_c0_g1,FUN_023543,HY,Transcription factor HY5,Circadian/Light response,6.831068423083149e-09,5.0,14.0,HY5-1,OG0002064,,AT5G11260
+TRINITY_DN1594_c0_g1,FUN_042844,ISA,Isoamylase 2,Starch synthesis,0.000282183874505859,19.0,4.0,ISA2-2,OG0006976,chloroplast,AT1G03310
+TRINITY_DN4229_c0_g1,FUN_026768,ISA,Isoamylase 1,Starch synthesis,1.1505557079918001e-10,8.0,4.0,ISA1-1,OG0009772,chloroplast,AT2G39930
+TRINITY_DN4726_c0_g1,FUN_038098,ISA,Isoamylase 3,Starch degradation,1.09484051444267e-05,3.0,5.0,ISA3-1,OG0007530,chloroplast,AT4G09020
+TRINITY_DN179937_c0_g1,FUN_022752,LAF,Transcription factor LAF/LONG AFTER FAR-RED LIGHT 1,Circadian/Light response,,,,LAF1-3,OG0002198,,"AT3G48920, AT4G25560, AT5G52260"
+TRINITY_DN181555_c0_g1,FUN_022754,LAF,Transcription factor LAF/LONG AFTER FAR-RED LIGHT 1,Circadian/Light response,,,,LAF1-4,OG0002198,,"AT3G48920, AT4G25560, AT5G52260"
+TRINITY_DN7854_c1_g1,,LHY,LATE ELONGATED HYPOCOTYL,Circadian/Light response,0.15145170362350302,1.0,3.0,,,,
+TRINITY_DN12908_c1_g2,FUN_051849,LNK,Night light-inducible and clock-regulated 1,Circadian/Light response,0.257378353279464,1.0,4.0,LNK1-2,OG0002609,,AT5G64170
+TRINITY_DN14501_c0_g1,FUN_051849,LNK,Night light-inducible and clock-regulated 1,Circadian/Light response,0.0760724499257111,1.0,4.0,LNK1-2,OG0002609,,AT5G64170
+TRINITY_DN4139_c0_g1,FUN_045634,LNK,Night light-inducible and clock-regulated 1,Circadian/Light response,0.0251033137385779,10.0,3.0,LNK1-1,OG0002609,,AT5G64170
+TRINITY_DN101679_c0_g1,FUN_014237,LPD,Dihydrolipoyl dehydrogenase/Glycine cleavage system L protein 1,Photorespiration,0.000396281451269612,18.0,4.0,mtLPD1-1,OG0003368,mitochondria,"AT3G17240, AT1G48030"
+TRINITY_DN16240_c0_g2,,LPD,Dihydrolipoyl dehydrogenase/Glycine cleavage system L protein 2,Photorespiration,1.41934296037761e-05,4.0,0.0,,,,
+TRINITY_DN39218_c0_g1,,LPD,Dihydrolipoyl dehydrogenase/Glycine cleavage system L protein 1,Photorespiration,9.249626062838449e-05,4.0,4.0,,,,
+TRINITY_DN4644_c0_g1,FUN_014956,LPD,Dihydrolipoyl dehydrogenase/Glycine cleavage system L protein 2,Photorespiration,2.66537655185948e-05,0.0,3.0,cpLPD2-1,OG0005277,chloroplast,"AT4G16155, AT3G16950"
+TRINITY_DN7076_c1_g1,FUN_014237,LPD,Dihydrolipoyl dehydrogenase/Glycine cleavage system L protein 1,Photorespiration,2.5160209263031397e-11,4.0,4.0,mtLPD1-1,OG0003368,mitochondria,"AT3G17240, AT1G48030"
+TRINITY_DN1777_c0_g1,FUN_039303,LSF,Phosphoglucan phosphatase 1,Starch degradation,0.0349793469246651,8.0,9.0,LSF1-1,OG0009479,chloroplast,AT3G01510
+TRINITY_DN2348_c0_g1,FUN_029275,LSF,Phosphoglucan phosphatase 2,Starch degradation,0.880457909339473,5.0,3.0,LSF2-1,OG0007747,chloroplast,AT3G10940
+TRINITY_DN1624_c0_g1,FUN_004415,LUX/BOA/PCLL,LUX ARRHYTHMO/BROTHER OF LUX ARRHYTHMO/PHTYOCLOCK 1-like,Circadian/Light response,7.158363749783489e-18,4.0,5.0,LUX-1,OG0000520,,"AT5G05090, AT3G10760"
+TRINITY_DN1624_c2_g1,FUN_033959,LUX/BOA/PCLL,LUX ARRHYTHMO/BROTHER OF LUX ARRHYTHMO/PHTYOCLOCK 1-like,Circadian/Light response,3.58197011333952e-10,5.0,2.0,LUX-4,OG0000520,,"AT5G05090, AT3G10760"
+TRINITY_DN47194_c0_g1,FUN_030093,LUX/BOA/PCLL,LUX ARRHYTHMO/BROTHER OF LUX ARRHYTHMO/PHTYOCLOCK 1-like,Circadian/Light response,0.358856554985004,4.0,8.0,LUX-3,OG0000520,,"AT5G59570, AT3G46640"
+TRINITY_DN86791_c0_g1,FUN_047962,LUX/BOA/PCLL,LUX ARRHYTHMO/BROTHER OF LUX ARRHYTHMO/PHTYOCLOCK 1-like,Circadian/Light response,1.0,8.0,9.0,LUX-5,OG0000520,,"AT5G59570, AT3G46640"
+TRINITY_DN6527_c0_g1,FUN_007567,LWD,WD repeat-containing protein/LIGHT-REGULATED WD,Circadian/Light response,2.8477327808236602e-05,4.0,2.0,LWD1-1,OG0008161,,"AT1G12910,AT3G26640"
+TRINITY_DN11597_c0_g1,FUN_002078,MDH,"NADP-dependent malate dehydrogenase, chloroplastic",Carboxylation,0.000579553018194764,5.0,6.0,cpNADP-MDH-1,OG0007626,chloroplast,AT5G58330
+TRINITY_DN12466_c1_g1,FUN_011866,MDH,"NAD-dependent malate dehydrogenase, mitochondrial",Carboxylation,0.000412980528303136,1.0,4.0,mtNAD-MDH-1,OG0004671,mitochondria,"AT3G15020, AT1G53240"
+TRINITY_DN35451_c0_g1,,MDH,"NAD-dependent malate dehydrogenase 1, peroxisomal",Carboxylation,2.45202914190768e-05,4.0,6.0,,,,
+TRINITY_DN379_c2_g1,FUN_003919,MDH,"NAD-dependent malate dehydrogenase 1, peroxisomal",Carboxylation,2.82431078390329e-09,1.0,4.0,pNAD-MDH1-1,OG0003239,peroxisome,AT2G22780
+TRINITY_DN47410_c0_g1,,MDH,"NAD-dependent malate dehydrogenase 2, cytoplasmic",Carboxylation,,,8.0,,,,
+TRINITY_DN4863_c0_g1,FUN_018995,MDH,"NAD-dependent malate dehydrogenase, chloroplastic",Carboxylation,0.0780109606562449,21.0,3.0,cpNAD-MDH-1,OG0004122,chloroplast,AT3G47520
+TRINITY_DN65843_c0_g1,,MDH,"NAD-dependent malate dehydrogenase 2, peroxisomal",Carboxylation,1.35672935714012e-07,1.0,3.0,,,,
+TRINITY_DN7462_c3_g1,FUN_015107,MDH,"NAD-dependent malate dehydrogenase 1, cytoplasmic",Carboxylation,0.019786360145094,4.0,5.0,cNAD-MDH1-1,OG0002189,cytoplasm,"AT5G56720, AT5G43330"
+TRINITY_DN76211_c0_g1,FUN_036902,MDH,"NAD-dependent malate dehydrogenase 3, cytoplasmic",Carboxylation,,2.0,2.0,cNAD-MDH3-2,OG0002189,cytoplasm,AT5G56720
+TRINITY_DN76211_c0_g2,FUN_049579,MDH,"NAD-dependent malate dehydrogenase 3, cytoplasmic",Carboxylation,0.6926139764063529,16.0,10.0,cNAD-MDH3-3,OG0002189,cytoplasm,AT5G56720
+TRINITY_DN76211_c0_g3,FUN_036901,MDH,"NAD-dependent malate dehydrogenase 3, cytoplasmic",Carboxylation,,0.0,2.0,cNAD-MDH3-1,OG0002189,cytoplasm,AT5G56720
+TRINITY_DN78819_c0_g1,,MDH,"NAD-dependent malate dehydrogenase 2, peroxisomal",Carboxylation,0.0032441292495213898,1.0,4.0,,,,
+TRINITY_DN9853_c0_g1,FUN_029296,MDH,"NAD-dependent malate dehydrogenase, chloroplastic",Carboxylation,0.00643918524968794,4.0,8.0,cpNAD-MDH-2,OG0004122,chloroplast,AT3G47520
+TRINITY_DN105_c0_g1,FUN_049199,ME,"NAD-dependent malic enzyme 2, mitochondrial",Decarboxylation,6.50703865330122e-06,2.0,1.0,mtNAD-ME2-2,OG0006111,mitochondria,AT4G00570
+TRINITY_DN121700_c0_g1,FUN_015913,ME,"NADP-dependent malic enzyme 4, chloroplastic",Decarboxylation,,4.0,5.0,cpNADP-ME4-5,,chloroplast,AT1G79750
+TRINITY_DN1253_c0_g1,FUN_006423,ME,"NADP-dependent malic enzyme 4, chloroplastic",Decarboxylation,0.47904008777196794,2.0,3.0,cpNADP-ME4-4,OG0000463,chloroplast,AT1G79750
+TRINITY_DN17872_c1_g1,,ME,"NAD-dependent malic enzyme 2, mitochondrial",Decarboxylation,5.18769472725802e-38,2.0,2.0,,,,
+TRINITY_DN28670_c0_g1,,ME,"NAD-dependent malic enzyme 2, mitochondrial",Decarboxylation,0.00120553085237425,1.0,1.0,,,,
+TRINITY_DN53814_c0_g1,FUN_006404,ME,"NAD-dependent malic enzyme 4, chloroplastic",Decarboxylation,,8.0,5.0,cpNADP-ME4-2,OG0015821,chloroplast,AT1G79750
+TRINITY_DN5713_c0_g1,FUN_021996,ME,"NAD-dependent malic enzyme 1, mitochondrial",Decarboxylation,4.93170553660641e-24,2.0,3.0,mtNAD-ME1-1,OG0005545,mitochondria,AT2G13560
+TRINITY_DN57527_c2_g1,,ME,"NAD-dependent malic enzyme 1, mitochondrial",Decarboxylation,,,,,,,
+TRINITY_DN74830_c0_g1,,ME,"NAD-dependent malic enzyme 2, mitochondrial",Decarboxylation,0.000454232845547721,5.0,0.0,,,,
+TRINITY_DN75749_c0_g1,FUN_005110,ME,"NADP-dependent malic enzyme 2, cytoplasmic",Decarboxylation,,0.0,8.0,cNADP-ME2-1,OG0000463,cytoplasm,AT5G25880
+TRINITY_DN7894_c4_g1,FUN_006404,ME,"NADP-dependent malic enzyme 4, chloroplastic",Decarboxylation,0.131128640142471,2.0,3.0,cpNADP-ME4-5,OG0015821,chloroplast,AT1G79750
+TRINITY_DN7904_c0_g1,,ME,"NAD-dependent malic enzyme 2, mitochondrial",Decarboxylation,0.0103615364367291,1.0,1.0,,,,
+TRINITY_DN81025_c0_g1,FUN_015913,ME,"NADP-dependent malic enzyme 4, chloroplastic",Decarboxylation,0.0035600683422349296,2.0,3.0,cpNADP-ME4-5,,chloroplast,AT1G79750
+TRINITY_DN87595_c3_g1,FUN_006404,ME,"NADP-dependent malic enzyme 4, chloroplastic",Decarboxylation,,,,cpNADP-ME4-2,OG0015821,chloroplast,AT1G79750
+TRINITY_DN9969_c0_g1,FUN_026515,ME,"NADP-dependent malic enzyme 1, cytoplasmic",Decarboxylation,9.29129696247683e-12,4.0,9.0,cNADP-ME1-1,OG0000463,cytoplasm,AT2G19900
+TRINITY_DN590_c0_g1,FUN_052713,MEP/RER,Methyl erythritol phosphate transporter/RETICULATA-RELATED,Metabolite transport,2.26495581880252e-13,2.0,4.0,MEP4-2,OG0004785,,AT5G12470
+TRINITY_DN6842_c0_g1,FUN_015238,MEX,Maltose excess protein 1,Starch/sugar transport,0.0309544476319806,3.0,4.0,MEX1-1,OG0007717,chloroplast,"AT5G17520, AT5G17523"
+TRINITY_DN16506_c0_g1,,MSSP,Monosaccharide-sensing protein 2,Starch/sugar transport,2.39865378417041e-06,4.0,6.0,,,,
+TRINITY_DN17666_c0_g1,,MSSP,Monosaccharide-sensing protein 2,Starch/sugar transport,3.2454358747709396e-07,4.0,6.0,,,,
+TRINITY_DN3038_c1_g1,FUN_025616,MSSP,Monosaccharide-sensing protein 1,Starch/sugar transport,5.46313316989933e-15,18.0,5.0,MSSP1-1,OG0000883,vacuole,AT1G20840
+TRINITY_DN48299_c0_g1,,MSSP,Monosaccharide-sensing protein 2,Starch/sugar transport,7.58130615131968e-09,21.0,4.0,,,,
+TRINITY_DN6869_c0_g1,FUN_045571,MSSP,Monosaccharide-sensing protein 2,Starch/sugar transport,3.5273632629169794e-31,4.0,6.0,MSSP2-3,OG0000883,vacuole,AT4G35300
+TRINITY_DN6869_c0_g2,FUN_051800,MSSP,Monosaccharide-sensing protein 2,Starch/sugar transport,3.41605794918487e-12,21.0,4.0,MSSP2-4,OG0000883,vacuole,AT4G35300
+TRINITY_DN7721_c0_g1,FUN_004191,MSSP,Monosaccharide-sensing protein 2,Starch/sugar transport,7.70457165096638e-07,1.0,4.0,MSSP2-1,OG0000883,vacuole,"AT4G35300, AT1G20840"
+TRINITY_DN18916_c0_g1,FUN_008585,MYB,Transcription factor MYB,Circadian/Light response,0.000147928803638665,13.0,2.0,MYB-4,OG0000085,,"AT4G05100, AT4G21440"
+TRINITY_DN24779_c0_g1,FUN_002730,MYB,Transcription factor MYB,Circadian/Light response,,1.0,7.0,MYB-2,OG0000074,,"AT4G09460, AT1G35515, AT5G35550, AT1G22640"
+TRINITY_DN24917_c0_g1,FUN_008586,MYB,Transcription factor MYB,Circadian/Light response,,13.0,16.0,MYB-5,OG0000085,,"AT2G31180, AT5G10280, AT1G16490, AT4G05100, AT3G23250, AT1G06180, AT5G16770, AT5G65230, AT4G28110, AT3G12820, AT1G79180, AT3G02940, AT4G21440, AT1G34670"
+TRINITY_DN25021_c0_g1,FUN_010340,MYB,Transcription factor MYB,Circadian/Light response,,5.0,0.0,MYB-6,OG0004553,,
+TRINITY_DN2554_c0_g1,FUN_016739,MYB,Transcription factor MYB,Circadian/Light response,0.0107871532192489,11.0,2.0,MYB-8,OG0000074,,"AT4G09460, AT1G35515, AT5G35550, AT1G22640"
+TRINITY_DN33903_c0_g2,FUN_027799,MYB,Transcription factor MYB,Circadian/Light response,,0.0,11.0,MYB-11,OG0000074,,AT5G35550
+TRINITY_DN3439_c0_g1,FUN_015112,MYB,Transcription factor MYB,Circadian/Light response,0.0006769811524804269,3.0,2.0,MYB-8,OG0000085,,AT3G23250
+TRINITY_DN3439_c0_g2,FUN_037490,MYB,Transcription factor MYB,Circadian/Light response,,13.0,3.0,MYB-16,OG0027941,,
+TRINITY_DN43890_c1_g1,FUN_048335,MYB,Transcription factor MYB,Circadian/Light response,,3.0,5.0,MYB-21,OG0048202,,
+TRINITY_DN47254_c0_g1,FUN_000232,MYB,Transcription factor MYB,Circadian/Light response,,1.0,13.0,MYB-1,OG0000085,,"AT2G31180, AT5G10280, AT1G16490, AT4G05100, AT3G23250, AT1G06180, AT5G16770, AT5G65230, AT4G28110, AT3G12820, AT1G79180, AT3G02940, AT4G21440, AT1G34670"
+TRINITY_DN48306_c0_g1,FUN_003721,MYB,Transcription factor MYB,Circadian/Light response,0.164960578225823,7.0,2.0,MYB-3,OG0000074,,AT3G13540
+TRINITY_DN52858_c0_g1,FUN_010416,MYB,Transcription factor MYB,Circadian/Light response,,,3.0,MYB-7,OG0035789,,
+TRINITY_DN618_c2_g1,FUN_045720,MYB,Transcription factor MYB,Circadian/Light response,0.012806244320373002,17.0,2.0,MYB-19,OG0000074,,"AT4G38620, AT4G34990, AT2G16720"
+TRINITY_DN666_c5_g1,FUN_003721,MYB,Transcription factor MYB,Circadian/Light response,0.0019265583552637898,7.0,2.0,MYB-3,OG0000074,,AT3G13540
+TRINITY_DN7132_c0_g1,FUN_040035,MYB,Transcription factor MYB,Circadian/Light response,0.47190847808430997,5.0,2.0,MYB-18,OG0001125,,"AT1G56650, AT1G66390, AT1G66380, AT1G66370"
+TRINITY_DN82642_c0_g1,FUN_036805,MYB,Transcription factor MYB,Circadian/Light response,,0.0,3.0,MYB-15,OG0001125,,"AT1G56650, AT1G66390, AT1G66380, AT1G66370"
+TRINITY_DN8739_c0_g1,FUN_051962,MYB,Transcription factor MYB,Circadian/Light response,0.0046798242466369894,15.0,4.0,MYB-24,OG0000074,,"AT4G38620, AT4G34990, AT2G16720"
+TRINITY_DN378_c2_g1,FUN_017559,MYC,Transcription factor MYC,Circadian/Light response,2.5328923693218e-10,4.0,9.0,MYC2-1,OG0004248,,"AT5G46760, AT5G46830, AT1G32640, AT4G17880"
+TRINITY_DN4962_c0_g1,FUN_041575,MYC,Transcription factor MYC,Circadian/Light response,2.93364954821493e-11,5.0,18.0,MYC2-2,OG0004248,,"AT5G46760, AT5G46830, AT1G32640, AT4G17880"
+TRINITY_DN3383_c0_g1,FUN_038686,NAC,NAC transcription factor 2,Circadian/Light response,9.2530909385093e-15,4.0,2.0,NAC002-1,OG0001731,,AT1G01720
+TRINITY_DN3743_c0_g1,FUN_052255,NAC,NAC transcription factor 81,Circadian/Light response,0.348505532383299,12.0,12.0,NAC081-1,OG0001731,,"AT5G63790, AT5G08790"
+TRINITY_DN1372_c2_g1,FUN_047221,NHD,Sodium/proton antiporter 2,PEP generation,2.92976440047486e-07,1.0,4.0,NHD2-1,OG0003924,chloroplast,AT1G49810
+TRINITY_DN68044_c3_g1,FUN_047221,NHD,Sodium/proton antiporter 2,PEP generation,,,,NHD2-1,OG0003924,chloroplast,AT1G49810
+TRINITY_DN8290_c0_g1,FUN_047221,NHD,Sodium/proton antiporter 2,PEP generation,0.00611372619972726,23.0,7.0,NHD2-1,OG0003924,chloroplast,AT1G49810
+TRINITY_DN3550_c0_g1,FUN_033216,PCK,Phosphoenolpyruvate carboxykinase 1,Decarboxylation,6.93141375506791e-08,12.0,0.0,PCK1-1,OG0004462,cytoplasm,"AT5G65690, AT4G37870"
+TRINITY_DN1335_c0_g1,FUN_021326,PFK,ATP-dependent 6-phosphofructokinase 1,Transitory starch pathway,0.227528229522142,8.0,9.0,PFK1-4,OG0000406,cytoplasm,"AT4G26270, AT4G29220, AT5G56630"
+TRINITY_DN5309_c0_g1,FUN_030933,PFK,ATP-dependent 6-phosphofructokinase 5,Transitory starch pathway,2.21749703891862e-12,1.0,7.0,PFK5-2,OG0002705,chloroplast,AT2G22480
+TRINITY_DN6100_c0_g1,FUN_025469,PFK,ATP-dependent 6-phosphofructokinase 5,Transitory starch pathway,2.65492742738457e-11,12.0,1.0,PFK5-1,OG0002705,chloroplast,AT2G22480
+TRINITY_DN6839_c0_g1,FUN_006465,PFK,ATP-dependent 6-phosphofructokinase 1,Transitory starch pathway,0.14006477366505998,5.0,3.0,PFK1-2,OG0000406,cytoplasm,"AT4G26270, AT4G29220, AT5G56630, AT4G32840"
+TRINITY_DN6839_c0_g2,FUN_015896,PFK,ATP-dependent 6-phosphofructokinase 1,Transitory starch pathway,0.8054678706080021,1.0,3.0,PFK1-3,OG0000406,cytoplasm,"AT4G26270, AT4G29220, AT5G56630, AT4G32840"
+TRINITY_DN8265_c0_g1,FUN_026723,PFK,ATP-dependent 6-phosphofructokinase 6,Transitory starch pathway,0.37191221488052795,5.0,2.0,PFK6-1,OG0000406,cytoplasm,AT4G32840
+TRINITY_DN1518_c1_g1,FUN_017933,PGI,"Glucose-6-phosphate isomerase, cytosolic",Transitory starch pathway,0.0001141338386925,2.0,3.0,PGIC-1,OG0007009,cytoplasm,AT5G42740
+TRINITY_DN6660_c0_g1,FUN_048540,PGI,"Glucose-6-phosphate isomerase 1, chloroplastic",Transitory starch pathway,1.29152594670607e-19,3.0,4.0,PGI1-1,OG0009238,chloroplast,AT4G24620
+TRINITY_DN3024_c4_g1,FUN_018626,PGK,Phosphoglycerate kinase 3,Calvin cycle,0.0269627410172929,2.0,5.0,PGK3-1,OG0002807,cytoplasm,AT1G79550
+TRINITY_DN6779_c0_g1,FUN_002797,PGK,Phosphoglycerate kinase 1,Calvin cycle,1.1595457651794001e-05,1.0,4.0,PGK1-1,OG0002807,chloroplast,"AT1G56190, AT3G12780"
+TRINITY_DN3179_c0_g1,FUN_016591,pGlcT,Plastidic glucose transporter,Starch/sugar transport,2.9980087289539198e-05,7.0,13.0,pGlcT-1,OG0007862,chloroplast,AT5G16150
+TRINITY_DN7812_c0_g2,FUN_029844,pGlcT,Plastidic glucose transporter,Starch/sugar transport,3.2916885919936603e-16,1.0,4.0,pGlcT-2,OG0007862,chloroplast,AT5G16150
+TRINITY_DN17754_c0_g1,FUN_036235,PGLP,Phosphoglycolate phosphatase 1,Photorespiration,0.22390862210210397,2.0,3.0,PGLP1-1,OG0008150,chloroplast,"AT5G36700, AT5G36790"
+TRINITY_DN3498_c0_g1,FUN_049121,PGLP,Phosphoglycolate phosphatase 2,Photorespiration,7.220948889500341e-17,11.0,4.0,PGLP2-2,OG0028692,chloroplast,AT5G47760
+TRINITY_DN40996_c0_g1,FUN_049122,PGLP,Phosphoglycolate phosphatase 2,Photorespiration,1.2630818521829499e-43,1.0,0.0,PGLP2-3,OG0048222,chloroplast,AT5G47760
+TRINITY_DN108398_c0_g1,,PGM,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",Calvin cycle,0.0105354016487943,15.0,4.0,,,,
+TRINITY_DN11648_c1_g1,FUN_022557,PGM,"Phosphoglucomutase, chloroplastic",Transitory starch pathway,0.204632849487665,15.0,4.0,PGMP-1,OG0013124,chloroplast,AT5G51820
+TRINITY_DN18811_c0_g1,,PGM,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",Calvin cycle,1.98970993576264e-09,15.0,4.0,,,,
+TRINITY_DN18811_c0_g2,FUN_018938,PGM,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",Calvin cycle,0.06115484877485299,1.0,1.0,PGM1-2,OG0002123,ubiquitous,"AT3G08590, AT1G09780"
+TRINITY_DN23625_c0_g1,FUN_033324,PGM,"Phosphoglucomutase, cytoplasmic",Transitory starch pathway,6.16018499618568e-05,5.0,2.0,PGMC-1,OG0006375,cytoplasm,"AT1G70730, AT1G23190"
+TRINITY_DN4253_c0_g1,FUN_008086,PGM,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",Calvin cycle,0.0255350216842161,15.0,4.0,PGM1-1,OG0002123,ubiquitous,"AT3G08590, AT1G09780"
+TRINITY_DN5258_c0_g1,,PGM,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",Calvin cycle,0.00586682864135769,18.0,5.0,,,,
+TRINITY_DN92087_c0_g2,,PGM,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",Calvin cycle,0.0718160960126442,1.0,4.0,,,,
+TRINITY_DN282_c3_g1,FUN_049345,PHOT,Phototropin 1,Circadian/Light response,9.122793292140811e-08,1.0,1.0,PHOT1-1,OG0010421,,AT3G45780
+TRINITY_DN5515_c0_g1,FUN_047154,PHOT,Phototropin 2,Circadian/Light response,1.23962026716363e-05,5.0,3.0,PHOT2-1,OG0005583,,AT5G58140
+TRINITY_DN10928_c0_g1,FUN_029113,PHS,Alpha-glucan phosphorylase 1,Starch degradation,0.10383255793225801,3.0,9.0,PHS1-2,OG0002072,chloroplast,AT3G29320
+TRINITY_DN10928_c0_g2,FUN_029113,PHS,Alpha-glucan phosphorylase 1,Starch degradation,0.0783873262620313,3.0,4.0,PHS1-2,OG0002072,chloroplast,AT3G29320
+TRINITY_DN11840_c0_g1,,PHS,Alpha-glucan phosphorylase 1,Transitory starch pathway,0.709073641901914,3.0,4.0,,,,
+TRINITY_DN12375_c0_g1,FUN_029113,PHS,Alpha-glucan phosphorylase 1,Starch degradation,0.00014497423106846102,3.0,5.0,PHS1-2,OG0002072,chloroplast,AT3G29320
+TRINITY_DN4847_c0_g1,FUN_049087,PHS,Alpha-glucan phosphorylase 2,Transitory starch pathway,0.6765497957333431,3.0,5.0,PHS2-2,OG0002072,cytoplasm,AT3G46970
+TRINITY_DN1475_c0_g1,FUN_027339,PHY,Phytochrome C,Circadian/Light response,0.00026694471131457004,1.0,1.0,PHYC-1,OG0008602,,AT5G35840
+TRINITY_DN2460_c0_g1,FUN_008439,PHY,Phytochrome A,Circadian/Light response,6.6674445506698e-05,7.0,5.0,PHYA-1,OG0005829,,AT1G09570
+TRINITY_DN2592_c0_g1,FUN_014895,PHY,Phytochrome B,Circadian/Light response,1.77183733636925e-09,21.0,2.0,PHYB-1,OG0004560,,"AT4G18130, AT4G16250, AT2G18790"
+TRINITY_DN37252_c0_g1,FUN_024962,PIF,Transcription factor PIF1/PHY-INTERACTING FACTOR 1,Circadian/Light response,,,,PIF1-1,OG0004316,,AT2G20180
+TRINITY_DN4442_c0_g2,FUN_052322,PIF,Transcription factor PIF1/PHY-INTERACTING FACTOR 3,Circadian/Light response,5.19890939564128e-06,3.0,4.0,PIF3-1,OG0004354,,AT1G09530
+TRINITY_DN54052_c0_g1,FUN_024962,PIF,Transcription factor PIF1/PHY-INTERACTING FACTOR 1,Circadian/Light response,0.0547408070793142,21.0,2.0,PIF1-1,OG0004316,,AT2G20180
+TRINITY_DN7739_c0_g1,FUN_024962,PIF,Transcription factor PIF1/PHY-INTERACTING FACTOR 1,Circadian/Light response,2.89478117933039e-06,5.0,2.0,PIF1-1,OG0004316,,AT2G20180
+TRINITY_DN10229_c0_g2,FUN_017796,PLGG,Plastidal glycolate/glycerate translocator,Photorespiration,2.3354273191347403e-09,2.0,4.0,PLGG-1,OG0006118,chloroplast,AT1G32080
+TRINITY_DN1651_c0_g1,FUN_041760,PLGG,Plastidal glycolate/glycerate translocator,Photorespiration,8.62147838643392e-14,8.0,4.0,PLGG-2,OG0006118,chloroplast,AT1G32080
+TRINITY_DN1173_c2_g1,FUN_022923,PP2A,Serine/threonine-protein phosphatase PP2A-1 catalytic subunit,PEPC regulation,0.0180332667422569,5.0,2.0,PP2A1-2,OG0000419,cytoplasm,"AT1G69960,AT1G59830,AT1G10430"
+TRINITY_DN1375_c2_g1,FUN_035711,PP2A,Serine/threonine-protein phosphatase PP2A-3 catalytic subunit,PEPC regulation,5.00540544035126e-13,7.0,2.0,PP2A3-2,OG0000419,cytoplasm,"AT2G42500,AT3G58500"
+TRINITY_DN1375_c3_g1,,PP2A,Serine/threonine-protein phosphatase PP2A-1 catalytic subunit,PEPC regulation,1.25995281674037e-06,1.0,4.0,,,,
+TRINITY_DN1527_c3_g1,FUN_035711,PP2A,Serine/threonine-protein phosphatase PP2A-3 catalytic subunit,PEPC regulation,5.89200875075726e-08,5.0,2.0,PP2A3-2,OG0000419,cytoplasm,"AT2G42500,AT3G58500"
+TRINITY_DN11749_c0_g2,FUN_046955,PPA,Soluble inorganic pyrophosphatase 1,PEP generation,0.00569211092507744,11.0,2.0,PPA1-2,OG0000662,unknown,"AT1G01050,AT4G01480,AT3G53620,AT2G46860"
+TRINITY_DN2073_c0_g1,FUN_048305,PPA,Soluble inorganic pyrophosphatase 1,PEP generation,1.4905407779175303e-13,11.0,2.0,PPA1-3,OG0000662,unknown,"AT1G01050,AT4G01480,AT3G53620,AT2G46860"
+TRINITY_DN25070_c1_g2,,PPA,Soluble inorganic pyrophosphatase 6,PEP generation,0.0281106915439926,2.0,5.0,,,,
+TRINITY_DN695_c6_g1,FUN_009450,PPA,Soluble inorganic pyrophosphatase 2,PEP generation,0.000154926154980405,5.0,4.0,PPA2-1,OG0000662,unknown,AT2G18230
+TRINITY_DN106013_c0_g1,FUN_020790,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,,2.0,0.0,PPC-1E1a',,cytoplasm,
+TRINITY_DN111585_c0_g2,FUN_029936,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,,,,PPC-1E1c,,cytoplasm,
+TRINITY_DN115528_c0_g2,FUN_020790,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,,,,PPC-1E1a',,cytoplasm,
+TRINITY_DN11581_c7_g1,FUN_020790,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,,,,PPC-1E1a',,cytoplasm,
+TRINITY_DN139839_c0_g1,FUN_020790,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,,,,PPC-1E1a',,cytoplasm,
+TRINITY_DN1601_c7_g1,FUN_023805,PPC,Phosphoenolpyruvate carboxylase 2,Carboxylation,5.607129832664821e-05,1.0,3.0,PPC-2E,,cytoplasm,
+TRINITY_DN1747_c2_g1,FUN_020790,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,1.33239445374157e-15,2.0,4.0,PPC-1E1a',,cytoplasm,
+TRINITY_DN1747_c40_g1,FUN_020790,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,,0.0,,PPC-1E1a',,cytoplasm,
+TRINITY_DN1834_c9_g1,FUN_020790,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,,,,PPC-1E1a',,cytoplasm,
+TRINITY_DN22457_c0_g1,FUN_020790,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,5.073691747564791e-06,2.0,4.0,PPC-1E1a',,cytoplasm,
+TRINITY_DN22457_c0_g2,FUN_020790,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,5.06624862430459e-05,1.0,4.0,PPC-1E1a',,cytoplasm,
+TRINITY_DN22457_c0_g3,FUN_020790,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,9.021004765520451e-05,2.0,4.0,PPC-1E1a',,cytoplasm,
+TRINITY_DN22457_c5_g1,FUN_020790,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,,,,PPC-1E1a',,cytoplasm,
+TRINITY_DN26074_c0_g1,FUN_020790,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,,,,PPC-1E1a',,cytoplasm,
+TRINITY_DN28934_c0_g2,FUN_029936,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,1.0314667503060599e-09,4.0,2.0,PPC-1E1c,,cytoplasm,
+TRINITY_DN3235_c0_g2,,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,0.219167154122673,4.0,4.0,PPC-1E1a,,,
+TRINITY_DN3235_c0_g3,FUN_029936,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,2.96136837731736e-17,4.0,9.0,PPC-1E1c,,cytoplasm,
+TRINITY_DN3235_c6_g3,FUN_016990,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,0.007859053421160729,5.0,3.0,PPC-1E1b,,cytoplasm,
+TRINITY_DN61415_c0_g3,,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,0.000517407772713199,4.0,4.0,PPC-1E1a,,,
+TRINITY_DN61415_c0_g4,FUN_016990,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,5.73290985197426e-05,5.0,10.0,PPC-1E1b,,cytoplasm,
+TRINITY_DN61415_c7_g1,FUN_029936,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,,,,PPC-1E1c,,cytoplasm,
+TRINITY_DN7279_c0_g1,FUN_016990,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,3.04734876388006e-12,1.0,4.0,PPC-1E1b,,cytoplasm,
+TRINITY_DN7279_c0_g1,FUN_046701,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,3.04734876388006e-12,1.0,4.0,PPC-1E2,,cytoplasm,
+TRINITY_DN7279_c0_g1,FUN_046701,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,3.04734876388006e-12,1.0,4.0,PPC-1E2,,cytoplasm,
+TRINITY_DN7279_c1_g1,,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,0.00643795161023762,4.0,4.0,PPC-1E1a,,,
+TRINITY_DN7279_c13_g1,FUN_020790,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,,,,PPC-1E1a',,cytoplasm,
+TRINITY_DN7540_c2_g2,,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,0.0005825980431266321,4.0,1.0,PPC-1E1a,,,
+TRINITY_DN76842_c1_g1,,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,6.8115631517273e-06,2.0,4.0,PPC-1P,,,
+TRINITY_DN76842_c2_g1,FUN_029936,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,,,,PPC-1E1c,,cytoplasm,
+TRINITY_DN7819_c0_g1,FUN_029936,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,6.60623165034586e-26,4.0,2.0,PPC-1E1c,,cytoplasm,
+TRINITY_DN7819_c10_g1,FUN_029936,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,1.52550619349134e-09,8.0,5.0,PPC-1E1c,,cytoplasm,
+TRINITY_DN7819_c2_g1,FUN_020790,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,,2.0,4.0,PPC-1E1a',,cytoplasm,
+TRINITY_DN82675_c1_g1,,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,,2.0,4.0,PPC-1P,,,
+TRINITY_DN82675_c2_g1,FUN_020790,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,3.0018748696973497e-05,2.0,4.0,PPC-1E1a',,cytoplasm,
+TRINITY_DN82675_c8_g1,FUN_020790,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,,,,PPC-1E1a',,cytoplasm,
+TRINITY_DN86744_c7_g1,FUN_029936,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,,,,PPC-1E1c,,cytoplasm,
+TRINITY_DN89083_c0_g1,,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,,2.0,4.0,PPC-1P,,,
+TRINITY_DN91265_c0_g1,FUN_029936,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,,0.0,5.0,PPC-1E1c,,cytoplasm,
+TRINITY_DN9772_c3_g1,FUN_020790,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,,1.0,4.0,PPC-1E1a',,cytoplasm,
+TRINITY_DN99988_c0_g1,FUN_020790,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,,,,PPC-1E1a',,cytoplasm,
+TRINITY_DN11309_c0_g1,FUN_002684,PPCK,Phosphoenolpyruvate carboxylase kinase,PEPC regulation,1.3166265236710502e-07,15.0,2.0,PPCK1-1,OG0001649,cytoplasm,"AT3G04530, AT1G08650"
+TRINITY_DN13764_c0_g1,FUN_002684,PPCK,Phosphoenolpyruvate carboxylase kinase,PEPC regulation,6.275136166941461e-11,1.0,2.0,PPCK1-1,OG0001649,cytoplasm,"AT3G04530, AT1G08650"
+TRINITY_DN13764_c1_g1,,PPCK,Phosphoenolpyruvate carboxylase kinase,PEPC regulation,,3.0,0.0,,,,
+TRINITY_DN42916_c1_g1,FUN_002684,PPCK,Phosphoenolpyruvate carboxylase kinase,PEPC regulation,,,4.0,PPCK1-1,OG0001649,cytoplasm,"AT3G04530, AT1G08650"
+TRINITY_DN4567_c3_g1,FUN_002684,PPCK,Phosphoenolpyruvate carboxylase kinase,PEPC regulation,1.00949161745569e-21,1.0,2.0,PPCK1-1,OG0001649,cytoplasm,"AT3G04530, AT1G08650"
+TRINITY_DN100003_c0_g1,FUN_004880,PPDK,"Pyruvate, phosphate dikinase",PEP generation,4.05952360937552e-05,21.0,0.0,PPDK-1,OG0001310,chloroplast,AT4G15530
+TRINITY_DN100003_c1_g2,,PPDK,"Pyruvate, phosphate dikinase",PEP generation,0.00047796491491607405,2.0,1.0,,,,
+TRINITY_DN108130_c0_g1,FUN_004880,PPDK,"Pyruvate, phosphate dikinase",PEP generation,,,,PPDK-1,OG0001310,chloroplast,AT4G15530
+TRINITY_DN108130_c1_g1,,PPDK,"Pyruvate, phosphate dikinase",PEP generation,,,,,,,
+TRINITY_DN124618_c0_g1,FUN_004880,PPDK,"Pyruvate, phosphate dikinase",PEP generation,,,,PPDK-1,OG0001310,chloroplast,AT4G15530
+TRINITY_DN125555_c1_g1,,PPDK,"Pyruvate, phosphate dikinase",PEP generation,,0.0,,,,,
+TRINITY_DN130585_c4_g1,,PPDK,"Pyruvate, phosphate dikinase",PEP generation,6.63482999143486e-09,5.0,3.0,,,,
+TRINITY_DN15620_c0_g1,,PPDK,"Pyruvate, phosphate dikinase",PEP generation,,1.0,1.0,,,,
+TRINITY_DN15620_c0_g3,,PPDK,"Pyruvate, phosphate dikinase",PEP generation,,,,,,,
+TRINITY_DN15620_c1_g1,FUN_004880,PPDK,"Pyruvate, phosphate dikinase",PEP generation,,2.0,3.0,PPDK-1,OG0001310,chloroplast,AT4G15530
+TRINITY_DN26203_c3_g1,,PPDK,"Pyruvate, phosphate dikinase",PEP generation,,,,,,,
+TRINITY_DN27458_c0_g1,FUN_004880,PPDK,"Pyruvate, phosphate dikinase",PEP generation,0.00019108863036101,2.0,1.0,PPDK-1,OG0001310,chloroplast,AT4G15530
+TRINITY_DN27458_c0_g4,,PPDK,"Pyruvate, phosphate dikinase",PEP generation,7.66628095228936e-11,5.0,3.0,,,,
+TRINITY_DN27481_c0_g1,FUN_004880,PPDK,"Pyruvate, phosphate dikinase",PEP generation,0.00404599084393704,2.0,3.0,PPDK-1,OG0001310,chloroplast,AT4G15530
+TRINITY_DN31988_c0_g1,,PPDK,"Pyruvate, phosphate dikinase",PEP generation,6.81646979006815e-06,2.0,2.0,,,,
+TRINITY_DN35240_c0_g1,FUN_004880,PPDK,"Pyruvate, phosphate dikinase",PEP generation,,2.0,3.0,PPDK-1,OG0001310,chloroplast,AT4G15530
+TRINITY_DN4872_c20_g4,,PPDK,"Pyruvate, phosphate dikinase",PEP generation,,,,,,,
+TRINITY_DN4872_c3_g1,FUN_020230,PPDK,"Pyruvate, phosphate dikinase",PEP generation,1.13528126307124e-22,2.0,3.0,PPDK-2,OG0001310,chloroplast,AT4G15530
+TRINITY_DN4872_c42_g1,,PPDK,"Pyruvate, phosphate dikinase",PEP generation,,21.0,3.0,,,,
+TRINITY_DN4872_c5_g10,,PPDK,"Pyruvate, phosphate dikinase",PEP generation,,2.0,3.0,,,,
+TRINITY_DN4872_c5_g3,,PPDK,"Pyruvate, phosphate dikinase",PEP generation,,2.0,4.0,,,,
+TRINITY_DN4872_c5_g7,,PPDK,"Pyruvate, phosphate dikinase",PEP generation,,2.0,,,,,
+TRINITY_DN5317_c2_g2,,PPDK,"Pyruvate, phosphate dikinase",PEP generation,,1.0,,,,,
+TRINITY_DN5317_c2_g3,FUN_004880,PPDK,"Pyruvate, phosphate dikinase",PEP generation,8.794904674610641e-05,5.0,3.0,PPDK-1,OG0001310,chloroplast,AT4G15530
+TRINITY_DN631_c10_g1,,PPDK,"Pyruvate, phosphate dikinase",PEP generation,7.83470707420294e-06,2.0,4.0,,,,
+TRINITY_DN6471_c0_g1,FUN_004880,PPDK,"Pyruvate, phosphate dikinase",PEP generation,8.87374664249896e-06,2.0,3.0,PPDK-1,OG0001310,chloroplast,AT4G15530
+TRINITY_DN6471_c3_g1,,PPDK,"Pyruvate, phosphate dikinase",PEP generation,,,,,,,
+TRINITY_DN6471_c5_g1,,PPDK,"Pyruvate, phosphate dikinase",PEP generation,,,,,,,
+TRINITY_DN73209_c2_g1,,PPDK,"Pyruvate, phosphate dikinase",PEP generation,,2.0,3.0,,,,
+TRINITY_DN87388_c0_g1,FUN_004880,PPDK,"Pyruvate, phosphate dikinase",PEP generation,2.80189748361284e-06,2.0,3.0,PPDK-1,OG0001310,chloroplast,AT4G15530
+TRINITY_DN91687_c0_g1,,PPDK,"Pyruvate, phosphate dikinase",PEP generation,,2.0,3.0,,,,
+TRINITY_DN9964_c2_g1,FUN_020230,PPDK,"Pyruvate, phosphate dikinase",PEP generation,5.05100844981211e-07,2.0,2.0,PPDK-2,OG0001310,chloroplast,AT4G15530
+TRINITY_DN13020_c1_g1,FUN_010801,PPT,Phosphoenolpyruvate/phosphate translocator 1,PEP generation,9.64760416703277e-16,2.0,4.0,PPT1-2,OG0000610,chloroplast,AT5G33320
+TRINITY_DN1342_c0_g1,FUN_002470,PPT,Phosphoenolpyruvate/phosphate translocator 2,PEP generation,1.5126746499215198e-17,1.0,4.0,PPT2-1,OG0000610,chloroplast,AT3G01550
+TRINITY_DN1962_c0_g1,FUN_010801,PPT,Phosphoenolpyruvate/phosphate translocator 1,PEP generation,1.1948814572624301e-15,2.0,3.0,PPT1-2,OG0000610,chloroplast,AT5G33320
+TRINITY_DN4622_c0_g1,FUN_003999,PU/LDA,Pullulanase/LIMIT DEXTRINASE 1,Starch degradation,0.0497586297689275,22.0,4.0,PU1-1,OG0009881,chloroplast,AT5G04360
+TRINITY_DN78068_c0_g2,FUN_003999,PU/LDA,Pullulanase/LIMIT DEXTRINASE 1,Starch degradation,,0.0,3.0,PU1-1,OG0009881,chloroplast,AT5G04360
+TRINITY_DN1178_c2_g2,FUN_025472,PUMP/UCP/DIC,Mitochondrial uncoupling protein 5/dicarboxylate carrier 1,Metabolite transport,0.245834054303351,2.0,15.0,PUMP5-1,OG0008357,mitochondria,AT2G22500
+TRINITY_DN2768_c2_g1,FUN_000627,PUMP/UCP/DIC,Mitochondrial uncoupling protein 1,Metabolite transport,3.35802288719125e-12,2.0,4.0,PUMP1-1,OG0003982,mitochondria,AT3G54110
+TRINITY_DN34428_c0_g1,FUN_049094,PUMP/UCP/DIC,Mitochondrial uncoupling protein 2,Metabolite transport,3.26803446846916e-06,15.0,4.0,PUMP2-1,OG0003982,mitochondria,AT5G58970
+TRINITY_DN64238_c1_g1,,PUMP/UCP/DIC,Mitochondrial uncoupling protein 5/dicarboxylate carrier 1,Metabolite transport,,,,,,,
+TRINITY_DN1997_c3_g1,FUN_040753,RBCL,Putative RBCL pseudogene,Calvin cycle,4.1617886792302505e-05,2.0,6.0,psuedoRBCL-2,OG0000480,chloroplast,ATCG00490
+TRINITY_DN20009_c0_g1,FUN_029870,RBCS,Ribulose bisphosphate carboxylase small subunit B,Calvin cycle,4.2490965477642897e-07,7.0,5.0,RBCS-B-2,OG0001454,chloroplast,"AT5G38430, AT5G38410, AT5G38420, AT1G67090"
+TRINITY_DN4861_c5_g1,,RBCS,Ribulose bisphosphate carboxylase small subunit A,Calvin cycle,0.5240748997046311,2.0,4.0,,,,
+TRINITY_DN6389_c0_g1,FUN_029870,RBCS,Ribulose bisphosphate carboxylase small subunit B,Calvin cycle,2.2528589142777097e-30,5.0,5.0,RBCS-B-2,OG0001454,chloroplast,"AT5G38430, AT5G38410, AT5G38420, AT1G67090"
+TRINITY_DN72407_c7_g1,,RBCS,Ribulose bisphosphate carboxylase small subunit B,Calvin cycle,,0.0,5.0,,,,
+TRINITY_DN10884_c0_g1,FUN_010059,RCA,RuBisCO activase,Calvin cycle,6.72141333634704e-09,1.0,3.0,RCA-1,OG0002912,,AT2G39730
+TRINITY_DN17967_c13_g1,,RCA,RuBisCO activase,Calvin cycle,,,,,,,
+TRINITY_DN17967_c2_g1,,RCA,RuBisCO activase,Calvin cycle,6.56387270706441e-23,5.0,3.0,,,,
+TRINITY_DN17967_c24_g1,,RCA,RuBisCO activase,Calvin cycle,6.300282557478299e-05,2.0,3.0,,,,
+TRINITY_DN17967_c9_g1,,RCA,RuBisCO activase,Calvin cycle,,,,,,,
+TRINITY_DN60697_c0_g3,,RCA,RuBisCO activase,Calvin cycle,0.00141774067085115,2.0,3.0,,,,
+TRINITY_DN68280_c1_g1,,RCA,RuBisCO activase,Calvin cycle,,,,,,,
+TRINITY_DN74894_c1_g1,,RCA,RuBisCO activase,Calvin cycle,,0.0,,,,,
+TRINITY_DN76807_c0_g1,,RCA,RuBisCO activase,Calvin cycle,3.5034261307053594e-08,1.0,3.0,,,,
+TRINITY_DN8510_c4_g1,,RCA,RuBisCO activase,Calvin cycle,0.000304702752433849,2.0,3.0,,,,
+TRINITY_DN97661_c0_g1,,RCA,RuBisCO activase,Calvin cycle,,,,,,,
+TRINITY_DN3806_c0_g1,FUN_035306,RP,PPDK-regulatory protein 1,PEP generation,4.1082353174776096e-25,3.0,4.0,RP1-2,OG0003376,chloroplast,"AT4G21210, AT3G01200"
+TRINITY_DN7731_c0_g1,FUN_012481,RP,PPDK-regulatory protein 1,PEP generation,8.045152590811979e-07,8.0,5.0,RP1-1,OG0003376,chloroplast,"AT4G21210, AT3G01200"
+TRINITY_DN10821_c0_g1,FUN_003149,RVE,REVEILLE 1,Circadian/Light response,0.0127817654619822,5.0,2.0,RVE1-1,OG0001768,,"AT5G17300, AT5G37260"
+TRINITY_DN1868_c0_g1,FUN_013787,RVE,REVEILLE 6,Circadian/Light response,0.00140727842099416,3.0,5.0,RVE6-2,OG0000629,,AT5G52660
+TRINITY_DN231_c0_g1,FUN_048062,RVE,REVEILLE 6,Circadian/Light response,0.130680718398875,7.0,6.0,RVE6-4,OG0000629,,AT5G52660
+TRINITY_DN7493_c1_g1,FUN_039433,RVE,REVEILLE 8,Circadian/Light response,0.0411017922088782,2.0,3.0,RVE8-1,OG0006593,,AT3G09600
+TRINITY_DN8616_c0_g1,FUN_009081,RVE,REVEILLE 6,Circadian/Light response,7.536668564706321e-07,7.0,2.0,RVE6-1,OG0000629,,AT5G52660
+TRINITY_DN9705_c0_g1,FUN_037299,RVE,REVEILLE 6,Circadian/Light response,1.22697906411512e-26,15.0,3.0,RVE6-3,OG0000629,,AT5G52660
+TRINITY_DN1983_c0_g1,FUN_025653,SBE,"1,4-alpha-glucan-branching enzyme 2",Starch synthesis,0.0114711931321229,8.0,10.0,SBE2-1,OG0010141,chloroplast,"AT2G36390, AT5G03650"
+TRINITY_DN2618_c0_g1,FUN_039138,SBE,"1,4-alpha-glucan-branching enzyme 2",Starch synthesis,0.0247325967423996,3.0,4.0,SBE2-2,OG0006034,chloroplast,"AT2G36390, AT5G03650"
+TRINITY_DN85014_c0_g1,FUN_039138,SBE,"1,4-alpha-glucan-branching enzyme 2",Starch synthesis,0.0365130875307255,8.0,9.0,SBE2-2,OG0006034,chloroplast,"AT2G36390, AT5G03650"
+TRINITY_DN903_c0_g1,FUN_044076,SBE,"1,4-alpha-glucan-branching enzyme 3",Starch synthesis,3.22133650395836e-05,3.0,9.0,SBE3-1,OG0010465,chloroplast,AT3G20440
+TRINITY_DN2799_c0_g1,FUN_012062,SCL,Scarecrow-like 5,Circadian/Light response,1.9184730314848497e-06,4.0,12.0,SCL5-1,OG0009048,,AT1G50600
+TRINITY_DN3216_c0_g1,FUN_012176,SCL,Scarecrow-like 13,Circadian/Light response,3.0269492395137502e-06,0.0,2.0,SCL13-1,OG0001872,,AT4G17230
+TRINITY_DN3324_c1_g1,FUN_046306,SCL,Scarecrow-like 21,Circadian/Light response,0.0161791701876387,21.0,4.0,SCL21-1,OG0001872,,"AT5G48150, AT2G04890"
+TRINITY_DN112186_c0_g1,FUN_028976,SHM,Serine hydroxymethyltransferase 2,Photorespiration,0.0191392504656893,0.0,6.0,SHM2-1,OG0001750,mitochondria,AT5G26780
+TRINITY_DN1307_c0_g1,FUN_005187,SHM,Serine hydroxymethyltransferase 3,Photorespiration,0.000577728318117465,1.0,4.0,SHM3-1,OG0010504,,AT4G32520
+TRINITY_DN1584_c0_g1,FUN_003498,SHM,Serine hydroxymethyltransferase 4,Photorespiration,0.8845102071048578,8.0,4.0,SHM4-1,OG0003967,mitochondria,"AT4G13890, AT4G13930"
+TRINITY_DN1750_c0_g1,FUN_010229,SHM,Serine hydroxymethyltransferase 6,Photorespiration,5.18063653882589e-08,12.0,10.0,SHM6-1,OG0005225,mitochondria,"AT1G22020, AT1G36370"
+TRINITY_DN20645_c0_g1,,SHM,Serine hydroxymethyltransferase 3,Photorespiration,1.0,6.0,14.0,,,,
+TRINITY_DN302_c0_g2,FUN_038563,SHM,Serine hydroxymethyltransferase 2,Photorespiration,0.0055233694900597395,7.0,4.0,SHM2-3,OG0001750,mitochondria,AT5G26780
+TRINITY_DN302_c1_g1,FUN_028977,SHM,Serine hydroxymethyltransferase 1,Photorespiration,5.20551944795009e-12,2.0,4.0,SHM1-1,OG0001750,mitochondria,AT4G37930
+TRINITY_DN302_c1_g2,FUN_028976,SHM,Serine hydroxymethyltransferase 2,Photorespiration,2.8467357406054103e-09,1.0,4.0,SHM2-1,OG0001750,mitochondria,AT5G26780
+TRINITY_DN3209_c0_g1,FUN_034092,SHM,Serine hydroxymethyltransferase 4,Photorespiration,0.000240482524703285,27.0,4.0,SHM4-2,OG0003967,mitochondria,"AT4G13890, AT4G13930"
+TRINITY_DN61730_c0_g1,FUN_028976,SHM,Serine hydroxymethyltransferase 2,Photorespiration,0.000574100644023317,2.0,3.0,SHM2-1,OG0001750,mitochondria,AT5G26780
+TRINITY_DN2353_c0_g1,FUN_038198,SIG,RNA polymerase sigma factor C,Circadian/Light response,0.0499178798929425,2.0,2.0,SIGC-1,OG0009079,,AT3G53920
+TRINITY_DN4315_c1_g1,FUN_044064,SIG,RNA polymerase sigma factor A,Circadian/Light response,0.49860913258205,2.0,2.0,SIGA-1,OG0004742,,AT1G64860
+TRINITY_DN8407_c0_g1,FUN_008978,SIG,RNA polymerase sigma factor E,Circadian/Light response,0.429591112111609,1.0,4.0,SIGE-1,OG0006105,,AT5G24120
+TRINITY_DN8407_c0_g2,FUN_013709,SIG,RNA polymerase sigma factor E,Circadian/Light response,0.26218617768707303,5.0,3.0,SIGE-2,OG0006105,,AT5G24120
+TRINITY_DN8439_c0_g2,FUN_053237,SIG,RNA polymerase sigma factor B,Circadian/Light response,1.2739055394657902e-05,5.0,2.0,SIGB-1,OG0005205,,AT1G08540
+TRINITY_DN8439_c0_g3,FUN_053237,SIG,RNA polymerase sigma factor B,Circadian/Light response,0.000144048531951827,5.0,2.0,SIGB-1,OG0005205,,AT1G08540
+TRINITY_DN8520_c0_g1,FUN_008978,SIG,RNA polymerase sigma factor E,Circadian/Light response,0.45889122272335603,1.0,4.0,SIGE-1,OG0006105,,AT5G24120
+TRINITY_DN90742_c0_g2,FUN_044064,SIG,RNA polymerase sigma factor A,Circadian/Light response,0.00760844766474843,2.0,2.0,SIGA-1,OG0004742,,AT1G64860
+TRINITY_DN1322_c1_g1,FUN_048122,SPA,SUPPRESSOR OF PHYA,Circadian/Light response,0.0008717373461796191,2.0,1.0,SPA1-1,OG0002801,,AT2G46340
+TRINITY_DN8959_c0_g2,FUN_041098,SPA,SUPPRESSOR OF PHYA-RELATED,Circadian/Light response,0.000209237538626553,5.0,9.0,SPA2-1,OG0002801,,AT4G11110
+TRINITY_DN8218_c0_g1,FUN_018851,SRR,SENSITIVITY TO RED LIGHT REDUCED 1,Circadian/Light response,0.00305568696229502,7.0,2.0,SRR1-1,OG0008484,,AT5G59560
+TRINITY_DN154_c0_g1,FUN_023241,SUC,Sucrose transport protein,Starch/sugar transport,3.3653262622791305e-15,1.0,2.0,SUC-1,OG0003793,vacuole,AT2G02860
+TRINITY_DN40401_c0_g1,,SUC,Sucrose transport protein,Starch/sugar transport,,,,,,,
+TRINITY_DN6201_c0_g1,FUN_048432,SUC,Sucrose transport protein,Starch/sugar transport,6.505071768224089e-49,6.0,4.0,SUC-7,OG0000518,vacuole,"AT5G43610, AT1G66570, AT1G22710, AT1G09960, AT1G71880, AT5G06170, AT1G71890, AT2G14670"
+TRINITY_DN6710_c1_g1,FUN_037842,SUC,Sucrose transport protein,Starch/sugar transport,0.0510948460755225,5.0,4.0,SUC-5,OG0000518,vacuole,"AT5G43610, AT1G66570, AT1G22710, AT1G09960, AT1G71880, AT5G06170, AT1G71890, AT2G14670"
+TRINITY_DN7285_c0_g2,FUN_024265,SUC,Sucrose transport protein,Starch/sugar transport,1.6607421937541e-06,27.0,0.0,SUC-2,OG0000518,vacuole,"AT5G43610, AT1G66570, AT1G22710, AT1G09960, AT1G71880, AT5G06170, AT1G71890, AT2G14670"
+TRINITY_DN84020_c0_g1,FUN_037841,SUC,Sucrose transport protein,Starch/sugar transport,,2.0,,SUC-4,OG0000518,vacuole,"AT5G43610, AT1G66570, AT1G22710, AT1G09960, AT1G71880, AT5G06170, AT1G71890, AT2G14670"
+TRINITY_DN102318_c0_g1,FUN_038924,SWEET,Bidirectional sugar transporter 1,Starch/sugar transport,,,1.0,SWEET1-3,OG0028631,vacuole,AT1G21460
+TRINITY_DN107088_c0_g1,FUN_026401,SWEET,Bidirectional sugar transporter 8,Starch/sugar transport,,,,SWEET8-1,OG0000534,,AT5G40260
+TRINITY_DN112178_c0_g1,FUN_011381,SWEET,Bidirectional sugar transporter 11,Starch/sugar transport,,1.0,3.0,SWEET11-1,OG0000198,,"AT5G23660, AT3G48740, AT5G50800, AT4G25010"
+TRINITY_DN114320_c1_g1,FUN_046975,SWEET,Bidirectional sugar transporter 11,Starch/sugar transport,2.9832104947855396e-10,15.0,4.0,SWEET11-4,OG0000198,,"AT5G23660, AT3G48740, AT5G50800, AT4G25010"
+TRINITY_DN13605_c0_g1,FUN_034921,SWEET,Bidirectional sugar transporter 2,Starch/sugar transport,0.15418474316736303,5.0,3.0,SWEET2-1,OG0004277,,AT3G14770
+TRINITY_DN142762_c0_g1,FUN_042852,SWEET,Bidirectional sugar transporter 13,Starch/sugar transport,,0.0,,SWEET13-4,OG0013903,,
+TRINITY_DN159945_c0_g1,FUN_039998,SWEET,Bidirectional sugar transporter 6,Starch/sugar transport,,2.0,0.0,SWEET6-3,OG0000534,,"AT4G10850, AT1G66770"
+TRINITY_DN17488_c0_g1,FUN_024676,SWEET,Bidirectional sugar transporter 13,Starch/sugar transport,0.289522667996184,10.0,4.0,SWEET13-3,OG0013903,,
+TRINITY_DN17501_c0_g1,FUN_039993,SWEET,Bidirectional sugar transporter 6,Starch/sugar transport,0.0464706046932583,13.0,4.0,SWEET6-1,OG0015544,,"AT4G10850, AT1G66770"
+TRINITY_DN1878_c0_g1,FUN_039265,SWEET,Bidirectional sugar transporter 4,Starch/sugar transport,2.6189001224790503e-14,5.0,3.0,SWEET4-1,OG0000534,,"AT5G62850, AT3G28007"
+TRINITY_DN19841_c0_g1,FUN_046971,SWEET,Bidirectional sugar transporter 9,Starch/sugar transport,5.726137840510119e-10,5.0,2.0,SWEET9-3,OG0000198,,AT2G39060
+TRINITY_DN2043_c3_g1,FUN_018762,SWEET,Bidirectional sugar transporter 1,Starch/sugar transport,8.296180561855471e-11,12.0,9.0,SWEET1-1,OG0007798,,AT1G21460
+TRINITY_DN23067_c0_g1,FUN_018762,SWEET,Bidirectional sugar transporter 1,Starch/sugar transport,4.09160288236565e-11,4.0,2.0,SWEET1-1,OG0007798,,AT1G21460
+TRINITY_DN36995_c0_g1,FUN_011382,SWEET,Bidirectional sugar transporter 11,Starch/sugar transport,,7.0,,SWEET11-2,OG0000198,,"AT5G23660, AT3G48740, AT5G50800, AT4G25010"
+TRINITY_DN36995_c0_g2,FUN_011382,SWEET,Bidirectional sugar transporter 11,Starch/sugar transport,1.13932477898617e-08,2.0,4.0,SWEET11-2,OG0000198,,"AT5G23660, AT3G48740, AT5G50800, AT4G25010"
+TRINITY_DN39199_c0_g1,FUN_011383,SWEET,Bidirectional sugar transporter 9,Starch/sugar transport,0.0552660084546422,2.0,1.0,SWEET9-1,OG0000198,,AT2G39060
+TRINITY_DN75345_c0_g1,FUN_036806,SWEET,Bidirectional sugar transporter 9,Starch/sugar transport,,0.0,,SWEET9-2,OG0000198,,AT2G39060
+TRINITY_DN76414_c0_g1,,SWEET,Bidirectional sugar transporter 12,Starch/sugar transport,1.3225206253148598e-26,15.0,17.0,,,,
+TRINITY_DN798_c4_g2,FUN_042852,SWEET,Bidirectional sugar transporter 13,Starch/sugar transport,0.819245666130053,13.0,0.0,SWEET13-4,OG0013903,,
+TRINITY_DN8093_c0_g1,FUN_039265,SWEET,Bidirectional sugar transporter 4,Starch/sugar transport,0.0007240392240572429,1.0,4.0,SWEET4-1,OG0000534,,"AT5G62850, AT3G28007"
+TRINITY_DN8938_c1_g1,FUN_046974,SWEET,Bidirectional sugar transporter 11,Starch/sugar transport,5.937483950939389e-24,1.0,4.0,SWEET11-3,OG0000198,,"AT5G23660, AT3G48740, AT5G50800, AT4G25010"
+TRINITY_DN8938_c4_g1,FUN_046975,SWEET,Bidirectional sugar transporter 11,Starch/sugar transport,2.40913124814588e-22,15.0,4.0,SWEET11-4,OG0000198,,"AT5G23660, AT3G48740, AT5G50800, AT4G25010"
+TRINITY_DN8938_c4_g2,FUN_046978,SWEET,Bidirectional sugar transporter 11,Starch/sugar transport,0.0311296352981654,0.0,4.0,SWEET11-6,OG0000198,,"AT5G23660, AT3G48740, AT5G50800, AT4G25010"
+TRINITY_DN8938_c7_g1,FUN_011381,SWEET,Bidirectional sugar transporter 11,Starch/sugar transport,0.8931832303409359,5.0,4.0,SWEET11-1,OG0000198,,"AT5G23660, AT3G48740, AT5G50800, AT4G25010"
+TRINITY_DN11747_c0_g2,FUN_000953,TCP/CHE,Transcription factor TCP 7,Circadian/Light response,0.0273652711784922,7.0,2.0,TCP7-1,OG0008399,,"AT5G08330, AT5G23280"
+TRINITY_DN12198_c0_g1,FUN_011042,TCP/CHE,Transcription factor TCP 14,Circadian/Light response,0.0750808807245166,4.0,2.0,TCP14-1,OG0002476,,"AT1G69690, AT3G47620"
+TRINITY_DN1234_c1_g1,FUN_011405,TCP/CHE,Transcription factor TCP 20,Circadian/Light response,0.000194309937409394,7.0,8.0,TCP20-1,OG0001071,,AT3G27010
+TRINITY_DN1728_c1_g1,FUN_046944,TCP/CHE,Transcription factor TCP 20,Circadian/Light response,0.0390377814866343,5.0,2.0,TCP20-4,OG0001071,,AT3G27010
+TRINITY_DN2034_c0_g1,FUN_032527,TCP/CHE,Transcription factor TCP 14,Circadian/Light response,1.14176112755467e-06,7.0,8.0,TCP14-2,OG0036130,,AT3G47620
+TRINITY_DN3056_c1_g1,FUN_000953,TCP/CHE,Transcription factor TCP 7,Circadian/Light response,0.0019519175335467,5.0,2.0,TCP7-1,OG0008399,,"AT5G08330, AT5G23280"
+TRINITY_DN34181_c0_g1,FUN_020621,TCP/CHE,Transcription factor TCP 20,Circadian/Light response,0.0611250796212308,10.0,4.0,TCP20-2,OG0028471,,AT3G27010
+TRINITY_DN5722_c0_g1,FUN_031816,TCP/CHE,Transcription factor TCP 20,Circadian/Light response,2.80795035932223e-06,3.0,2.0,TCP20-3,OG0026343,,AT3G27010
+TRINITY_DN87880_c0_g1,FUN_011405,TCP/CHE,Transcription factor TCP 20,Circadian/Light response,0.042505977535129,5.0,2.0,TCP20-1,OG0001071,,AT3G27010
+TRINITY_DN9818_c0_g1,FUN_040702,TCP/CHE,Transcription factor TCP 14,Circadian/Light response,3.8976632244548e-08,2.0,6.0,TCP14-3,OG0004641,,"AT2G45680, AT5G51910"
+TRINITY_DN161_c0_g1,FUN_012199,TDT,Tonoplast dicarboxylate transporter,Metabolite transport,0.0476603910040455,1.0,3.0,TDT-1,OG0005594,vacuole,AT5G47560
+TRINITY_DN4168_c0_g2,FUN_051875,TIM,"Triosephosphate isomerase, chloroplastic",Transitory starch pathway,0.597772220688379,2.0,4.0,TIM-1,OG0010147,chloroplast,AT2G21170
+TRINITY_DN6698_c0_g1,FUN_030032,TIM,"Triosephosphate isomerase, cytosolic",Transitory starch pathway,0.00125538528392277,4.0,6.0,CTIMC-1,OG0003305,cytoplasm,AT3G55440
+TRINITY_DN6698_c0_g2,FUN_030032,TIM,"Triosephosphate isomerase, cytosolic",Transitory starch pathway,0.682997268443283,5.0,3.0,CTIMC-1,OG0003305,cytoplasm,AT3G55440
+TRINITY_DN1249_c1_g1,FUN_043261,TPT,Triose phosphate/phosphate translocator,Starch/sugar transport,1.46318472258474e-12,2.0,4.0,TPT-2,OG0003357,chloroplast,AT5G46110
+TRINITY_DN7876_c0_g1,FUN_033876,TPT,Triose phosphate/phosphate translocator,Starch/sugar transport,1.29097793630348e-13,2.0,4.0,TPT-1,OG0003357,chloroplast,AT5G46110
+TRINITY_DN1267_c1_g1,FUN_052267,UVR,Ultraviolet-B receptor,Circadian/Light response,0.000138172115059292,5.0,3.0,UVR8-1,OG0011158,,AT5G63860
+TRINITY_DN11313_c0_g1,FUN_002199,VHA,V-type proton ATPase catalytic subunit a2,Proton transport,5.38300992503518e-24,1.0,4.0,VHA-a2-1,OG0002359,vacuole,"AT2G21410, AT4G39080"
+TRINITY_DN11486_c1_g1,FUN_050746,VHA,V-type proton ATPase catalytic subunit c,Proton transport,0.0028913436213396397,4.0,6.0,VHA-c-4,OG0000819,vacuole,"AT4G38920, AT1G19910, AT2G16510, AT4G34720"
+TRINITY_DN11842_c0_g1,FUN_017804,VHA,V-type proton ATPase catalytic subunit B2,Proton transport,8.37105586780926e-18,7.0,6.0,VHA-B2-1,OG0002673,vacuole,AT4G38510
+TRINITY_DN11913_c0_g2,FUN_025055,VHA,V-type proton ATPase catalytic subunit D,Proton transport,0.00030942438290861604,4.0,5.0,VHA-D-1,OG0006558,vacuole,AT3G58730
+TRINITY_DN12908_c0_g1,FUN_049767,VHA,V-type proton ATPase catalytic subunit a2,Proton transport,3.6696657073569705e-11,1.0,2.0,VHA-a2-2,OG0002359,vacuole,"AT2G21410, AT4G39080"
+TRINITY_DN16658_c0_g1,FUN_050746,VHA,V-type proton ATPase catalytic subunit c,Proton transport,0.004132069568649329,7.0,0.0,VHA-c-4,OG0000819,vacuole,"AT4G38920, AT1G19910, AT2G16510, AT4G34720"
+TRINITY_DN175_c1_g1,FUN_002199,VHA,V-type proton ATPase catalytic subunit a2,Proton transport,1.55628484914564e-12,2.0,3.0,VHA-a2-1,OG0002359,vacuole,"AT2G21410, AT4G39080"
+TRINITY_DN2332_c0_g1,FUN_041054,VHA,V-type proton ATPase catalytic subunit E1,Proton transport,2.4223981183281603e-11,7.0,3.0,VHA-E1-2,OG0001698,vacuole,"AT1G64200, AT4G11150"
+TRINITY_DN2383_c4_g1,FUN_030915,VHA,V-type proton ATPase catalytic subunit d,Proton transport,0.00476882001707176,4.0,4.0,VHA-d-1,OG0003913,vacuole,"AT3G28710, AT3G28715"
+TRINITY_DN27170_c0_g1,FUN_001844,VHA,V-type proton ATPase catalytic subunit G,Proton transport,2.68585032408961e-08,7.0,6.0,VHA-G-1,OG0007467,vacuole,"AT3G01390, AT4G23710"
+TRINITY_DN2931_c1_g1,FUN_000914,VHA,V-type proton ATPase catalytic subunit A,Proton transport,7.4167151802084795e-06,7.0,3.0,VHA-A-1,OG0004864,vacuole,AT1G78900
+TRINITY_DN2931_c1_g2,FUN_000914,VHA,V-type proton ATPase catalytic subunit A,Proton transport,0.00528190205311993,18.0,4.0,VHA-A-1,OG0004864,vacuole,AT1G78900
+TRINITY_DN3190_c2_g1,FUN_017804,VHA,V-type proton ATPase catalytic subunit B2,Proton transport,1.62092351332831e-05,7.0,6.0,VHA-B2-1,OG0002673,vacuole,AT4G38510
+TRINITY_DN32782_c0_g1,FUN_050845,VHA,V-type proton ATPase catalytic subunit F,Proton transport,0.00666866789336002,1.0,3.0,VHA-F-1,OG0006235,vacuole,AT4G02620
+TRINITY_DN48650_c0_g2,FUN_008415,VHA,V-type proton ATPase catalytic subunit c’’2,Proton transport,2.60254193631791e-05,7.0,6.0,VHA-c’’2-1,OG0009219,vacuole,AT2G25610
+TRINITY_DN49465_c0_g1,FUN_048366,VHA,V-type proton ATPase catalytic subunit G,Proton transport,0.0325766458327669,11.0,0.0,VHA-G-3,OG0018542,vacuole,"AT3G01390, AT4G23710"
+TRINITY_DN5570_c0_g1,FUN_036241,VHA,V-type proton ATPase catalytic subunit H,Proton transport,1.6693071321897698e-13,0.0,11.0,VHA-H-1,OG0005190,vacuole,AT3G42050
+TRINITY_DN60744_c0_g1,FUN_018219,VHA,V-type proton ATPase catalytic subunit E1,Proton transport,6.02080045178141e-05,7.0,3.0,VHA-E1-1,OG0001698,vacuole,"AT1G64200, AT4G11150"
+TRINITY_DN6298_c1_g2,FUN_013944,VHA,V-type proton ATPase catalytic subunit C,Proton transport,0.00242676415562804,11.0,3.0,VHA-C-1,OG0006127,vacuole,AT1G12840
+TRINITY_DN7459_c1_g1,FUN_052554,VHA,V-type proton ATPase catalytic subunit H,Proton transport,1.13519866746626e-10,2.0,2.0,VHA-H-2,OG0005190,vacuole,AT3G42050
+TRINITY_DN8966_c0_g1,FUN_030915,VHA,V-type proton ATPase catalytic subunit d,Proton transport,2.1895469397232e-05,25.0,4.0,VHA-d-1,OG0003913,vacuole,"AT3G28710, AT3G28715"
+TRINITY_DN9290_c0_g1,FUN_005480,VHA,V-type proton ATPase catalytic subunit a1,Proton transport,0.0009115518125843119,3.0,1.0,VHA-a1-1,OG0003367,vacuole,AT2G28520
+TRINITY_DN7780_c0_g1,FUN_047817,XPT,Xylulose 5-phosphate/phosphate translocator,Starch/sugar transport,7.22464282071016e-05,4.0,6.0,XPT-1,OG0015365,chloroplast,AT5G17630

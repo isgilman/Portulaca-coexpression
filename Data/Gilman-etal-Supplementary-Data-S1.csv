@@ -1,0 +1,517 @@
+Orthogroup,Arabidopsis ortholog,genemodel,Label,Gene-family,Block-description,Pathway,Localization,qval,WGCNA_ww,WGCNA_d
+OG0002519,"AT5G50370, AT5G63400",FUN_011473,ADK3-2,ADK,Adenylate kinase 3,PEP generation,chloroplast,0.0261046347491746,2.0,13.0
+OG0006840,AT5G35170,FUN_026031,ADK5-1,ADK,Adenylate kinase 5,PEP generation,chloroplast,0.000180955775494359,3.0,2.0
+OG0002519,"AT5G50370, AT5G63400",FUN_046898,ADK3-1,ADK,Adenylate kinase 3,PEP generation,chloroplast,0.154056105468315,1.0,6.0
+OG0011322,AT5G47840,FUN_048323,ADK2-1,ADK,Adenylate kinase 2,PEP generation,chloroplast,0.15220877777500597,3.0,5.0
+OG0005172,"AT2G18915,AT5G57360",FUN_013066,ADO1-1,ADO/ZTL,Adagio/Zeitlupe 1,Circadian/Light response,,0.0490642214387487,5.0,4.0
+OG0012906,AT1G68050,FUN_023069,ADO3-1,ADO/ZTL,Adagio/Zeitlupe 3,Circadian/Light response,,0.273822216585999,5.0,4.0
+OG0005172,"AT2G18915,AT5G57360",FUN_026803,ADO1-2,ADO/ZTL,Adagio/Zeitlupe 1,Circadian/Light response,,1.0,5.0,4.0
+OG0047867,AT1G68050,FUN_032432,ADO3-2,ADO/ZTL,Adagio/Zeitlupe 3,Circadian/Light response,,1.0,6.0,4.0
+OG0004725,"AT2G38400, AT3G08860",FUN_003986,AGT3-1,AGT,Alanine-glyoxylate aminotransferase 3,Photorespiration,mitochondria,2.2870548419837596e-08,7.0,6.0
+OG0007600,AT2G13360,FUN_036354,AGT1-1,AGT,Serine-glyoxylate aminotransferase 1,Photorespiration,peroxisome,1.0,0.0,1.0
+OG0007600,AT2G13360,FUN_052681,AGT1-2,AGT,Serine-glyoxylate aminotransferase 1,Photorespiration,peroxisome,1.0,1.0,8.0
+OG0001752,"AT1G17290,AT1G72330",FUN_024067,ALAAT1-1,ALAAT,Alanine aminotransferase 1,Aminotransferase,cytoplasm,6.2185093995216595e-15,1.0,5.0
+OG0001752,"AT1G17290,AT1G72330",FUN_050177,ALAAT1-2,ALAAT,Alanine aminotransferase 1,Aminotransferase,cytoplasm,5.23153820033672e-07,3.0,2.0
+OG0001129,"AT1G25480,AT1G68600,AT1G18420,AT3G18440,AT2G17470",FUN_010507,ALMT3-1,ALMT,Aluminum-activated malate transporter 3,Metabolite transport,vacuole,0.00162555784271461,4.0,2.0
+OG0000358,"AT1G08430,AT1G08440,AT2G27240",FUN_020069,ALMT1-1,ALMT,Aluminum-activated malate transporter 1,Metabolite transport,vacuole,,,
+OG0000358,"AT1G08430,AT4G00910,AT3G11680,AT1G08440,AT2G27240",FUN_020070,ALMT1-2,ALMT,Aluminum-activated malate transporter 1,Metabolite transport,vacuole,,,
+OG0001129,"AT1G25480,AT1G68600,AT1G18420,AT3G18440,AT2G17470",FUN_023867,ALMT4-1,ALMT,Aluminum-activated malate transporter 4,Metabolite transport,vacuole,,0.0,
+OG0001129,"AT1G25480,AT1G68600,AT1G18420,AT3G18440,AT2G17470",FUN_033599,ALMT4-2,ALMT,Aluminum-activated malate transporter 4,Metabolite transport,vacuole,0.3710016980990639,6.0,4.0
+OG0000358,AT4G00910,FUN_037498,ALMT10-1,ALMT,Aluminum-activated malate transporter 10,Metabolite transport,vacuole,,,
+OG0000358,AT3G11680,FUN_042057,ALMT8-1,ALMT,Aluminum-activated malate transporter 8,Metabolite transport,vacuole,,,
+OG0001129,"AT1G25480,AT1G68600,AT1G18420,AT3G18440,AT2G17470",FUN_046866,ALMT3-2,ALMT,Aluminum-activated malate transporter 3,Metabolite transport,vacuole,3.22621014645551e-07,2.0,5.0
+OG0000358,AT4G00910,FUN_048205,ALMT10-2,ALMT,Aluminum-activated malate transporter 10,Metabolite transport,vacuole,,,
+OG0000358,"AT1G08430,AT1G08440,AT2G27240",FUN_048869,ALMT1-3,ALMT,Aluminum-activated malate transporter 1,Metabolite transport,vacuole,4.1467081807306194e-33,,6.0
+OG0000358,"AT1G08430,AT1G08440,AT2G27240",FUN_048870,ALMT1-4,ALMT,Aluminum-activated malate transporter 1,Metabolite transport,vacuole,,,
+OG0000358,"AT1G08430,AT4G00910,AT3G11680,AT1G08440,AT2G27240",FUN_048884,ALMT1-5,ALMT,Aluminum-activated malate transporter 1,Metabolite transport,vacuole,0.0485379065073358,2.0,1.0
+OG0000951,AT4G25000,FUN_008669,AMY1-1,AMY,Alpha-amylase 1,Starch degradation,chloroplast,,,
+OG0000951,AT4G25000,FUN_018918,AMY1-2,AMY,Alpha-amylase 1,Starch degradation,chloroplast,8.4787114003559e-05,14.0,1.0
+OG0012833,AT1G69830,FUN_023174,AMY3-2,AMY,Alpha-amylase 3,Starch degradation,chloroplast,0.00817017154563444,5.0,14.0
+OG0005106,AT1G76130,FUN_025702,AMY2-1,AMY,Alpha-amylase 2,Starch degradation,chloroplast,2.7196955535441895e-14,11.0,5.0
+OG0000951,AT4G25000,FUN_030621,AMY1-3,AMY,Alpha-amylase 1,Starch degradation,chloroplast,,7.0,1.0
+OG0000951,AT4G25000,FUN_030959,AMY1-4,AMY,Alpha-amylase 1,Starch degradation,chloroplast,,,
+OG0000951,AT4G25000,FUN_030960,AMY1-5,AMY,Alpha-amylase 3,Starch degradation,chloroplast,,,
+OG0007197,AT1G69830,FUN_032460,AMY3-1,AMY,Alpha-amylase 3,Starch degradation,chloroplast,,1.0,12.0
+OG0000951,AT4G25000,FUN_043765,AMY1-6,AMY,Alpha-amylase 1,Starch degradation,chloroplast,,0.0,
+OG0000951,AT4G25000,FUN_046582,AMY1-7,AMY,Alpha-amylase 1,Starch degradation,chloroplast,,,
+OG0001660,"AT4G39210, AT2G21590",FUN_002230,APL3-1,APL,Glucose-1-phosphate adenylyltransferase large subunit 3,Starch synthesis,chloroplast,3.99024079642535e-14,3.0,6.0
+OG0013080,AT5G19220,FUN_031317,APL1-1,APL,Glucose-1-phosphate adenylyltransferase large subunit 1,Starch synthesis,chloroplast,0.00010780500945077099,3.0,2.0
+OG0001660,AT1G27680,FUN_047795,APL2-1,APL,Glucose-1-phosphate adenylyltransferase large subunit 2,Starch synthesis,chloroplast,0.400557967380151,3.0,2.0
+OG0001660,"AT4G39210, AT2G21590",FUN_050578,APL3-2,APL,Glucose-1-phosphate adenylyltransferase large subunit 3,Starch synthesis,chloroplast,0.00144160410364683,11.0,2.0
+OG0001247,AT5G60100,FUN_005870,APRR3-1,APRR/TOC,Pseudo-response regulator 3,Circadian/Light response,,0.46216206516336,3.0,2.0
+OG0001670,"AT5G24470, AT2G46670, AT2G46790",FUN_043860,APRR5-1,APRR/TOC,Pseudo-response regulator 5,Circadian/Light response,,0.6575071806962429,6.0,4.0
+OG0002755,AT5G61380,FUN_045345,APRR1-1,APRR/TOC,Pseudo-response regulator 1/Timing of CAB expression 1,Circadian/Light response,,0.818108611538158,5.0,11.0
+OG0011608,AT2G46790,FUN_048288,APRR5-3,APRR/TOC,Pseudo-response regulator 5,Circadian/Light response,,0.073383010118885,3.0,2.0
+OG0001670,"AT5G24470, AT2G46670, AT2G46790",FUN_051857,APRR5-2,APRR/TOC,Pseudo-response regulator 5,Circadian/Light response,,0.21502326754483,6.0,4.0
+OG0007085,AT5G48300,FUN_027406,APS1-1,APS,Glucose-1-phosphate adenylyltransferase small subunit 1,Starch synthesis,chloroplast,0.335288933752094,3.0,2.0
+OG0000804,AT5G20730,FUN_012771,ARF7-1,ARF,Auxin response factor 7,Circadian/Light response,,2.07842175560175e-05,2.0,8.0
+OG0023937,AT5G20730,FUN_028370,ARF7-2,ARF,Auxin response factor 7,Circadian/Light response,,0.0426220914513849,2.0,1.0
+OG0000804,AT5G20730,FUN_036058,ARF7-3,ARF,Auxin response factor 7,Circadian/Light response,,0.0023136667447931102,1.0,1.0
+OG0005803,"AT5G19550,AT1G62800",FUN_000897,ASP2-1,ASP,Aspartate aminotransferase 2,Aminotransferase,chloroplast,4.47703594372344e-05,2.0,6.0
+,AT4G31990,FUN_010380,ASP5-1,ASP,Aspartate aminotransferase 5,Aminotransferase,chloroplast,3.4301366557421e-14,3.0,2.0
+OG0006859,AT4G31990,FUN_010382,ASP5-2,ASP,Aspartate aminotransferase 5,Aminotransferase,chloroplast,4.4862302402622296e-29,3.0,2.0
+OG0012245,AT2G30970,FUN_015589,ASP1-1,ASP,Aspartate aminotransferase 1,Aminotransferase,mitochondria,0.19325320418506897,1.0,5.0
+OG0005803,AT5G11520,FUN_026477,ASP3-1,ASP,Aspartate aminotransferase 3,Aminotransferase,cytoplasm,6.23012831153013e-06,3.0,2.0
+OG0000260,AT2G44910,FUN_039593,ATHB4,ATHB,Homeobox-leucine zipper protein ATHB-4,Circadian/Light response,,,,0.0
+OG0000693,AT1G15690,FUN_005463,AVP1-1,AVP,Pyrophosphate-energized vacuolar membrane proton pump 1,Proton transport,vacuole,3.728499363233929e-13,7.0,11.0
+OG0000693,AT1G15690,FUN_013141,AVP1-2,AVP,Pyrophosphate-energized vacuolar membrane proton pump 1,Proton transport,vacuole,5.390942453955901e-12,1.0,18.0
+OG0000693,AT1G15690,FUN_026063,AVP1-3,AVP,Pyrophosphate-energized vacuolar membrane proton pump 1,Proton transport,vacuole,6.77509790328026e-13,3.0,3.0
+OG0000693,AT1G15690,FUN_051576,AVP1-4,AVP,Pyrophosphate-energized vacuolar membrane proton pump 1,Proton transport,vacuole,0.0032030756995210102,3.0,2.0
+OG0009928,"AT1G16780, AT1G78920",FUN_025206,AVPL1-1,AVPL,AVP-like 1,Proton transport,vacuole,0.00039406697715622404,3.0,6.0
+OG0004635,AT4G15210,FUN_000320,BAM5-1,BAM,Beta-amylase 5,Starch degradation,cytoplasm,5.6640725324701493e-11,7.0,8.0
+OG0004635,AT4G15210,FUN_000772,BAM5-2,BAM,Beta-amylase 5,Starch degradation,cytoplasm,0.702738818173203,5.0,2.0
+OG0005109,AT3G23920,FUN_005773,BAM1-1,BAM,Beta-amylase 1,Starch degradation,chloroplast,0.54944036701319,1.0,1.0
+OG0005109,AT3G23920,FUN_005777,BAM1-2,BAM,Beta-amylase 1,Starch degradation,,,,
+OG0010006,AT4G17090,FUN_017370,BAM3-1,BAM,Beta-amylase 3,Starch degradation,chloroplast,1.12872961913933e-08,2.0,1.0
+OG0004128,AT5G18670,FUN_020173,BAM9-1,BAM,Beta-amylase 9,Starch degradation,unknown,,4.0,1.0
+OG0005109,AT3G23920,FUN_033111,BAM1-3,BAM,Beta-amylase 1,Starch degradation,chloroplast,9.75797979789018e-10,12.0,6.0
+OG0004128,AT5G18670,FUN_033226,BAM9-2,BAM,Beta-amylase 9,Starch degradation,unknown,1.00864143562375e-09,2.0,1.0
+OG0002447,AT2G45880,FUN_037221,BAM7-1,BAM,Beta-amylase 7,Starch degradation,cytoplasm,0.0028954953350122,1.0,5.0
+OG0002447,AT4G00490,FUN_037223,BAM2-1,BAM,Beta-amylase 2,Starch degradation,chloroplast,0.23164617078041003,5.0,2.0
+OG0010006,AT4G17090,FUN_041354,BAM3-2,BAM,Beta-amylase 3,Starch degradation,chloroplast,0.00147013891326374,24.0,4.0
+OG0014543,AT5G45300,FUN_041865,BAM8-1,BAM,Beta-amylase 8,Starch degradation,cytoplasm,0.0063189381749828,9.0,7.0
+OG0013991,AT5G55700,FUN_046357,BAM4-1,BAM,Beta-amylase 4,Starch degradation,chloroplast,0.128746090630681,1.0,1.0
+OG0002447,AT4G00490,FUN_049126,BAM2-2,BAM,Beta-amylase 2,Starch degradation,chloroplast,0.0380529390828971,0.0,2.0
+OG0008379,"AT4G12030, AT4G22840",FUN_018637,BASS5-1,BASS,Sodium/metabolite cotransporter 5,PEP generation,chloroplast,0.000109602924420207,13.0,1.0
+OG0002988,AT2G26900,FUN_026309,BASS2-1,BASS,Sodium/metabolite cotransporter 2,PEP generation,chloroplast,4.3169709245101803e-10,3.0,5.0
+OG0013833,AT1G78560,FUN_047630,BASS1-1,BASS,Sodium/metabolite cotransporter 1,PEP generation,chloroplast,0.00203730188594627,4.0,6.0
+OG0000420,"AT3G01500, AT5G14740",FUN_002831,BCA1-1,BCA,Beta carbonic anhydrase 1,Carboxylation,unknown,2.61139639338537e-08,3.0,6.0
+OG0002810,"AT1G58180, AT4G33580",FUN_003767,BCA5-1,BCA,Beta carbonic anhydrase 5,Carboxylation,unknown,4.899405102152679e-25,1.0,6.0
+OG0002810,"AT1G58180, AT4G33580",FUN_003773,BCA5-2,BCA,Beta carbonic anhydrase 5,Carboxylation,unknown,0.000424555017869407,1.0,5.0
+OG0000420,"AT3G01500, AT1G23730, AT1G70410, AT5G14740",FUN_009254,BCA1-3,BCA,Beta carbonic anhydrase 1,Carboxylation,unknown,8.195034655161222e-09,5.0,3.0
+OG0000420,"AT3G01500, AT1G23730, AT1G70410, AT5G14740",FUN_032219,BCA1-4,BCA,Beta carbonic anhydrase 1,Carboxylation,unknown,0.00016887065130515402,1.0,5.0
+OG0000420,"AT3G01500, AT5G14740",FUN_039301,BCA1-2,BCA,Beta carbonic anhydrase 1,Carboxylation,unknown,1.33414203767715e-07,5.0,4.0
+OG0002810,"AT1G58180, AT4G33580",FUN_052022,BCA5-3,BCA,Beta carbonic anhydrase 5,Carboxylation,unknown,1.62537804028231e-13,29.0,6.0
+OG0002849,AT4G34530,FUN_002236,BHLH63-1,BHLH,Transcription factor bHLH 63,Circadian/Light response,,4.372405555819001e-19,7.0,3.0
+OG0000796,"AT3G07340, AT5G48560",FUN_003550,BHLH62-1,BHLH,Transcription factor bHLH 62,Circadian/Light response,,0.0186265843444927,1.0,1.0
+OG0006615,AT1G10120,FUN_024352,BHLH74-1,BHLH,Transcription factor bHLH 74,Circadian/Light response,,5.341531708690161e-06,13.0,1.0
+OG0014792,AT1G68240,FUN_033478,BHLH109-1,BHLH,Transcription factor bHLH 109,Circadian/Light response,,1.6363904747218697e-09,0.0,6.0
+OG0014792,AT1G68240,FUN_033479,BHLH109-2,BHLH,Transcription factor bHLH 109,Circadian/Light response,,,,
+OG0000796,"AT3G07340, AT5G48560",FUN_034066,BHLH62-2,BHLH,Transcription factor bHLH 62,Circadian/Light response,,0.23158206459732303,2.0,1.0
+OG0000796,"AT3G07340, AT5G48560",FUN_050410,BHLH62-3,BHLH,Transcription factor bHLH 62,Circadian/Light response,,0.00453160910535495,1.0,17.0
+OG0002849,AT4G34530,FUN_050554,BHLH63-2,BHLH,Transcription factor bHLH 63,Circadian/Light response,,0.288749985720769,2.0,8.0
+OG0001107,AT1G20620,FUN_018693,CAT3-1,CAT,Catalase 3,Photorespiration,unknown,0.0019021365574035198,6.0,4.0
+,AT1G20630,FUN_024981,CAT1-1,CAT,Catalase 1,Photorespiration,unknown,,,
+OG0001107,"AT1G20620, AT1G20630",FUN_025647,CAT1-2,CAT,Catalase 1,Photorespiration,unknown,7.96415628983103e-07,5.0,4.0
+OG0001107,"AT1G20620, AT1G20630",FUN_042653,CAT1-3,CAT,Catalase 1,Photorespiration,unknown,2.71990271920421e-07,1.0,5.0
+OG0018408,"AT1G20620, AT1G20630",FUN_042663,CAT1-4,CAT,Catalase 1,Photorespiration,unknown,,1.0,7.0
+OG0018076,AT2G46830,FUN_037597,CCA1-1,CCA,CIRCADIAN CLOCK ASSOCIATED 1,Circadian/Light response,,0.359833959812322,1.0,6.0
+OG0002422,AT2G46830,FUN_037598,CCA1-2,CCA,CIRCADIAN CLOCK ASSOCIATED 1,Circadian/Light response,,0.728024697995215,1.0,6.0
+OG0002422,"AT1G01060, AT2G46830",FUN_048299,CCA1-3,CCA,CIRCADIAN CLOCK ASSOCIATED 1,Circadian/Light response,,0.7642334759214191,1.0,8.0
+OG0018157,AT5G39660,FUN_008224,CDF2-1,CDF,Cyclic dof factor 2,Circadian/Light response,,0.647240951773669,2.0,1.0
+OG0000654,"AT3G47500, AT5G62430",FUN_011086,CDF1-1,CDF,Cyclic dof factor 1,Circadian/Light response,,3.5687319451679903e-06,21.0,2.0
+OG0000654,"AT3G47500, AT5G62430",FUN_021933,CDF1-2,CDF,Cyclic dof factor 1,Circadian/Light response,,0.43660738731385296,1.0,8.0
+OG0000021,AT2g34140,FUN_036789,CDF4-1,CDF,Cyclic dof factor 4,Circadian/Light response,,0.00052618587919538,4.0,1.0
+OG0000209,AT5G13930,FUN_003771,CHS-1,CHS,Chalcone synthase,Circadian/Light response,,,28.0,
+OG0000209,AT5G13930,FUN_020425,CHS-2,CHS,Chalcone synthase,Circadian/Light response,,1.88572575262235e-05,3.0,0.0
+OG0000209,AT5G13930,FUN_020427,CHS-3,CHS,Chalcone synthase,Circadian/Light response,,0.0119285423249506,11.0,5.0
+OG0000209,AT5G13930,FUN_038393,CHS-4,CHS,Chalcone synthase,Circadian/Light response,,,,
+OG0000209,AT5G13930,FUN_041647,CHS-5,CHS,Chalcone synthase,Circadian/Light response,,2.63390949292581e-11,4.0,0.0
+OG0000209,AT5G13930,FUN_041852,CHS-6,CHS,Chalcone synthase,Circadian/Light response,,,4.0,
+OG0000209,AT5G13930,FUN_041856,CHS-7,CHS,Chalcone synthase,Circadian/Light response,,,4.0,5.0
+OG0000209,AT5G13930,FUN_041857,CHS-8,CHS,Chalcone synthase,Circadian/Light response,,,,
+OG0000209,AT5G13930,FUN_041858,CHS-9,CHS,Chalcone synthase,Circadian/Light response,,,4.0,
+OG0000209,AT5G13930,FUN_042824,CHS-10,CHS,Chalcone synthase,Circadian/Light response,,,,6.0
+OG0001041,AT2G23070,FUN_013125,CKA4-1,CK,Casein kinase II subunit alpha 4,Circadian/Light response,,5.0661759778714e-05,34.0,1.0
+OG0000983,"AT3G60250, AT5G47080, AT4G17640, AT2G44680",FUN_017357,CKB-1,CK,Casein kinase II subunit beta,Circadian/Light response,,0.0019497597741674,3.0,15.0
+OG0001041,"AT2G23080, AT5G67380, AT3G50000",FUN_017806,CKA1-1,CK,Casein kinase II subunit alpha 1,Circadian/Light response,,0.00164411501520768,14.0,11.0
+OG0001041,"AT2G23080, AT5G67380, AT3G50000",FUN_030529,CKA1-2,CK,Casein kinase II subunit alpha 1,Circadian/Light response,,0.0107108952257544,5.0,4.0
+OG0000983,"AT3G60250, AT5G47080, AT4G17640, AT2G44680",FUN_041340,CKB-2,CK,Casein kinase II subunit beta,Circadian/Light response,,0.00845628626117685,6.0,4.0
+OG0000983,"AT3G60250, AT5G47080, AT4G17640, AT2G44680",FUN_049477,CKB-3,CK,Casein kinase II subunit beta,Circadian/Light response,,0.0483754836810763,6.0,14.0
+OG0000385,"AT3G02380, AT5G15840, AT5G15850",FUN_016917,COL2-1,CO/COL,Zinc finger protein CONSTANS-LIKE 2,Circadian/Light response,,0.40157804539651,1.0,5.0
+OG0012286,AT5G24930,FUN_026857,COL4-1,CO/COL,Zinc finger protein CONSTANS-LIKE 4,Circadian/Light response,,5.7254606529168105e-09,3.0,6.0
+OG0000385,"AT3G02380, AT5G15840, AT5G15850",FUN_029688,COL2-2,CO/COL,Zinc finger protein CONSTANS-LIKE 2,Circadian/Light response,,0.405180489980575,1.0,5.0
+OG0012286,AT5G57660,FUN_034039,COL5-1,CO/COL,Zinc finger protein CONSTANS-LIKE 5,Circadian/Light response,,0.00254043819355803,3.0,2.0
+OG0000385,"AT5G24930, AT2G24790, AT5G57660",FUN_043773,COL5-2,CO/COL,Zinc finger protein CONSTANS-LIKE 5,Circadian/Light response,,0.000619720033135104,3.0,5.0
+OG0003002,AT2G32950,FUN_012253,COP1-1,COP,E3 ubiquitin-protein ligase/Constitutive photomorphogenesis protein 1,Circadian/Light response,,1.37331497772526e-05,11.0,2.0
+OG0003002,AT2G32950,FUN_012254,COP1-2,COP,E3 ubiquitin-protein ligase/Constitutive photomorphogenesis protein 1,Circadian/Light response,,0.00114611027048778,1.0,9.0
+OG0003002,AT2G32950,FUN_027551,COP1-3,COP,E3 ubiquitin-protein ligase/Constitutive photomorphogenesis protein 1,Circadian/Light response,,0.000150221535090527,1.0,1.0
+OG0008198,AT5G24850,FUN_001828,CRYD-1,CRY,Cryptochrome DASH,Circadian/Light response,,0.00142560198414773,1.0,5.0
+OG0008198,AT1G04400,FUN_015117,CRY2-1,CRY,Cryptochrome 2,Circadian/Light response,,0.007214017611686441,6.0,2.0
+OG0005597,AT4G08920,FUN_048638,CRY1-1,CRY,Cryptochrome 1,Circadian/Light response,,0.00555067950784248,1.0,1.0
+OG0012089,AT4G10180,FUN_028030,DET1-1,DET,Light-mediated development protein 1,Circadian/Light response,,0.00602099468425139,1.0,19.0
+OG0008098,AT5G12860,FUN_036428,DIT1-1,DIT/DCT,Dicarboxylate transporter 1,Photorespiration,chloroplast,3.1783469361869e-05,1.0,6.0
+OG0048141,AT5G64290,FUN_045586,DIT2-1,DIT/DCT,Dicarboxylate transporter 2,Photorespiration,chloroplast,0.000253294852053261,2.0,1.0
+OG0003941,"AT5G64280, AT5G64290",FUN_049224,DIT2-2,DIT/DCT,Dicarboxylate transporter 2,Photorespiration,chloroplast,,2.0,1.0
+OG0005919,AT5G12860,FUN_050761,DIT1-2,DIT/DCT,Dicarboxylate transporter 1,Photorespiration,chloroplast,,,6.0
+OG0003941,"AT5G64280, AT5G64290",FUN_051815,DIT2-3,DIT/DCT,Dicarboxylate transporter 2,Photorespiration,chloroplast,8.125191054313149e-05,1.0,13.0
+OG0008098,AT5G12860,FUN_052747,DIT1-3,DIT/DCT,Dicarboxylate transporter 1,Photorespiration,chloroplast,1.8431663397718e-07,1.0,6.0
+OG0020820,AT5G12860,FUN_052748,DIT1-4,DIT/DCT,Dicarboxylate transporter 1,Photorespiration,chloroplast,0.00090076482739955,1.0,2.0
+OG0007076,AT5G64860,FUN_004243,DPE1-1,DPE,4-alpha-glucanotransferase 1,Starch degradation,chloroplast,0.00036420146030393503,5.0,4.0
+OG0009822,AT2G40840,FUN_004386,DPE2-1,DPE,4-alpha-glucanotransferase 2,Transitory starch pathway,cytoplasm,,,
+OG0009822,AT2G40840,FUN_033978,DPE2-2,DPE,4-alpha-glucanotransferase 2,Transitory starch pathway,cytoplasm,0.6030364610732839,6.0,4.0
+OG0010929,AT3G52180,FUN_044506,DSP4-1,DSP,Phosphoglucan phosphatase 4,Starch degradation,chloroplast,0.00045651768214015803,5.0,4.0
+OG0018675,AT2G25930,FUN_005140,ELF3-1,ELF,EARLY FLOWERING 3,Circadian/Light response,,0.0017671594904550899,2.0,5.0
+OG0008721,AT2G40080,FUN_019119,ELF4-1,ELF,EARLY FLOWERING 4,Circadian/Light response,,0.40872809271064,5.0,4.0
+OG0020792,AT2G25930,FUN_019352,ELF3-2,ELF,EARLY FLOWERING 3,Circadian/Light response,,0.00102490905740769,13.0,11.0
+OG0008721,AT2G29950,FUN_049029,ELF1-1,ELF,EARLY FLOWERING 1,Circadian/Light response,,0.820499184237822,5.0,4.0
+OG0002362,AT2G36530,FUN_041931,ENO2-1,ENO,Enolase 2,Transitory starch pathway,ubiquitous,0.00447097905588273,1.0,2.0
+OG0012643,AT2G29560,FUN_049101,ENO3-1,ENO,Enolase 3,Transitory starch pathway,cytoplasm,0.00336026153477621,3.0,5.0
+OG0011993,AT1G74030,FUN_053298,ENO1-1,ENO,Enolase 1,Transitory starch pathway,chloroplast,0.133174019063933,5.0,2.0
+OG0010511,AT1G54730,FUN_000422,ERDL5-1,ERDL,Sugar transporter ERD-like 5,Starch/sugar transport,vacuole,9.543577086122309e-05,3.0,1.0
+OG0008736,AT1G54730,FUN_000423,ERDL5-2,ERDL,Sugar transporter ERD-like 5,Starch/sugar transport,vacuole,0.0361954650123142,4.0,3.0
+OG0008736,AT1G54730,FUN_000424,ERDL5-3,ERDL,Sugar transporter ERD-like 5,Starch/sugar transport,vacuole,,4.0,
+OG0001784,"AT1G19450, AT1G75220",FUN_009482,ERDL4-1,ERDL,Sugar transporter ERD-like 4,Starch/sugar transport,vacuole,0.000563063088666356,2.0,1.0
+,AT5G18840,FUN_020189,ERDL16-1,ERDL,Sugar transporter ERD-like 16,Starch/sugar transport,vacuole,,,
+OG0001784,"AT1G19450, AT1G75220",FUN_024549,ERDL4-2,ERDL,Sugar transporter ERD-like 4,Starch/sugar transport,vacuole,3.0504331695155497e-09,29.0,2.0
+,AT1G75220,FUN_030678,ERDL6-1,ERDL,Sugar transporter ERD-like 6,Starch/sugar transport,vacuole,,,
+OG0000851,AT5G18840,FUN_033204,ERDL16-2,ERDL,Sugar transporter ERD-like 16,Starch/sugar transport,vacuole,0.000134748973978114,5.0,4.0
+OG0000851,AT2G48020,FUN_042787,ERDL7-1,ERDL,Sugar transporter ERD-like 7,Starch/sugar transport,vacuole,0.0489055246430297,3.0,2.0
+OG0000032,AT2G27110,FUN_053313,FRS3-3,FAR,FAR1-RELATED SEQUENCE 3,Circadian/Light response,,0.000662678597253378,1.0,2.0
+OG0009574,"AT2G37678, AT5G02200",FUN_039783,FHY1-1,FAR/FRS/FHY,FAR-RED ELONGATED HYPOCOTYL 1,Circadian/Light response,,9.64879293663647e-06,1.0,2.0
+OG0000032,AT3G22170,FUN_053071,FHY3-1,FAR/FRS/FHY,FAR-RED ELONGATED HYPOCOTYL 3,Circadian/Light response,,0.0010757384637762,1.0,1.0
+OG0000032,AT1G52520,FUN_053136,FRS6-1,FAR/FRS/FHY,FAR1-RELATED SEQUENCE 6,Circadian/Light response,,0.0444837420222601,2.0,7.0
+OG0000032,AT1G80010,FUN_053242,FRS8-1,FAR/FRS/FHY,FAR1-RELATED SEQUENCE 8,Circadian/Light response,,0.000383449725503744,4.0,1.0
+OG0000032,AT2G27110,FUN_053251,FRS3-1,FAR/FRS/FHY,FAR1-RELATED SEQUENCE 3,Circadian/Light response,,2.04466296736425e-06,16.0,8.0
+OG0000032,AT4G15090,FUN_053289,FAR1-1,FAR/FRS/FHY,FAR-RED IMPAIRED RESPONSE 1,Circadian/Light response,,0.000178083768853693,9.0,7.0
+OG0000032,AT4G38170,FUN_053299,FRS9-1,FAR/FRS/FHY,FAR1-RELATED SEQUENCE 9,Circadian/Light response,,0.000219102956872474,3.0,2.0
+OG0000032,AT1G76320,FUN_053310,FRS4-1,FAR/FRS/FHY,FAR1-RELATED SEQUENCE 4,Circadian/Light response,,0.00040678051299664704,4.0,0.0
+OG0000032,AT2G27110,FUN_053312,FRS3-2,FAR/FRS/FHY,FAR1-RELATED SEQUENCE 3,Circadian/Light response,,,0.0,0.0
+OG0001134,AT2G21330,FUN_002164,FBA1-1,FBA,Fructose-bisphosphate aldolase 1,Transitory starch pathway,chloroplast,8.02671432801808e-10,3.0,6.0
+OG0001899,"AT4G26520, AT4G26530",FUN_005835,FBA5-1,FBA,Fructose-bisphosphate aldolase 5,Transitory starch pathway,cytoplasm,1.7346539445861302e-06,6.0,2.0
+OG0001899,"AT4G26520, AT4G26530",FUN_020541,FBA5-2,FBA,Fructose-bisphosphate aldolase 5,Transitory starch pathway,cytoplasm,,,
+OG0001134,"AT2G21330, AT4G38970",FUN_021690,FBA2-1,FBA,Fructose-bisphosphate aldolase 2,Transitory starch pathway,chloroplast,0.0040152506645113,3.0,6.0
+OG0001134,"AT2G21330, AT4G38970",FUN_039132,FBA2-2,FBA,Fructose-bisphosphate aldolase 2,Transitory starch pathway,chloroplast,0.0157534249405641,5.0,6.0
+OG0001899,"AT4G26520, AT4G26530",FUN_046463,FBA5-3,FBA,Fructose-bisphosphate aldolase 5,Transitory starch pathway,cytoplasm,0.0698684224249436,1.0,6.0
+OG0036305,"AT1G65480, AT4G20370",FUN_045066,FT-1,FT,FLOWERING LOCUS T,Circadian/Light response,,0.067619381834644,0.0,2.0
+OG0003667,"AT1G65480, AT4G20370",FUN_052531,FT-2,FT,FLOWERING LOCUS T,Circadian/Light response,,2.62384790332532e-06,1.0,1.0
+OG0003667,"AT1G65480, AT4G20370",FUN_052540,FT-3,FT,FLOWERING LOCUS T,Circadian/Light response,,0.504650468053036,1.0,5.0
+OG0000517,"AT1G79530, AT1G16300",FUN_014693,GAPCP-1,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,chloroplast,3.978558375263401e-09,1.0,2.0
+OG0000517,"AT1G79530, AT1G16300",FUN_014695,GAPCP-2,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,chloroplast,0.00014694820875739298,1.0,6.0
+OG0009635,"AT3G26650, AT1G12900",FUN_022531,GAPA1-1,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,chloroplast,4.17284788195507e-09,3.0,6.0
+OG0000517,"AT1G13440, AT3G04120",FUN_025361,GAPC-1,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,cytoplasm,0.687997040337679,0.0,0.0
+,AT1G42970,FUN_025627,GAPB-1,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,chloroplast,1.3958532911504502e-05,6.0,2.0
+OG0022355,AT1G42970,FUN_025628,GAPB-2,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,chloroplast,0.00026231352280555603,6.0,2.0
+OG0009877,AT1G42970,FUN_042613,GAPB-3,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,chloroplast,0.16323868743546,3.0,5.0
+OG0000517,"AT1G13440, AT3G04120",FUN_046883,GAPC-2,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,cytoplasm,0.00855354766311323,1.0,6.0
+OG0000517,"AT1G13440, AT3G04120",FUN_046885,GAPC-3,GAP,Glyceraldehyde-3-phosphate dehydrogenase,Calvin cycle,cytoplasm,,26.0,5.0
+OG0018050,AT4G26150,FUN_005227,GATA22-1,GATA,GATA transcription factor 22,Circadian/Light response,,0.00120373850420109,1.0,2.0
+OG0000756,"AT3G21175, AT1G51600",FUN_025211,GATA24-1,GATA,GATA transcription factor 24,Circadian/Light response,,2.81698870391113e-06,21.0,2.0
+OG0000756,AT4G24470,FUN_038622,GATA25-1,GATA,GATA transcription factor 25,Circadian/Light response,,4.387553375522149e-06,4.0,1.0
+OG0000756,"AT3G21175, AT1G51600",FUN_050236,GATA24-2,GATA,GATA transcription factor 24,Circadian/Light response,,1.62040543804179e-06,21.0,12.0
+OG0008754,AT4G36730,FUN_001118,GBF1-1,GBF,G-box-binding factor 1,Circadian/Light response,,0.00016572528151291698,13.0,1.0
+OG0005169,AT1G32900,FUN_033598,GBSS1-1,GBSS,Granule-bound starch synthase 1,Starch synthesis,chloroplast,0.114251178411086,3.0,6.0
+OG0005169,AT1G32900,FUN_043114,GBSS1-2,GBSS,Granule-bound starch synthase 1,Starch synthesis,chloroplast,,,2.0
+OG0008338,AT1G11860,FUN_012333,GDCST-1,GDCST,Aminomethyltransferase,Photorespiration,mitochondria,0.000185114166354773,20.0,4.0
+OG0008338,AT1G11860,FUN_035149,GDCST-2,GDCST,Aminomethyltransferase,Photorespiration,mitochondria,0.196146008175026,1.0,13.0
+OG0012084,"AT2G35370, AT1G32470",FUN_017464,GDH1-1,GDH,Glycine cleavage system H protein 1,Photorespiration,mitochondria,0.0326277395788941,1.0,9.0
+OG0007082,AT2G35120,FUN_019059,GDH2-1,GDH,Glycine cleavage system H protein 2,Photorespiration,mitochondria,0.0123656155056685,7.0,0.0
+OG0007082,AT2G35120,FUN_030432,GDH2-2,GDH,Glycine cleavage system H protein 2,Photorespiration,mitochondria,0.0343493831532385,3.0,6.0
+OG0009440,"AT1G23310, AT1G70580",FUN_009332,GGAT1-1,GGAT,Glutamate-glyoxylate aminotransferase 1,Photorespiration,peroxisome,1.62157282217214e-05,1.0,8.0
+OG0009440,"AT1G23310, AT1G70580",FUN_032138,GGAT1-2,GGAT,Glutamate-glyoxylate aminotransferase 1,Photorespiration,peroxisome,3.86938933278701e-25,0.0,1.0
+OG0009570,AT1G22770,FUN_027001,GI-1,GI,GIGANTEA,Circadian/Light response,,0.5551928545902329,5.0,4.0
+OG0006740,"AT4G33010, AT2G26080",FUN_005224,GLDP1-1,GLDP,Glycine dehydrogenase (decarboxylating) 1,Photorespiration,mitochondria,0.00026398382730443397,1.0,10.0
+OG0003625,"AT5G44190, AT2G20570",FUN_015764,GLK1-1,GLK,Transcription activator GLK/Golden2-like 1,Circadian/Light response,,0.0285073208100595,1.0,8.0
+OG0000780,"AT3G17820, AT1G48470",FUN_027715,GLN1-1,GLN,Glutamine synthetase 1,Photorespiration,chloroplast,,,
+OG0000780,"AT5G16570, AT5G37600, AT1G66200",FUN_029032,GLN1-2,GLN,Glutamine synthetase 1,Photorespiration,chloroplast,1.9152115941672698e-06,1.0,13.0
+OG0000780,"AT5G16570, AT5G37600, AT1G66200",FUN_029036,GLN1-3,GLN,Glutamine synthetase 1,Photorespiration,chloroplast,0.0357900461220362,1.0,5.0
+OG0000780,AT5G35630,FUN_046730,GLN2-2,GLN,Glutamine synthetase 2,Photorespiration,chloroplast,0.18582142453199,2.0,1.0
+OG0001978,"AT3G14415, AT3G14420",FUN_011708,GLO1-1,GLO/GOX,(S)-2-hydroxy-acid oxidase/Glycolate oxidase 1,Photorespiration,peroxisome,1.9134927932903798e-05,1.0,13.0
+OG0001978,AT4G18360,FUN_044455,GLO5-1,GLO/GOX,(S)-2-hydroxy-acid oxidase/Glycolate oxidase 5,Photorespiration,peroxisome,0.0024702526254441397,5.0,2.0
+OG0001978,"AT3G14415, AT3G14420",FUN_047572,GLO1-2,GLO/GOX,(S)-2-hydroxy-acid oxidase/Glycolate oxidase 1,Photorespiration,peroxisome,0.000649895124002788,1.0,13.0
+OG0004544,AT2G41220,FUN_004465,Fd-GOGAT2-1,GLU,Ferredoxin-dependent glutamate synthase 2,Photorespiration,chloroplast,9.534373595714802e-06,1.0,2.0
+OG0003857,AT5G53460,FUN_013684,NADH-GOGAT1-1,GLU,NADH-dependent glutamate synthase 1,Photorespiration,chloroplast,0.565434393790053,2.0,1.0
+OG0004544,AT2G41220,FUN_023324,Fd-GOGAT2-2,GLU,Ferredoxin-dependent glutamate synthase 2,Photorespiration,,,,
+OG0004544,AT2G41220,FUN_032696,Fd-GOGAT2-3,GLU,Ferredoxin-dependent glutamate synthase 2,Photorespiration,chloroplast,0.00040685783987212004,2.0,6.0
+OG0009030,AT1G80380,FUN_006219,GLYK-1,GLYK,D-glycerate 3-kinase,Photorespiration,,0.0125378550468764,2.0,1.0
+OG0009030,AT1G80380,FUN_016069,GLYK-2,GLYK,D-glycerate 3-kinase,Photorespiration,chloroplast,0.0727482890601937,3.0,2.0
+OG0000889,AT1G61800,FUN_012440,GPT2-1,GPT,Glucose-6-phosphate/phosphate translocator 2,Starch/sugar transport,chloroplast,,,
+OG0000889,AT1G61800,FUN_035277,GPT2-2,GPT,Glucose-6-phosphate/phosphate translocator 2,Starch/sugar transport,chloroplast,5.58283745011482e-06,3.0,6.0
+OG0000889,AT1G61800,FUN_035278,GPT2-3,GPT,Glucose-6-phosphate/phosphate translocator 2,Starch/sugar transport,chloroplast,7.568258686248019e-06,3.0,6.0
+OG0000889,"AT1G61800, AT5G54800",FUN_045959,GPT2-4,GPT,Glucose-6-phosphate/phosphate translocator 2,Starch/sugar transport,chloroplast,0.0021465702268838698,20.0,2.0
+OG0000889,"AT1G61800, AT5G54800",FUN_049865,GPT2-5,GPT,Glucose-6-phosphate/phosphate translocator 2,Starch/sugar transport,chloroplast,0.125011910334439,6.0,2.0
+OG0003905,AT2G06200,FUN_027790,GRF6-1,GRF,Growth-regulating factor 6,Circadian/Light response,,0.00811151004091733,2.0,1.0
+OG0013130,"AT5G53660, AT4G24150",FUN_041226,GRF7-1,GRF,Growth-regulating factor 7,Circadian/Light response,,,,
+OG0013130,"AT5G53660, AT4G24150",FUN_041227,GRF7-2,GRF,Growth-regulating factor 7,Circadian/Light response,,,,1.0
+OG0013130,"AT5G53660, AT4G24150",FUN_043103,GRF7-3,GRF,Growth-regulating factor 7,Circadian/Light response,,,4.0,1.0
+OG0004908,AT4G37740,FUN_045038,GRF2-1,GRF,Growth-regulating factor 2,Circadian/Light response,,,4.0,
+OG0004908,AT4G37740,FUN_045039,GRF2-2,GRF,Growth-regulating factor 2,Circadian/Light response,,0.018040356458218002,4.0,11.0
+OG0002951,AT3G13960,FUN_045289,GRF5-1,GRF,Growth-regulating factor 5,Circadian/Light response,,0.0028581995923464,1.0,9.0
+OG0003905,AT2G06200,FUN_050062,GRF6-2,GRF,Growth-regulating factor 6,Circadian/Light response,,,,1.0
+OG0011131,AT5G26570,FUN_003562,GWD3-1,GWD,"Phosphoglucan, water dikinase 3",Starch degradation,chloroplast,0.0468792385242963,5.0,4.0
+OG0008694,AT1G10760,FUN_009308,GWD1-1,GWD,Alpha-glucan water dikinase 1,Starch degradation,chloroplast,1.0,5.0,4.0
+OG0008694,AT1G10760,FUN_032150,GWD1-2,GWD,Alpha-glucan water dikinase 1,Starch degradation,chloroplast,0.00261375049381245,3.0,6.0
+OG0023733,AT5G06710,FUN_003683,HAT14-1,HAT,Homeobox-leucine zipper protein HAT 14,Circadian/Light response,,0.0922948961184136,4.0,3.0
+OG0001205,"AT4G37790, AT2G22800",FUN_003936,HAT9-1,HAT,Homeobox-leucine zipper protein HAT 9,Circadian/Light response,,1.7047261279522698e-17,3.0,11.0
+OG0019550,AT5G06710,FUN_005990,HAT14-2,HAT,Homeobox-leucine zipper protein HAT 14,Circadian/Light response,,,,
+OG0002744,"AT5G47370, AT4G17460",FUN_017196,HAT1-1,HAT,Homeobox-leucine zipper protein HAT 1,Circadian/Light response,,0.320047049623008,19.0,1.0
+OG0016015,AT4G16780,FUN_024331,HAT4-1,HAT,Homeobox-leucine zipper protein HAT 4,Circadian/Light response,,0.000122269489870874,4.0,1.0
+OG0001205,"AT4G37790, AT2G22800",FUN_030229,HAT-9-2,HAT,Homeobox-leucine zipper protein HAT 9,Circadian/Light response,,0.32915033084468803,4.0,1.0
+OG0001205,AT5G06710,FUN_032999,HAT14-4,HAT,Homeobox-leucine zipper protein HAT 14,Circadian/Light response,,0.0233265122365208,3.0,1.0
+OG0019550,AT5G06710,FUN_039593,HAT14-3,HAT,Homeobox-leucine zipper protein HAT 14,Circadian/Light response,,,,0.0
+OG0005272,AT1G79870,FUN_006314,HPR2-1,HPR,Glyoxylate/hydroxypyruvate reductase A,Photorespiration,peroxisome,0.0137781601583013,5.0,6.0
+OG0005272,AT1G79870,FUN_006315,HPR2-2,HPR,Glyoxylate/hydroxypyruvate reductase A,Photorespiration,peroxisome,1.83713998170241e-08,3.0,2.0
+OG0012706,AT1G68010,FUN_045743,HPR1-1,HPR,Glycerate dehydrogenase,Photorespiration,peroxisome,0.0009586616517734221,1.0,13.0
+OG0015687,AT4G29130,FUN_006455,HXK1-1,HXK,Hexokinase 1,Transitory starch pathway,mitochondria,3.94057923864106e-06,1.0,8.0
+OG0047487,AT4G29130,FUN_015509,HXK1-2,HXK,Hexokinase 1,Transitory starch pathway,mitochondria,0.0271457207414725,0.0,6.0
+OG0013694,AT1G47840,FUN_024205,HXKL1-1,HXK,Hexokinase-like 1,Transitory starch pathway,,1.6046339952031498e-08,11.0,7.0
+OG0001282,"AT2G19860, AT4G29130",FUN_026676,HXK1-2,HXK,Hexokinase 1,Transitory starch pathway,mitochondria,4.31271573040955e-06,3.0,2.0
+OG0001282,AT4G37840,FUN_028999,HXKL2-1,HXK,Hexokinase-like 2,Transitory starch pathway,,,0.0,
+OG0002715,"AT1G50460, AT3G20040",FUN_036370,HXK3-1,HXK,Hexokinase 3,Transitory starch pathway,mitochondria,0.18527902231215498,2.0,5.0
+OG0002715,"AT1G50460, AT3G20040",FUN_052690,HXK3-2,HXK,Hexokinase 3,Transitory starch pathway,mitochondria,0.007273076997974659,2.0,1.0
+OG0002064,AT3G17609,FUN_014198,HYH-1,HY,Transcription factor HY5-like,Circadian/Light response,,0.00033192348992117,2.0,6.0
+OG0002064,AT5G11260,FUN_023543,HY5-1,HY,Transcription factor HY5,Circadian/Light response,,2.91784451906403e-07,2.0,8.0
+OG0009772,AT2G39930,FUN_026768,ISA1-1,ISA,Isoamylase 1,Starch synthesis,chloroplast,0.0329406110011872,5.0,4.0
+OG0007530,AT4G09020,FUN_038098,ISA3-1,ISA,Isoamylase 3,Starch degradation,chloroplast,0.19282598786673397,5.0,4.0
+OG0006976,AT1G03310,FUN_042825,ISA2-1,ISA,Isoamylase 2,Starch synthesis,chloroplast,,,
+OG0006976,AT1G03310,FUN_042844,ISA2-2,ISA,Isoamylase 2,Starch synthesis,chloroplast,0.0406270620523905,5.0,2.0
+OG0002198,"AT3G48920, AT4G25560, AT5G52260",FUN_013932,LAF1-1,LAF,Transcription factor LAF/LONG AFTER FAR-RED LIGHT 1,Circadian/Light response,,,,
+OG0002198,"AT3G48920, AT4G25560, AT5G52260",FUN_013933,LAF1-2,LAF,Transcription factor LAF/LONG AFTER FAR-RED LIGHT 1,Circadian/Light response,,,,
+OG0002198,"AT3G48920, AT4G25560, AT5G52260",FUN_022752,LAF1-3,LAF,Transcription factor LAF/LONG AFTER FAR-RED LIGHT 1,Circadian/Light response,,,,
+OG0002198,"AT3G48920, AT4G25560, AT5G52260",FUN_022754,LAF1-4,LAF,Transcription factor LAF/LONG AFTER FAR-RED LIGHT 1,Circadian/Light response,,,,
+OG0002609,AT5G64170,FUN_045634,LNK1-1,LNK,Night light-inducible and clock-regulated 1,Circadian/Light response,,0.313615735448233,3.0,2.0
+OG0002609,AT5G64170,FUN_051849,LNK1-2,LNK,Night light-inducible and clock-regulated 1,Circadian/Light response,,0.0117889976749139,3.0,2.0
+OG0003368,"AT3G17240, AT1G48030",FUN_014237,mtLPD1-1,LPD,Dihydrolipoyl dehydrogenase/Glycine cleavage system L protein 1,Photorespiration,mitochondria,3.10813683106835e-05,6.0,2.0
+OG0003368,"AT3G17240, AT1G48030",FUN_014238,mtLPD1-2,LPD,Dihydrolipoyl dehydrogenase/Glycine cleavage system L protein 1,Photorespiration,mitochondria,0.0112217963188367,6.0,2.0
+OG0005277,"AT4G16155, AT3G16950",FUN_014956,cpLPD2-1,LPD,Dihydrolipoyl dehydrogenase/Glycine cleavage system L protein 2,Photorespiration,chloroplast,0.000152546664694907,10.0,6.0
+OG0007747,AT3G10940,FUN_029275,LSF2-1,LSF,Phosphoglucan phosphatase 2,Starch degradation,chloroplast,0.0164813703139541,1.0,6.0
+OG0009479,AT3G01510,FUN_039303,LSF1-1,LSF,Phosphoglucan phosphatase 1,Starch degradation,chloroplast,0.265175745654815,5.0,4.0
+OG0000520,"AT5G05090, AT3G10760",FUN_004415,LUX-1,LUX/BOA/PCLL,LUX ARRHYTHMO/BROTHER OF LUX ARRHYTHMO/PHTYOCLOCK 1-like,Circadian/Light response,,7.808103824861808e-13,3.0,10.0
+OG0000520,"AT5G59570, AT3G46640",FUN_010068,LUX-2,LUX/BOA/PCLL,LUX ARRHYTHMO/BROTHER OF LUX ARRHYTHMO/PHTYOCLOCK 1-like,Circadian/Light response,,,,
+OG0000520,"AT5G59570, AT3G46640",FUN_030093,LUX-3,LUX/BOA/PCLL,LUX ARRHYTHMO/BROTHER OF LUX ARRHYTHMO/PHTYOCLOCK 1-like,Circadian/Light response,,0.30874246303118896,10.0,11.0
+OG0000520,"AT5G05090, AT3G10760",FUN_033959,LUX-4,LUX/BOA/PCLL,LUX ARRHYTHMO/BROTHER OF LUX ARRHYTHMO/PHTYOCLOCK 1-like,Circadian/Light response,,4.994768495280961e-07,1.0,1.0
+OG0000520,"AT5G59570, AT3G46640",FUN_047962,LUX-5,LUX/BOA/PCLL,LUX ARRHYTHMO/BROTHER OF LUX ARRHYTHMO/PHTYOCLOCK 1-like,Circadian/Light response,,0.457341023991242,5.0,4.0
+OG0000520,"AT5G59570, AT3G46640",FUN_047963,LUX-6,LUX/BOA/PCLL,LUX ARRHYTHMO/BROTHER OF LUX ARRHYTHMO/PHTYOCLOCK 1-like,Circadian/Light response,,0.7382230397915,5.0,4.0
+OG0008161,"AT1G12910,AT3G26640",FUN_007567,LWD1-1,LWD,WD repeat-containing protein/LIGHT-REGULATED WD,Circadian/Light response,,0.0428713515193525,24.0,1.0
+OG0007626,AT5G58330,FUN_002078,cpNADP-MDH1-1,MDH,"NADP-dependent malate dehydrogenase, chloroplastic",Carboxylation,chloroplast,1.39304401155219e-28,3.0,2.0
+OG0003239,AT2G22780,FUN_003919,pNAD-MDH1-1,MDH,"NAD-dependent malate dehydrogenase 1, peroxisomal",Carboxylation,peroxisome,0.000537198875055449,5.0,6.0
+OG0003239,AT2G22780,FUN_008400,pNAD-MDH1-2,MDH,"NAD-dependent malate dehydrogenase 1, peroxisomal",Carboxylation,peroxisome,0.0026361592004489898,1.0,0.0
+OG0004671,"AT3G15020, AT1G53240",FUN_011866,mtNAD-MDH-1,MDH,"NAD-dependent malate dehydrogenase, mitochondrial",Carboxylation,mitochondria,0.0057802223106938,2.0,13.0
+OG0004671,"AT3G15020, AT1G53240",FUN_011869,mtNAD-MDH-2,MDH,"NAD-dependent malate dehydrogenase, mitochondrial",Carboxylation,mitochondria,0.00517653176912569,3.0,2.0
+OG0002189,"AT5G56720, AT5G43330",FUN_015107,cNAD-MDH1-1,MDH,"NAD-dependent malate dehydrogenase 1, cytoplasmic",Carboxylation,cytoplasm,0.0021311821525987398,3.0,2.0
+OG0004122,AT3G47520,FUN_018995,cpNAD-MDH-1,MDH,"NAD-dependent malate dehydrogenase, chloroplastic",Carboxylation,chloroplast,0.116286797128345,15.0,5.0
+OG0004122,AT3G47520,FUN_029296,cpNAD-MDH-2,MDH,"NAD-dependent malate dehydrogenase, chloroplastic",Carboxylation,chloroplast,1.0,4.0,3.0
+OG0002189,AT5G56720,FUN_036901,cNAD-MDH3-1,MDH,"NAD-dependent malate dehydrogenase 3, cytoplastic",Carboxylation,cytoplasm,,4.0,
+OG0002189,AT5G56720,FUN_036902,cNAD-MDH3-2,MDH,"NAD-dependent malate dehydrogenase 3, cytoplastic",Carboxylation,cytoplasm,,7.0,
+OG0002189,AT5G56720,FUN_049579,cNAD-MDH3-3,MDH,"NAD-dependent malate dehydrogenase 3, cytoplastic",Carboxylation,cytoplasm,,,
+OG0000463,AT5G25880,FUN_005110,cNADP-ME2-1,ME,"NADP-dependent malic enzyme 2, cytoplasmic",Decarboxylation,cytoplasm,,7.0,8.0
+,AT1G79750,FUN_006401,cpNADP-ME4-1,ME,"NADP-dependent malic enzyme 4, chloroplastic",Decarboxylation,chloroplast,5.93241379760352e-06,1.0,5.0
+OG0015821,AT1G79750,FUN_006404,cpNADP-ME4-2,ME,"NADP-dependent malic enzyme 4, chloroplastic",Decarboxylation,chloroplast,2.3023112759321702e-06,1.0,5.0
+OG0015821,AT1G79750,FUN_006411,cpNADP-ME4-3,ME,"NADP-dependent malic enzyme 4, chloroplastic",Decarboxylation,chloroplast,4.83657069061858e-05,1.0,5.0
+OG0000463,AT1G79750,FUN_006423,cpNADP-ME4-4,ME,"NADP-dependent malic enzyme 4, chloroplastic",Decarboxylation,chloroplast,0.00022174323482011699,1.0,5.0
+,AT1G79750,FUN_015913,cpNADP-ME4-5,ME,"NADP-dependent malic enzyme 4, chloroplastic",Decarboxylation,chloroplast,2.5658394717588397e-08,1.0,6.0
+OG0005545,AT2G13560,FUN_021996,mtNAD-ME1-1,ME,"NAD-dependent malic enzyme 1, mitochondrial",Decarboxylation,mitochondria,0.0124642613876507,1.0,6.0
+OG0000463,AT2G19900,FUN_026515,cNADP-ME1-1,ME,"NADP-dependent malic enzyme 1, cytoplasmic",Decarboxylation,cytoplasm,0.158975398314916,2.0,3.0
+OG0006111,AT4G00570,FUN_037145,mtNAD-ME2-1,ME,"NAD-dependent malic enzyme 2, mitochondrial",Decarboxylation,mitochondria,0.0014431469938791,5.0,6.0
+OG0006111,AT4G00570,FUN_049199,mtNAD-ME2-2,ME,"NAD-dependent malic enzyme 2, mitochondrial",Decarboxylation,mitochondria,,0.0,2.0
+OG0047977,AT5G12470,FUN_036400,MEP4-1,MEP/RER,Methyl erythritol phosphate transporter/RETICULATA-RELATED,Metabolite transport,,2.6562658117302105e-07,1.0,6.0
+OG0004785,AT5G12470,FUN_052713,MEP4-2,MEP/RER,Methyl erythritol phosphate transporter/RETICULATA-RELATED,Metabolite transport,,2.3077200958232297e-09,3.0,5.0
+OG0007717,"AT5G17520, AT5G17523",FUN_015238,MEX1-1,MEX,Maltose excess protein 1,Starch/sugar transport,chloroplast,0.938715224590855,5.0,4.0
+OG0007717,"AT5G17520, AT5G17523",FUN_040465,MEX1-2,MEX,Maltose excess protein 1,Starch/sugar transport,chloroplast,,20.0,
+OG0000883,"AT4G35300, AT1G20840",FUN_004191,MSSP2-1,MSSP,Monosaccharide-sensing protein 2,Starch/sugar transport,vacuole,2.26362766331692e-13,3.0,6.0
+OG0000883,"AT4G35300, AT1G20840",FUN_012938,MSSP2-2,MSSP,Monosaccharide-sensing protein 2,Starch/sugar transport,vacuole,,,
+OG0000883,AT1G20840,FUN_025616,MSSP1-1,MSSP,Monosaccharide-sensing protein 1,Starch/sugar transport,vacuole,0.0404545663676371,6.0,4.0
+OG0000883,AT4G35300,FUN_045571,MSSP2-3,MSSP,Monosaccharide-sensing protein 2,Starch/sugar transport,vacuole,1.07456894273972e-10,2.0,17.0
+OG0000883,AT4G35300,FUN_051800,MSSP2-4,MSSP,Monosaccharide-sensing protein 2,Starch/sugar transport,vacuole,2.36889882760544e-08,3.0,6.0
+OG0000085,"AT2G31180, AT5G10280, AT1G16490, AT4G05100, AT3G23250, AT1G06180, AT5G16770, AT5G65230, AT4G28110, AT3G12820, AT1G79180, AT3G02940, AT4G21440, AT1G34670",FUN_000232,MYB-1,MYB,Transcription factor MYB,Circadian/Light response,,,0.0,6.0
+OG0000074,"AT4G09460, AT1G35515, AT5G35550, AT1G22640",FUN_002730,MYB-2,MYB,Transcription factor MYB,Circadian/Light response,,0.0125831833508928,7.0,12.0
+OG0000074,AT3G13540,FUN_003721,MYB-3,MYB,Transcription factor MYB,Circadian/Light response,,,,
+OG0000085,"AT4G05100, AT4G21440",FUN_008585,MYB-4,MYB,Transcription factor MYB,Circadian/Light response,,1.21161421659607e-13,2.0,1.0
+OG0000085,"AT2G31180, AT5G10280, AT1G16490, AT4G05100, AT3G23250, AT1G06180, AT5G16770, AT5G65230, AT4G28110, AT3G12820, AT1G79180, AT3G02940, AT4G21440, AT1G34670",FUN_008586,MYB-5,MYB,Transcription factor MYB,Circadian/Light response,,2.72185911933064e-12,4.0,3.0
+OG0004553,,FUN_010340,MYB-6,MYB,Transcription factor MYB,Circadian/Light response,,0.00817705332370425,1.0,1.0
+OG0035789,,FUN_010416,MYB-7,MYB,Transcription factor MYB,Circadian/Light response,,2.42363219229477e-08,4.0,3.0
+OG0000085,AT3G23250,FUN_015112,MYB-8,MYB,Transcription factor MYB,Circadian/Light response,,0.0575568743841195,4.0,3.0
+OG0000074,"AT4G09460, AT1G35515, AT5G35550, AT1G22640",FUN_016739,MYB-9,MYB,Transcription factor MYB,Circadian/Light response,,1.07971632001995e-05,3.0,8.0
+OG0000085,"AT2G31180, AT5G10280, AT1G16490, AT4G05100, AT3G23250, AT1G06180, AT5G16770, AT5G65230, AT4G28110, AT3G12820, AT1G79180, AT3G02940, AT4G21440, AT1G34670",FUN_017021,MYB-10,MYB,Transcription factor MYB,Circadian/Light response,,,,
+OG0000074,AT5G35550,FUN_027799,MYB-11,MYB,Transcription factor MYB,Circadian/Light response,,0.0672807615044697,0.0,3.0
+OG0000085,"AT2G31180, AT5G10280, AT1G16490, AT4G05100, AT3G23250, AT1G06180, AT5G16770, AT5G65230, AT4G28110, AT3G12820, AT1G79180, AT3G02940, AT4G21440, AT1G34670",FUN_029580,MYB-12,MYB,Transcription factor MYB,Circadian/Light response,,,,1.0
+OG0000085,"AT2G31180, AT5G10280, AT1G16490, AT4G05100, AT3G23250, AT1G06180, AT5G16770, AT5G65230, AT4G28110, AT3G12820, AT1G79180, AT3G02940, AT4G21440, AT1G34670",FUN_035512,MYB-13,MYB,Transcription factor MYB,Circadian/Light response,,8.92160687847157e-06,4.0,3.0
+OG0000085,"AT2G31180, AT5G10280, AT1G16490, AT4G05100, AT3G23250, AT1G06180, AT5G16770, AT5G65230, AT4G28110, AT3G12820, AT1G79180, AT3G02940, AT4G21440, AT1G34670",FUN_035531,MYB-14,MYB,Transcription factor MYB,Circadian/Light response,,,,
+OG0001125,"AT1G56650, AT1G66390, AT1G66380, AT1G66370",FUN_036805,MYB-15,MYB,Transcription factor MYB,Circadian/Light response,,,7.0,
+OG0027941,,FUN_037490,MYB-16,MYB,Transcription factor MYB,Circadian/Light response,,,3.0,1.0
+OG0000074,"AT4G09460, AT1G35515, AT5G35550, AT1G22640",FUN_037732,MYB-17,MYB,Transcription factor MYB,Circadian/Light response,,6.05717617690944e-17,2.0,1.0
+OG0001125,"AT1G56650, AT1G66390, AT1G66380, AT1G66370",FUN_040035,MYB-18,MYB,Transcription factor MYB,Circadian/Light response,,3.52142088430899e-13,21.0,1.0
+OG0000074,"AT4G38620, AT4G34990, AT2G16720",FUN_045720,MYB-19,MYB,Transcription factor MYB,Circadian/Light response,,0.44868569377144896,4.0,1.0
+,,FUN_048198,MYB-20,MYB,Transcription factor MYB,Circadian/Light response,,,,
+OG0048202,,FUN_048335,MYB-21,MYB,Transcription factor MYB,Circadian/Light response,,0.136629952463823,17.0,4.0
+OG0000074,"AT4G09460, AT1G35515, AT5G35550, AT1G22640",FUN_048382,MYB-22,MYB,Transcription factor MYB,Circadian/Light response,,1.0,4.0,1.0
+OG0000085,"AT2G31180, AT1G06180",FUN_051239,MYB-23,MYB,Transcription factor MYB,Circadian/Light response,,0.0459347047105636,4.0,3.0
+OG0000074,"AT4G38620, AT4G34990, AT2G16720",FUN_051962,MYB-24,MYB,Transcription factor MYB,Circadian/Light response,,6.28002018077426e-12,12.0,1.0
+OG0004248,"AT5G46760, AT5G46830, AT1G32640, AT4G17880",FUN_017559,MYC2-1,MYC,Transcription factor MYC,Circadian/Light response,,1.55707637185269e-05,5.0,14.0
+OG0004248,"AT5G46760, AT5G46830, AT1G32640, AT4G17880",FUN_041575,MYC2-2,MYC,Transcription factor MYC,Circadian/Light response,,0.36503969658668195,1.0,6.0
+OG0035818,AT1G69490,FUN_011715,NAC029-1,NAC,NAC transcription factor 29,Circadian/Light response,,,,
+OG0035818,AT1G69490,FUN_024707,NAC029-2,NAC,NAC transcription factor 29,Circadian/Light response,,,,
+OG0001731,AT1G01720,FUN_038686,NAC002-1,NAC,NAC transcription factor 2,Circadian/Light response,,0.114371665914661,4.0,1.0
+OG0035818,AT1G69490,FUN_043076,NAC029-3,NAC,NAC transcription factor 29,Circadian/Light response,,,5.0,
+OG0001731,"AT5G63790, AT5G08790",FUN_052255,NAC081-1,NAC,NAC transcription factor 81,Circadian/Light response,,0.601107383372921,4.0,3.0
+OG0003924,AT1G49810,FUN_047221,NHD2-1,NHD,Sodium/proton antiporter 2,PEP generation,chloroplast,0.014365640178632,4.0,3.0
+OG0003924,AT3G19490,FUN_051722,NHD1-1,NHD,Sodium/proton antiporter 1,PEP generation,chloroplast,1.26123133438258e-13,3.0,6.0
+OG0009048,AT1G48150,FUN_045881,PAT1-1,PAT,Scarecrow-like transcription factor PAT1/PHYTOCHROME A SIGNAL TRANSDUCTION 1,Circadian/Light response,,,,
+OG0009048,AT1G48150,FUN_045883,PAT1-2,PAT,Scarecrow-like transcription factor PAT1/PHYTOCHROME A SIGNAL TRANSDUCTION 1,Circadian/Light response,,2.9418813342381603e-05,4.0,1.0
+OG0004462,"AT5G65690, AT4G37870",FUN_033216,PCK1-1,PCK,Phosphoenolpyruvate carboxykinase 1,Decarboxylation,cytoplasm,4.687636606305441e-08,6.0,3.0
+OG0000406,"AT4G26270, AT4G29220, AT5G56630",FUN_005129,PFK1-1,PFK,ATP-dependent 6-phosphofructokinase 1,Transitory starch pathway,cytoplasm,,,
+OG0000406,"AT4G26270, AT4G29220, AT5G56630, AT4G32840",FUN_006465,PFK1-2,PFK,ATP-dependent 6-phosphofructokinase 1,Transitory starch pathway,cytoplasm,0.0213242550716314,4.0,0.0
+OG0000406,"AT4G26270, AT4G29220, AT5G56630, AT4G32840",FUN_015896,PFK1-3,PFK,ATP-dependent 6-phosphofructokinase 1,Transitory starch pathway,cytoplasm,1.31428770816792e-19,1.0,5.0
+OG0000406,"AT4G26270, AT4G29220, AT5G56630",FUN_021326,PFK1-4,PFK,ATP-dependent 6-phosphofructokinase 1,Transitory starch pathway,cytoplasm,1.3471578976703998e-07,5.0,1.0
+OG0002705,AT2G22480,FUN_025469,PFK5-1,PFK,ATP-dependent 6-phosphofructokinase 5,Transitory starch pathway,chloroplast,0.00647446926639608,3.0,5.0
+OG0000406,AT4G32840,FUN_026723,PFK6-1,PFK,ATP-dependent 6-phosphofructokinase 6,Transitory starch pathway,cytoplasm,6.97649860700706e-05,2.0,1.0
+OG0002705,AT2G22480,FUN_030933,PFK5-2,PFK,ATP-dependent 6-phosphofructokinase 5,Transitory starch pathway,chloroplast,6.31224738426057e-08,3.0,5.0
+OG0007009,AT5G42740,FUN_017933,PGIC-1,PGI,"Glucose-6-phosphate isomerase, cytosolic",Transitory starch pathway,cytoplasm,0.111248807992805,5.0,4.0
+OG0009238,AT4G24620,FUN_048540,PGI1-1,PGI,"Glucose-6-phosphate isomerase 1, chloroplastic",Transitory starch pathway,chloroplast,1.09860016650779e-08,3.0,6.0
+OG0009238,AT4G24620,FUN_048543,PGI1-2,PGI,"Glucose-6-phosphate isomerase 1, chloroplastic",Transitory starch pathway,chloroplast,1.18674621567796e-19,3.0,6.0
+OG0002807,"AT1G56190, AT3G12780",FUN_002797,PGK1-1,PGK,Phosphoglycerate kinase 1,Calvin cycle,chloroplast,0.0256558800534191,1.0,6.0
+OG0002807,AT1G79550,FUN_018626,PGK3-1,PGK,Phosphoglycerate kinase 3,Calvin cycle,cytoplasm,1.2357666237148599e-05,3.0,0.0
+OG0007862,AT5G16150,FUN_016591,pGlcT-1,pGlcT,Plastidic glucose transporter,Starch/sugar transport,chloroplast,1.05077812886213e-10,2.0,3.0
+OG0007862,AT5G16150,FUN_029844,pGlcT-2,pGlcT,Plastidic glucose transporter,Starch/sugar transport,chloroplast,0.345692427319323,12.0,6.0
+OG0008150,"AT5G36700, AT5G36790",FUN_036235,PGLP1-1,PGLP,Phosphoglycolate phosphatase 1,Photorespiration,chloroplast,8.85463533805847e-06,3.0,6.0
+OG0008341,AT5G47760,FUN_049117,PGLP2-1,PGLP,Phosphoglycolate phosphatase 2,Photorespiration,chloroplast,0.00217211205793813,1.0,1.0
+OG0028692,AT5G47760,FUN_049121,PGLP2-2,PGLP,Phosphoglycolate phosphatase 2,Photorespiration,chloroplast,4.88539991333178e-11,1.0,1.0
+OG0048222,AT5G47760,FUN_049122,PGLP2-3,PGLP,Phosphoglycolate phosphatase 2,Photorespiration,chloroplast,6.9455593468244e-12,1.0,1.0
+OG0008341,AT5G47760,FUN_049123,PGLP2-4,PGLP,Phosphoglycolate phosphatase 2,Photorespiration,chloroplast,0.0048204564646334705,2.0,11.0
+OG0002123,"AT3G08590, AT1G09780",FUN_008086,PGM1-1,PGM,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",Calvin cycle,ubiquitous,0.137423706036053,5.0,2.0
+OG0002123,"AT3G08590, AT1G09780",FUN_018938,PGM1-2,PGM,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",Calvin cycle,ubiquitous,0.257938219590553,1.0,6.0
+OG0013124,AT5G51820,FUN_022557,PGMP-1,PGM,"Phosphoglucomutase, chloroplastic",Transitory starch pathway,chloroplast,0.629940550573344,6.0,4.0
+OG0006375,"AT1G70730, AT1G23190",FUN_033324,PGMC-1,PGM,"Phosphoglucomutase, cytoplasmic",Transitory starch pathway,cytoplasm,1.32083574050777e-05,2.0,1.0
+OG0005583,AT5G58140,FUN_047154,PHOT2-1,PHOT,Phototropin 2,Circadian/Light response,,0.10790339088323599,34.0,5.0
+OG0010421,AT3G45780,FUN_049345,PHOT1-1,PHOT,Phototropin 1,Circadian/Light response,,1.6596718756110898e-32,3.0,14.0
+,AT3G29320,FUN_023477,PHS1-1,PHS,Alpha-glucan phosphorylase 1,Starch degradation,chloroplast,,,
+OG0002072,AT3G46970,FUN_027472,PHS2-1,PHS,Alpha-glucan phosphorylase 2,Transitory starch pathway,cytoplasm,,,
+OG0002072,AT3G29320,FUN_029113,PHS1-2,PHS,Alpha-glucan phosphorylase 1,Starch degradation,chloroplast,0.310930402138097,5.0,4.0
+OG0002072,AT3G46970,FUN_049087,PHS2-2,PHS,Alpha-glucan phosphorylase 2,Transitory starch pathway,cytoplasm,0.9078308757030881,5.0,4.0
+OG0005829,AT1G09570,FUN_008439,PHYA-1,PHY,Phytochrome A,Circadian/Light response,,0.0477845028044145,5.0,2.0
+OG0004560,"AT4G18130, AT4G16250, AT2G18790",FUN_014895,PHYB-1,PHY,Phytochrome B,Circadian/Light response,,1.00665122520708e-05,1.0,4.0
+OG0008602,AT5G35840,FUN_027339,PHYC-1,PHY,Phytochrome C,Circadian/Light response,,0.00029563743948386,28.0,1.0
+OG0004316,AT2G20180,FUN_024962,PIF1-1,PIF,Transcription factor PIF1/PHY-INTERACTING FACTOR 1,Circadian/Light response,,5.07433090862905e-10,21.0,5.0
+OG0004354,AT1G09530,FUN_052322,PIF3-1,PIF,Transcription factor PIF3/PHY-INTERACTING FACTOR 3,Circadian/Light response,,0.0490461406534195,5.0,4.0
+OG0006118,AT1G32080,FUN_017796,PLGG-1,PLGG,Plastidal glycolate/glycerate translocator,Photorespiration,chloroplast,0.294001595672925,3.0,2.0
+OG0006118,AT1G32080,FUN_041760,PLGG-2,PLGG,Plastidal glycolate/glycerate translocator,Photorespiration,chloroplast,0.113291268094025,9.0,5.0
+OG0000419,"AT2G42500,AT3G58500",FUN_015943,PP2A3-1,PP2A,Serine/threonine-protein phosphatase PP2A-3 catalytic subunit,PEPC regulation,cytoplasm,1.1495313174200198e-07,1.0,5.0
+OG0000419,"AT1G69960,AT1G59830,AT1G10430",FUN_022923,PP2A1-2,PP2A,Serine/threonine-protein phosphatase PP2A-1 catalytic subunit,PEPC regulation,cytoplasm,0.0258007524563895,1.0,5.0
+OG0000419,"AT1G69960,AT1G59830,AT1G10430",FUN_032362,PP2A1-3,PP2A,Serine/threonine-protein phosphatase PP2A-1 catalytic subunit,PEPC regulation,cytoplasm,6.89233853227255e-07,2.0,1.0
+OG0000419,"AT2G42500,AT3G58500",FUN_035711,PP2A3-2,PP2A,Serine/threonine-protein phosphatase PP2A-3 catalytic subunit,PEPC regulation,cytoplasm,2.7501750964688898e-05,1.0,1.0
+OG0000662,AT2G18230,FUN_009450,PPA2-1,PPA,Soluble inorganic pyrophosphatase 2,PEP generation,unknown,1.06336297910158e-42,2.0,1.0
+OG0010872,AT5G09650,FUN_026973,PPA6-1,PPA,Soluble inorganic pyrophosphatase 6,PEP generation,cytoplasm,6.6825323137941e-07,1.0,1.0
+,AT2G18230,FUN_030703,PPA2-2,PPA,Soluble inorganic pyrophosphatase 2,PEP generation,unknown,1.45679355997975e-11,1.0,5.0
+OG0000662,"AT1G01050,AT4G01480,AT3G53620,AT2G46860",FUN_037599,PPA1-1,PPA,Soluble inorganic pyrophosphatase 1,PEP generation,unknown,,,
+OG0000662,"AT1G01050,AT4G01480,AT3G53620,AT2G46860",FUN_046955,PPA1-2,PPA,Soluble inorganic pyrophosphatase 1,PEP generation,unknown,1.22046544744351e-05,1.0,3.0
+OG0000662,"AT1G01050,AT4G01480,AT3G53620,AT2G46860",FUN_048305,PPA1-3,PPA,Soluble inorganic pyrophosphatase 1,PEP generation,unknown,0.0234964807949902,7.0,8.0
+,,FUN_016990,PPC-1E1b,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,cytoplasm,0.000414314324991631,10.0,6.0
+,,FUN_020790,PPC-1E1a',PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,cytoplasm,6.8123858633338e-31,1.0,6.0
+,,FUN_023805,PPC-2E,PPC,Phosphoenolpyruvate carboxylase 2,Carboxylation,cytoplasm,4.891406051832879e-06,2.0,1.0
+,,FUN_029936,PPC-1E1c,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,cytoplasm,5.254523942308839e-16,5.0,4.0
+,,FUN_046701,PPC-1E2,PPC,Phosphoenolpyruvate carboxylase 1,Carboxylation,cytoplasm,0.00233085476750841,12.0,0.0
+OG0001649,"AT3G04530, AT1G08650",FUN_002684,PPCK1-1,PPCK,Phosphoenolpyruvate carboxylase kinase,PEPC regulation,cytoplasm,0.0011203286096110301,21.0,1.0
+OG0001310,AT4G15530,FUN_004880,PPDK-1,PPDK,"Pyruvate, phosphate dikinase",PEP generation,chloroplast,8.498452534977469e-10,6.0,6.0
+OG0001310,AT4G15530,FUN_020230,PPDK-2,PPDK,"Pyruvate, phosphate dikinase",PEP generation,chloroplast,5.60995785456474e-05,3.0,6.0
+OG0000610,AT3G01550,FUN_002470,PPT2-1,PPT,Phosphoenolpyruvate/phosphate translocator 2,PEP generation,chloroplast,4.985799515899e-07,1.0,5.0
+OG0000610,AT5G33320,FUN_007997,PPT1-1,PPT,Phosphoenolpyruvate/phosphate translocator 1,PEP generation,chloroplast,,,
+OG0000610,AT5G33320,FUN_010801,PPT1-2,PPT,Phosphoenolpyruvate/phosphate translocator 1,PEP generation,chloroplast,1.2710718249734302e-07,1.0,6.0
+OG0000610,AT5G33320,FUN_047387,PPT1-3,PPT,Phosphoenolpyruvate/phosphate translocator 1,PEP generation,chloroplast,1.6155502201240098e-14,32.0,10.0
+OG0009881,AT5G04360,FUN_003999,PU1-1,PU/LDA,Pullulanase/LIMIT DEXTRINASE 1,Starch degradation,chloroplast,0.10298939544883,5.0,4.0
+OG0003982,AT3G54110,FUN_000627,PUMP1-1,PUMP/UCP/DIC,Mitochondrial uncoupling protein 1,Metabolite transport,mitochondria,3.86428985254353e-11,3.0,3.0
+OG0008357,AT2G22500,FUN_025472,PUMP5-1,PUMP/UCP/DIC,Mitochondrial uncoupling protein 5/dicarboxylate carrier 1,Metabolite transport,mitochondria,1.50851078893465e-10,5.0,6.0
+OG0008357,AT2G22500,FUN_031190,PUMP5-2,PUMP/UCP/DIC,Mitochondrial uncoupling protein 5/dicarboxylate carrier 1,Metabolite transport,mitochondria,,,6.0
+OG0003982,AT5G58970,FUN_049094,PUMP2-1,PUMP/UCP/DIC,Mitochondrial uncoupling protein 2,Metabolite transport,mitochondria,0.224047978748242,3.0,6.0
+OG0000480,AT2G07732,FUN_023616,pseudoRBCL-1,RBCL,Putative RBCL pseudogene,Calvin cycle,chloroplast,1.0,31.0,10.0
+OG0000480,ATCG00490,FUN_040753,pseudoRBCL-2,RBCL,Putative RBCL pseudogene,Calvin cycle,chloroplast,0.40285796078977504,31.0,10.0
+OG0001454,"AT5G38430, AT5G38410, AT5G38420, AT1G67090",FUN_016561,RBCS-B-1,RBCS,Ribulose bisphosphate carboxylase small subunit B,Calvin cycle,chloroplast,2.7062233607461003e-10,8.0,6.0
+OG0041418,AT1G67090,FUN_029869,RBCS-1A-1,RBCS,Ribulose bisphosphate carboxylase small subunit A,Calvin cycle,chloroplast,0.00750936442168405,9.0,7.0
+OG0001454,"AT5G38430, AT5G38410, AT5G38420, AT1G67090",FUN_029870,RBCS-B-2,RBCS,Ribulose bisphosphate carboxylase small subunit B,Calvin cycle,chloroplast,1.62813231035969e-07,7.0,0.0
+OG0001454,"AT5G38430, AT5G38410, AT5G38420, AT1G67090",FUN_029880,RBCS-B-3,RBCS,Ribulose bisphosphate carboxylase small subunit B,Calvin cycle,chloroplast,0.0005303481279680001,3.0,0.0
+OG0002912,AT2G39730,FUN_010059,RCA-1,RCA,RuBisCO activase,Calvin cycle,,4.58617520582828e-06,1.0,8.0
+OG0002912,AT2G39730,FUN_030103,RCA-2,RCA,RuBisCO activase,Calvin cycle,,4.19005071238815e-12,3.0,6.0
+OG0003376,"AT4G21210, AT3G01200",FUN_012481,RP1-1,RP,PPDK-regulatory protein 1,PEP generation,chloroplast,2.0276375395834298e-26,3.0,1.0
+OG0003376,"AT4G21210, AT3G01200",FUN_035306,RP1-2,RP,PPDK-regulatory protein 1,PEP generation,chloroplast,0.00381232183436769,3.0,2.0
+OG0001768,"AT5G17300, AT5G37260",FUN_003149,RVE1-1,RVE,REVEILLE 1,Circadian/Light response,,0.10737325592492301,2.0,1.0
+OG0000629,AT5G52660,FUN_009081,RVE6-1,RVE,REVEILLE 6,Circadian/Light response,,0.00188268851057193,3.0,8.0
+OG0000629,AT5G52660,FUN_013787,RVE6-2,RVE,REVEILLE 6,Circadian/Light response,,0.185952983437472,6.0,4.0
+OG0000629,AT5G52660,FUN_037299,RVE6-3,RVE,REVEILLE 6,Circadian/Light response,,0.0022132147403116603,6.0,2.0
+OG0006593,AT3G09600,FUN_039433,RVE8-1,RVE,REVEILLE 8,Circadian/Light response,,0.558936104878662,1.0,5.0
+OG0000629,AT5G52660,FUN_048062,RVE6-4,RVE,REVEILLE 6,Circadian/Light response,,0.0292974651805854,3.0,6.0
+OG0010141,"AT2G36390, AT5G03650",FUN_025653,SBE2-1,SBE,"1,4-alpha-glucan-branching enzyme 2",Starch synthesis,chloroplast,0.000102910416795487,5.0,2.0
+OG0006034,"AT2G36390, AT5G03650",FUN_039138,SBE2-2,SBE,"1,4-alpha-glucan-branching enzyme 2",Starch synthesis,chloroplast,0.0557103300367117,6.0,2.0
+OG0010465,AT3G20440,FUN_044076,SBE3-1,SBE,"1,4-alpha-glucan-branching enzyme 3",Starch synthesis,chloroplast,0.0208297577120848,5.0,4.0
+OG0009048,AT1G50600,FUN_012062,SCL5-1,SCL,Scarecrow-like 5,Circadian/Light response,,0.477018212397339,4.0,3.0
+OG0001872,AT4G17230,FUN_012176,SCL13-1,SCL,Scarecrow-like 13,Circadian/Light response,,8.83915893565754e-08,12.0,3.0
+OG0001872,"AT5G48150, AT2G04890",FUN_046306,SCL21-1,SCL,Scarecrow-like 21,Circadian/Light response,,0.032106188894894,3.0,2.0
+OG0003967,"AT4G13890, AT4G13930",FUN_003498,SHM4-1,SHM,Serine hydroxymethyltransferase 4,Photorespiration,mitochondria,0.736897818305228,3.0,2.0
+OG0010504,AT4G32520,FUN_005187,SHM3-1,SHM,Serine hydroxymethyltransferase 3,Photorespiration,,,,
+OG0010504,AT4G32520,FUN_005188,SHM3-2,SHM,Serine hydroxymethyltransferase 3,Photorespiration,mitochondria,,3.0,5.0
+OG0005225,"AT1G22020, AT1G36370",FUN_010229,SHM6-1,SHM,Serine hydroxymethyltransferase 6,Photorespiration,mitochondria,5.6662194275639894e-05,4.0,5.0
+OG0001750,AT5G26780,FUN_028976,SHM2-1,SHM,Serine hydroxymethyltransferase 2,Photorespiration,mitochondria,8.72581598778319e-08,1.0,4.0
+OG0001750,AT4G37930,FUN_028977,SHM1-1,SHM,Serine hydroxymethyltransferase 1,Photorespiration,mitochondria,1.86063063040466e-06,1.0,0.0
+OG0003967,"AT4G13890, AT4G13930",FUN_034092,SHM4-2,SHM,Serine hydroxymethyltransferase 4,Photorespiration,mitochondria,1.3762749810427302e-11,3.0,2.0
+,AT5G26780,FUN_038106,SHM2-2,SHM,Serine hydroxymethyltransferase 2,Photorespiration,mitochondria,0.161039350760185,17.0,4.0
+OG0001750,AT5G26780,FUN_038563,SHM2-3,SHM,Serine hydroxymethyltransferase 2,Photorespiration,mitochondria,0.00036628993254929197,1.0,5.0
+OG0006105,AT5G24120,FUN_008978,SIGE-1,SIG,RNA polymerase sigma factor E,Circadian/Light response,,1.0,1.0,5.0
+OG0006105,AT5G24120,FUN_013709,SIGE-2,SIG,RNA polymerase sigma factor E,Circadian/Light response,,1.0,1.0,5.0
+OG0009079,AT3G53920,FUN_038198,SIGC-1,SIG,RNA polymerase sigma factor C,Circadian/Light response,,1.4834584285055097e-07,1.0,9.0
+OG0004742,AT1G64860,FUN_044064,SIGA-1,SIG,RNA polymerase sigma factor A,Circadian/Light response,,0.397223207560067,1.0,5.0
+OG0005205,AT1G08540,FUN_053237,SIGB-1,SIG,RNA polymerase sigma factor B,Circadian/Light response,,7.403874074780509e-07,7.0,1.0
+OG0002801,AT4G11110,FUN_041098,SPA2-1,SPA,SUPPRESSOR OF PHYA-RELATED,Circadian/Light response,,,,
+OG0002801,AT4G11110,FUN_041121,SPA2-2,SPA,SUPPRESSOR OF PHYA-RELATED,Circadian/Light response,,0.00321870206781692,6.0,2.0
+OG0002801,AT2G46340,FUN_048122,SPA1-1,SPA,SUPPRESSOR OF PHYA,Circadian/Light response,,0.00213964581607961,1.0,6.0
+OG0008484,AT5G59560,FUN_018851,SRR1-1,SRR,SENSITIVITY TO RED LIGHT REDUCED 1,Circadian/Light response,,0.00225514479677732,3.0,2.0
+OG0003793,AT2G02860,FUN_023241,SUC-1,SUC,Sucrose transport protein,Starch/sugar transport,vacuole,0.000174838465439624,16.0,1.0
+OG0000518,"AT5G43610, AT1G66570, AT1G22710, AT1G09960, AT1G71880, AT5G06170, AT1G71890, AT2G14670",FUN_024265,SUC-2,SUC,Sucrose transport protein,Starch/sugar transport,vacuole,0.00467249488653323,8.0,1.0
+OG0000518,"AT5G43610, AT1G66570, AT1G22710, AT1G09960, AT1G71880, AT5G06170, AT1G71890, AT2G14670",FUN_037840,SUC-3,SUC,Sucrose transport protein,Starch/sugar transport,vacuole,,0.0,6.0
+OG0000518,"AT5G43610, AT1G66570, AT1G22710, AT1G09960, AT1G71880, AT5G06170, AT1G71890, AT2G14670",FUN_037841,SUC-4,SUC,Sucrose transport protein,Starch/sugar transport,vacuole,,,
+OG0000518,"AT5G43610, AT1G66570, AT1G22710, AT1G09960, AT1G71880, AT5G06170, AT1G71890, AT2G14670",FUN_037842,SUC-5,SUC,Sucrose transport protein,Starch/sugar transport,vacuole,6.22294343540974e-17,1.0,2.0
+OG0000518,"AT5G43610, AT1G66570, AT1G22710, AT1G09960, AT1G71880, AT5G06170, AT1G71890, AT2G14670",FUN_048431,SUC-6,SUC,Sucrose transport protein,Starch/sugar transport,vacuole,,,
+OG0000518,"AT5G43610, AT1G66570, AT1G22710, AT1G09960, AT1G71880, AT5G06170, AT1G71890, AT2G14670",FUN_048432,SUC-7,SUC,Sucrose transport protein,Starch/sugar transport,vacuole,0.0067235121235509395,4.0,10.0
+OG0000534,AT5G40260,FUN_004630,SWEET8-1,SWEET,Bidirectional sugar transporter,Starch/sugar transport,,,,
+OG0000198,"AT5G23660, AT3G48740, AT5G50800, AT4G25010",FUN_011381,SWEET11-1,SWEET,Bidirectional sugar transporter,Starch/sugar transport,,1.4017549792548501e-08,5.0,6.0
+OG0000198,"AT5G23660, AT3G48740, AT5G50800, AT4G25010",FUN_011382,SWEET11-2,SWEET,Bidirectional sugar transporter,Starch/sugar transport,,,,
+OG0000198,AT2G39060,FUN_011383,SWEET9-1,SWEET,Bidirectional sugar transporter 9,Starch/sugar transport,,8.43202423905201e-07,15.0,5.0
+OG0007798,AT1G21460,FUN_018762,SWEET1-1,SWEET,Bidirectional sugar transporter 1,Starch/sugar transport,,,,
+OG0013903,,FUN_024672,SWEET13-1,SWEET,Bidirectional sugar transporter 13,Starch/sugar transport,,,,
+OG0013903,,FUN_024673,SWEET13-2,SWEET,Bidirectional sugar transporter 13,Starch/sugar transport,,,,
+OG0013903,,FUN_024676,SWEET13-3,SWEET,Bidirectional sugar transporter 13,Starch/sugar transport,,5.57569554657421e-20,27.0,12.0
+OG0000534,AT5G40260,FUN_026401,SWEET8-2,SWEET,Bidirectional sugar transporter 8,Starch/sugar transport,,,,
+OG0007798,AT1G21460,FUN_026919,SWEET1-2,SWEET,Bidirectional sugar transporter 1,Starch/sugar transport,,,12.0,
+OG0004277,AT3G14770,FUN_034921,SWEET2-1,SWEET,Bidirectional sugar transporter 2,Starch/sugar transport,,6.068324045593879e-09,1.0,5.0
+OG0000198,AT2G39060,FUN_036806,SWEET9-2,SWEET,Bidirectional sugar transporter 9,Starch/sugar transport,,,,
+OG0028631,AT1G21460,FUN_038924,SWEET1-3,SWEET,Bidirectional sugar transporter 1,Starch/sugar transport,,7.03077600794442e-12,12.0,4.0
+OG0000534,"AT5G62850, AT3G28007",FUN_039265,SWEET4-1,SWEET,Bidirectional sugar transporter 4,Starch/sugar transport,,0.000634465609542899,19.0,1.0
+OG0015544,"AT4G10850, AT1G66770",FUN_039993,SWEET6-1,SWEET,Bidirectional sugar transporter 6,Starch/sugar transport,,0.0722613010511478,7.0,6.0
+OG0015544,"AT4G10850, AT1G66770",FUN_039995,SWEET6-2,SWEET,Bidirectional sugar transporter 6,Starch/sugar transport,,,0.0,
+OG0000534,"AT4G10850, AT1G66770",FUN_039998,SWEET6-3,SWEET,Bidirectional sugar transporter 6,Starch/sugar transport,,,1.0,
+OG0013903,,FUN_042852,SWEET13-4,SWEET,Bidirectional sugar transporter 13,Starch/sugar transport,,,,
+OG0000198,AT2G39060,FUN_046971,SWEET9-3,SWEET,Bidirectional sugar transporter 9,Starch/sugar transport,vacuole,6.211461659372321e-10,3.0,6.0
+OG0000198,"AT5G23660, AT3G48740, AT5G50800, AT4G25010",FUN_046974,SWEET11-3,SWEET,Bidirectional sugar transporter 11,Starch/sugar transport,,7.58487400283147e-26,2.0,6.0
+OG0000198,"AT5G23660, AT3G48740, AT5G50800, AT4G25010",FUN_046975,SWEET11-4,SWEET,Bidirectional sugar transporter 11,Starch/sugar transport,,6.28786735954027e-11,5.0,12.0
+OG0000198,"AT5G23660, AT3G48740, AT5G50800, AT4G25010",FUN_046977,SWEET11-5,SWEET,Bidirectional sugar transporter 11,Starch/sugar transport,,7.63064245593142e-10,3.0,5.0
+OG0000198,"AT5G23660, AT3G48740, AT5G50800, AT4G25010",FUN_046978,SWEET11-6,SWEET,Bidirectional sugar transporter 11,Starch/sugar transport,,5.8902706532925406e-05,3.0,6.0
+OG0048187,AT5G62850,FUN_047428,SWEET5-1,SWEET,Bidirectional sugar transporter 5,Starch/sugar transport,,0.0012586296573443801,2.0,1.0
+OG0000198,AT2G39060,FUN_051586,SWEET9-4,SWEET,Bidirectional sugar transporter 9,Starch/sugar transport,,0.0065155422950902795,1.0,6.0
+OG0008399,"AT5G08330, AT5G23280",FUN_000953,TCP7-1,TCP/CHE,Transcription factor TCP 7,Circadian/Light response,,4.27241385291375e-09,3.0,18.0
+OG0002476,"AT1G69690, AT3G47620",FUN_011042,TCP14-1,TCP/CHE,Transcription factor TCP 14,Circadian/Light response,,0.177603435415737,10.0,1.0
+OG0001071,AT3G27010,FUN_011405,TCP20-1,TCP/CHE,Transcription factor TCP 20,Circadian/Light response,,1.4035491678802802e-05,1.0,0.0
+OG0028471,AT3G27010,FUN_020621,TCP20-2,TCP/CHE,Transcription factor TCP 20,Circadian/Light response,,0.00462764359552258,5.0,4.0
+OG0026343,AT3G27010,FUN_031816,TCP20-3,TCP/CHE,Transcription factor TCP 20,Circadian/Light response,,3.21676034867118e-20,5.0,13.0
+OG0036130,AT3G47620,FUN_032527,TCP14-2,TCP/CHE,Transcription factor TCP 14,Circadian/Light response,,6.64863588276038e-07,2.0,1.0
+OG0004641,"AT2G45680, AT5G51910",FUN_040702,TCP14-3,TCP/CHE,Transcription factor TCP 14,Circadian/Light response,,4.33755648659445e-05,1.0,1.0
+OG0001071,AT3G27010,FUN_046944,TCP20-4,TCP/CHE,Transcription factor TCP 20,Circadian/Light response,,1.0,2.0,1.0
+OG0005594,AT5G47560,FUN_012199,TDT-1,TDT,Tonoplast dicarboxylate transporter,Metabolite transport,vacuole,0.0296476774354494,3.0,6.0
+OG0003305,AT3G55440,FUN_030032,CTIMC-1,TIM,"Triosephosphate isomerase, cytosolic",Transitory starch pathway,cytoplasm,0.000377068167584586,3.0,6.0
+OG0010147,AT2G21170,FUN_051875,TIM-1,TIM,"Triosephosphate isomerase, chloroplastic",Transitory starch pathway,chloroplast,5.61255057403921e-12,3.0,2.0
+OG0003357,AT5G46110,FUN_033876,TPT-1,TPT,Triose phosphate/phosphate translocator,Starch/sugar transport,chloroplast,8.23938362889517e-12,3.0,6.0
+OG0003357,AT5G46110,FUN_043261,TPT-2,TPT,Triose phosphate/phosphate translocator,Starch/sugar transport,chloroplast,0.00241610034394706,1.0,8.0
+OG0011158,AT5G63860,FUN_052267,UVR8-1,UVR,Ultraviolet-B receptor,Circadian/Light response,,0.00118482847510395,1.0,5.0
+OG0004864,AT1G78900,FUN_000914,VHA-A-1,VHA,V-type proton ATPase catalytic subunit A,Proton transport,vacuole,0.00307644921645034,4.0,3.0
+OG0007467,"AT3G01390, AT4G23710",FUN_001844,VHA-G-1,VHA,V-type proton ATPase catalytic subunit G,Proton transport,vacuole,0.00650801149911476,29.0,6.0
+OG0002359,"AT2G21410, AT4G39080",FUN_002199,VHA-a2-1,VHA,V-type proton ATPase catalytic subunit a2,Proton transport,vacuole,0.000614944460121139,1.0,1.0
+OG0003367,AT2G28520,FUN_005480,VHA-a1-1,VHA,V-type proton ATPase catalytic subunit a1,Proton transport,vacuole,0.00264918839853609,30.0,1.0
+OG0004864,AT1G78900,FUN_005864,VHA-A-2,VHA,V-type proton ATPase catalytic subunit A,Proton transport,vacuole,0.0054744890636779,6.0,2.0
+OG0009219,AT2G25610,FUN_008415,VHA-c’’2-1,VHA,V-type proton ATPase catalytic subunit c’’2,Proton transport,vacuole,0.0205196151561275,29.0,1.0
+OG0001698,AT3G08560,FUN_012876,VHA-E2-1,VHA,V-type proton ATPase catalytic subunit E2,Proton transport,vacuole,,,2.0
+OG0006127,AT1G12840,FUN_013944,VHA-C-1,VHA,V-type proton ATPase catalytic subunit C,Proton transport,vacuole,0.00256946019857971,1.0,6.0
+OG0002673,AT4G38510,FUN_017804,VHA-B2-1,VHA,V-type proton ATPase catalytic subunit B2,Proton transport,vacuole,0.00264346503192113,3.0,13.0
+OG0001698,"AT1G64200, AT4G11150",FUN_018219,VHA-E1-1,VHA,V-type proton ATPase catalytic subunit E1,Proton transport,vacuole,2.29621594479076e-06,8.0,18.0
+OG0006127,AT1G12840,FUN_022740,VHA-C-2,VHA,V-type proton ATPase catalytic subunit C,Proton transport,vacuole,0.000131542869602547,5.0,12.0
+OG0006558,AT3G58730,FUN_025055,VHA-D-1,VHA,V-type proton ATPase catalytic subunit D,Proton transport,vacuole,0.00567040039147637,15.0,5.0
+OG0003913,"AT3G28710, AT3G28715",FUN_030915,VHA-d-1,VHA,V-type proton ATPase catalytic subunit d,Proton transport,vacuole,3.6155226600798294e-05,8.0,5.0
+OG0005190,AT3G42050,FUN_036241,VHA-H-1,VHA,V-type proton ATPase catalytic subunit H,Proton transport,vacuole,0.023256547782610004,1.0,1.0
+OG0000819,"AT4G38920, AT1G19910, AT2G16510, AT4G34720",FUN_038546,VHA-c-1,VHA,V-type proton ATPase catalytic subunit c,Proton transport,vacuole,2.9318166338669e-06,8.0,17.0
+OG0001698,"AT1G64200, AT4G11150",FUN_041054,VHA-E1-2,VHA,V-type proton ATPase catalytic subunit E1,Proton transport,vacuole,0.00017529531571567198,2.0,1.0
+OG0002673,AT4G38510,FUN_041791,VHA-B2-2,VHA,V-type proton ATPase catalytic subunit B2,Proton transport,vacuole,0.0007983320225404231,23.0,5.0
+OG0000619,"AT3G01390, AT4G23710",FUN_048364,VHA-G-2,VHA,V-type proton ATPase catalytic subunit G,Proton transport,,,,
+OG0018542,"AT3G01390, AT4G23710",FUN_048366,VHA-G-3,VHA,V-type proton ATPase catalytic subunit G,Proton transport,vacuole,,,
+OG0002359,"AT2G21410, AT4G39080",FUN_049767,VHA-a2-2,VHA,V-type proton ATPase catalytic subunit a2,Proton transport,vacuole,2.0596511952082898e-07,20.0,1.0
+OG0000819,"AT4G38920, AT1G19910, AT2G16510, AT4G34720",FUN_049818,VHA-c-2,VHA,V-type proton ATPase catalytic subunit c,Proton transport,vacuole,0.324768362672185,15.0,7.0
+OG0000819,"AT4G38920, AT1G19910, AT2G16510, AT4G34720",FUN_049819,VHA-c-3,VHA,V-type proton ATPase catalytic subunit c,Proton transport,vacuole,0.00449357986729495,8.0,7.0
+OG0002359,"AT2G21410, AT4G39080",FUN_050612,VHA-a2-3,VHA,V-type proton ATPase catalytic subunit a2,Proton transport,vacuole,0.0265341869161913,2.0,13.0
+OG0000819,"AT4G38920, AT1G19910, AT2G16510, AT4G34720",FUN_050746,VHA-c-4,VHA,V-type proton ATPase catalytic subunit c,Proton transport,vacuole,0.0232335871211758,1.0,5.0
+OG0006235,AT4G02620,FUN_050845,VHA-F-1,VHA,V-type proton ATPase catalytic subunit F,Proton transport,vacuole,2.16361444683384e-06,1.0,8.0
+OG0005190,AT3G42050,FUN_052554,VHA-H-2,VHA,V-type proton ATPase catalytic subunit H,Proton transport,vacuole,1.32303690488279e-05,3.0,5.0
+OG0015365,AT5G17630,FUN_047817,XPT-1,XPT,Xylulose 5-phosphate/phosphate translocator,Starch/sugar transport,chloroplast,0.576248101026019,6.0,2.0
